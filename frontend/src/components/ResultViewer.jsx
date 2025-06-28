@@ -9,8 +9,8 @@ export default function ResultViewer() {
   const [error, setError] = useState("");
 
   useEffect(() => {
-    axios
-      .get(`http://localhost:8080/analyze/${id}`)
+    axios.get(`https://youtube-videoanalyzer-production.up.railway.app/analyze/${id}`)
+
       .then((res) => {
         setResult(res.data);
         setLoading(false);

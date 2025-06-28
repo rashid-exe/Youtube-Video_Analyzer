@@ -14,7 +14,11 @@ export default function AnalyzeForm() {
     setError("");
     setResultId(null);
     try {
-      const res = await axios.post("http://localhost:8080/analyze", { url });
+     const res = await axios.post(
+  "https://youtube-videoanalyzer-production.up.railway.app/analyze",
+  { url }
+);
+
       setResultId(res.data.id);
     } catch (err) {
       setError("Something went wrong!");
