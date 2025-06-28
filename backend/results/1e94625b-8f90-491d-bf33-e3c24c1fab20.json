@@ -1,0 +1,41 @@
+{
+  "id": "1e94625b-8f90-491d-bf33-e3c24c1fab20",
+  "screenshotPath": "screenshots/1e94625b-8f90-491d-bf33-e3c24c1fab20.png",
+  "transcript": [
+    {
+      "text": "Sam",
+      "start": 0.24,
+      "end": 13.92,
+      "speaker": "A",
+      "ai_probability": "0.51"
+    },
+    {
+      "text": "sak",
+      "start": 32.14,
+      "end": 32.46,
+      "speaker": "A",
+      "ai_probability": "0.44"
+    },
+    {
+      "text": "krishna",
+      "start": 63.88,
+      "end": 64.6,
+      "speaker": "A",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "sam",
+      "start": 95.86,
+      "end": 104.34,
+      "speaker": "A",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "met.",
+      "start": 160.22,
+      "end": 160.46,
+      "speaker": "A",
+      "ai_probability": "0.62"
+    }
+  ]
+}

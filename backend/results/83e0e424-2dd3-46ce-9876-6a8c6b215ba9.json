@@ -1,0 +1,9127 @@
+{
+  "id": "83e0e424-2dd3-46ce-9876-6a8c6b215ba9",
+  "screenshotPath": "screenshots/83e0e424-2dd3-46ce-9876-6a8c6b215ba9.png",
+  "transcript": [
+    {
+      "text": "So",
+      "start": 6.56,
+      "end": 6.64,
+      "speaker": "A",
+      "ai_probability": "0.81"
+    },
+    {
+      "text": "what",
+      "start": 6.64,
+      "end": 6.88,
+      "speaker": "A",
+      "ai_probability": "0.25"
+    },
+    {
+      "text": "advice",
+      "start": 6.88,
+      "end": 7.28,
+      "speaker": "A",
+      "ai_probability": "0.37"
+    },
+    {
+      "text": "do",
+      "start": 7.28,
+      "end": 7.48,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "I",
+      "start": 7.48,
+      "end": 7.6,
+      "speaker": "A",
+      "ai_probability": "0.89"
+    },
+    {
+      "text": "have",
+      "start": 7.6,
+      "end": 7.72,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "for",
+      "start": 7.72,
+      "end": 7.92,
+      "speaker": "A",
+      "ai_probability": "0.07"
+    },
+    {
+      "text": "college",
+      "start": 7.92,
+      "end": 8.28,
+      "speaker": "A",
+      "ai_probability": "0.21"
+    },
+    {
+      "text": "graduates?",
+      "start": 8.28,
+      "end": 8.8,
+      "speaker": "A",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "Certainly",
+      "start": 9.28,
+      "end": 9.8,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "I'd",
+      "start": 9.8,
+      "end": 10.04,
+      "speaker": "A",
+      "ai_probability": "0.63"
+    },
+    {
+      "text": "invite",
+      "start": 10.04,
+      "end": 10.28,
+      "speaker": "A",
+      "ai_probability": "0.75"
+    },
+    {
+      "text": "you",
+      "start": 10.28,
+      "end": 10.44,
+      "speaker": "A",
+      "ai_probability": "0.50"
+    },
+    {
+      "text": "to",
+      "start": 10.44,
+      "end": 10.72,
+      "speaker": "A",
+      "ai_probability": "0.75"
+    },
+    {
+      "text": "apply",
+      "start": 10.88,
+      "end": 11.28,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "for",
+      "start": 11.28,
+      "end": 11.44,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "a",
+      "start": 11.44,
+      "end": 11.56,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "job",
+      "start": 11.56,
+      "end": 11.84,
+      "speaker": "A",
+      "ai_probability": "0.81"
+    },
+    {
+      "text": "at",
+      "start": 11.92,
+      "end": 12.32,
+      "speaker": "A",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "SolarCity",
+      "start": 12.64,
+      "end": 13.32,
+      "speaker": "A",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "or",
+      "start": 13.32,
+      "end": 13.48,
+      "speaker": "A",
+      "ai_probability": "0.01"
+    },
+    {
+      "text": "Tesla",
+      "start": 13.48,
+      "end": 13.88,
+      "speaker": "A",
+      "ai_probability": "0.04"
+    },
+    {
+      "text": "or",
+      "start": 13.88,
+      "end": 14.12,
+      "speaker": "A",
+      "ai_probability": "0.12"
+    },
+    {
+      "text": "SpaceX",
+      "start": 14.12,
+      "end": 14.8,
+      "speaker": "A",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "and",
+      "start": 16,
+      "end": 16.399,
+      "speaker": "A",
+      "ai_probability": "0.03"
+    },
+    {
+      "text": "if",
+      "start": 17.2,
+      "end": 17.52,
+      "speaker": "A",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "not,",
+      "start": 17.52,
+      "end": 17.8,
+      "speaker": "A",
+      "ai_probability": "0.05"
+    },
+    {
+      "text": "then",
+      "start": 17.8,
+      "end": 18.16,
+      "speaker": "A",
+      "ai_probability": "0.86"
+    },
+    {
+      "text": "if",
+      "start": 19.36,
+      "end": 19.64,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "that",
+      "start": 19.64,
+      "end": 19.8,
+      "speaker": "A",
+      "ai_probability": "0.00"
+    },
+    {
+      "text": "doesn't",
+      "start": 19.8,
+      "end": 20,
+      "speaker": "A",
+      "ai_probability": "0.12"
+    },
+    {
+      "text": "work",
+      "start": 20,
+      "end": 20.12,
+      "speaker": "A",
+      "ai_probability": "0.99"
+    },
+    {
+      "text": "for",
+      "start": 20.12,
+      "end": 20.28,
+      "speaker": "A",
+      "ai_probability": "0.76"
+    },
+    {
+      "text": "whatever",
+      "start": 20.28,
+      "end": 20.52,
+      "speaker": "A",
+      "ai_probability": "0.04"
+    },
+    {
+      "text": "reason,",
+      "start": 20.52,
+      "end": 20.76,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "then",
+      "start": 20.76,
+      "end": 21.12,
+      "speaker": "A",
+      "ai_probability": "0.21"
+    },
+    {
+      "text": "apply",
+      "start": 22.16,
+      "end": 22.6,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "to",
+      "start": 22.6,
+      "end": 22.76,
+      "speaker": "A",
+      "ai_probability": "0.01"
+    },
+    {
+      "text": "jobs",
+      "start": 22.76,
+      "end": 23.08,
+      "speaker": "A",
+      "ai_probability": "0.22"
+    },
+    {
+      "text": "at",
+      "start": 23.08,
+      "end": 23.28,
+      "speaker": "A",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "other",
+      "start": 23.28,
+      "end": 23.48,
+      "speaker": "A",
+      "ai_probability": "0.56"
+    },
+    {
+      "text": "companies",
+      "start": 23.48,
+      "end": 23.72,
+      "speaker": "A",
+      "ai_probability": "0.70"
+    },
+    {
+      "text": "in",
+      "start": 23.72,
+      "end": 23.92,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "that",
+      "start": 23.92,
+      "end": 24.08,
+      "speaker": "A",
+      "ai_probability": "0.90"
+    },
+    {
+      "text": "arena",
+      "start": 24.08,
+      "end": 24.48,
+      "speaker": "A",
+      "ai_probability": "0.53"
+    },
+    {
+      "text": "or",
+      "start": 24.48,
+      "end": 24.8,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "try",
+      "start": 25.6,
+      "end": 25.92,
+      "speaker": "A",
+      "ai_probability": "0.94"
+    },
+    {
+      "text": "starting",
+      "start": 25.92,
+      "end": 26.36,
+      "speaker": "A",
+      "ai_probability": "0.35"
+    },
+    {
+      "text": "a",
+      "start": 26.36,
+      "end": 26.64,
+      "speaker": "A",
+      "ai_probability": "0.90"
+    },
+    {
+      "text": "company.",
+      "start": 26.64,
+      "end": 26.96,
+      "speaker": "A",
+      "ai_probability": "0.25"
+    },
+    {
+      "text": "If",
+      "start": 30.72,
+      "end": 31,
+      "speaker": "A",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "you",
+      "start": 31,
+      "end": 31.16,
+      "speaker": "A",
+      "ai_probability": "0.38"
+    },
+    {
+      "text": "study",
+      "start": 31.16,
+      "end": 31.36,
+      "speaker": "A",
+      "ai_probability": "0.86"
+    },
+    {
+      "text": "engineering",
+      "start": 31.36,
+      "end": 31.84,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "and",
+      "start": 31.98,
+      "end": 32.14,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "you",
+      "start": 32.14,
+      "end": 32.38,
+      "speaker": "A",
+      "ai_probability": "0.39"
+    },
+    {
+      "text": "figure",
+      "start": 32.38,
+      "end": 32.66,
+      "speaker": "A",
+      "ai_probability": "0.18"
+    },
+    {
+      "text": "out",
+      "start": 32.66,
+      "end": 32.82,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "how",
+      "start": 32.82,
+      "end": 32.98,
+      "speaker": "A",
+      "ai_probability": "0.74"
+    },
+    {
+      "text": "to",
+      "start": 32.98,
+      "end": 33.14,
+      "speaker": "A",
+      "ai_probability": "0.33"
+    },
+    {
+      "text": "design",
+      "start": 33.14,
+      "end": 33.42,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "new",
+      "start": 33.42,
+      "end": 33.74,
+      "speaker": "A",
+      "ai_probability": "0.08"
+    },
+    {
+      "text": "things,",
+      "start": 33.74,
+      "end": 34.06,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "then",
+      "start": 35.02,
+      "end": 35.42,
+      "speaker": "A",
+      "ai_probability": "0.19"
+    },
+    {
+      "text": "it's",
+      "start": 35.98,
+      "end": 36.3,
+      "speaker": "A",
+      "ai_probability": "0.37"
+    },
+    {
+      "text": "relatively",
+      "start": 36.3,
+      "end": 36.74,
+      "speaker": "A",
+      "ai_probability": "0.64"
+    },
+    {
+      "text": "easy",
+      "start": 36.74,
+      "end": 37.06,
+      "speaker": "A",
+      "ai_probability": "0.70"
+    },
+    {
+      "text": "to",
+      "start": 37.06,
+      "end": 37.18,
+      "speaker": "A",
+      "ai_probability": "0.44"
+    },
+    {
+      "text": "start",
+      "start": 37.18,
+      "end": 37.34,
+      "speaker": "A",
+      "ai_probability": "0.81"
+    },
+    {
+      "text": "a",
+      "start": 37.34,
+      "end": 37.54,
+      "speaker": "A",
+      "ai_probability": "0.79"
+    },
+    {
+      "text": "company.",
+      "start": 37.54,
+      "end": 37.82,
+      "speaker": "A",
+      "ai_probability": "0.84"
+    },
+    {
+      "text": "You",
+      "start": 38.86,
+      "end": 39.14,
+      "speaker": "A",
+      "ai_probability": "0.27"
+    },
+    {
+      "text": "just",
+      "start": 39.14,
+      "end": 39.3,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "need",
+      "start": 39.3,
+      "end": 39.46,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "to",
+      "start": 39.46,
+      "end": 39.58,
+      "speaker": "A",
+      "ai_probability": "0.10"
+    },
+    {
+      "text": "get",
+      "start": 39.58,
+      "end": 39.7,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "a",
+      "start": 39.7,
+      "end": 39.86,
+      "speaker": "A",
+      "ai_probability": "0.45"
+    },
+    {
+      "text": "few",
+      "start": 39.86,
+      "end": 40.02,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "like",
+      "start": 40.02,
+      "end": 40.26,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "minded",
+      "start": 40.26,
+      "end": 40.66,
+      "speaker": "A",
+      "ai_probability": "0.26"
+    },
+    {
+      "text": "people",
+      "start": 40.66,
+      "end": 40.94,
+      "speaker": "A",
+      "ai_probability": "0.87"
+    },
+    {
+      "text": "with",
+      "start": 41.58,
+      "end": 41.94,
+      "speaker": "A",
+      "ai_probability": "0.92"
+    },
+    {
+      "text": "you.",
+      "start": 41.94,
+      "end": 42.3,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "Although",
+      "start": 42.62,
+      "end": 43.06,
+      "speaker": "A",
+      "ai_probability": "0.00"
+    },
+    {
+      "text": "I",
+      "start": 43.06,
+      "end": 43.3,
+      "speaker": "A",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "have",
+      "start": 43.3,
+      "end": 43.42,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "to",
+      "start": 43.42,
+      "end": 43.54,
+      "speaker": "A",
+      "ai_probability": "0.63"
+    },
+    {
+      "text": "say",
+      "start": 43.54,
+      "end": 43.66,
+      "speaker": "A",
+      "ai_probability": "0.62"
+    },
+    {
+      "text": "that",
+      "start": 43.66,
+      "end": 43.86,
+      "speaker": "A",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "the",
+      "start": 43.86,
+      "end": 44.1,
+      "speaker": "A",
+      "ai_probability": "1.00"
+    },
+    {
+      "text": "space",
+      "start": 44.1,
+      "end": 44.3,
+      "speaker": "A",
+      "ai_probability": "0.08"
+    },
+    {
+      "text": "business",
+      "start": 44.3,
+      "end": 44.62,
+      "speaker": "A",
+      "ai_probability": "0.21"
+    },
+    {
+      "text": "is",
+      "start": 45.42,
+      "end": 45.74,
+      "speaker": "A",
+      "ai_probability": "0.87"
+    },
+    {
+      "text": "quite",
+      "start": 45.74,
+      "end": 45.98,
+      "speaker": "A",
+      "ai_probability": "0.66"
+    },
+    {
+      "text": "hard",
+      "start": 45.98,
+      "end": 46.1,
+      "speaker": "A",
+      "ai_probability": "0.66"
+    },
+    {
+      "text": "to",
+      "start": 46.1,
+      "end": 46.26,
+      "speaker": "A",
+      "ai_probability": "0.65"
+    },
+    {
+      "text": "start",
+      "start": 46.26,
+      "end": 46.42,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "a",
+      "start": 46.42,
+      "end": 46.54,
+      "speaker": "A",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "company",
+      "start": 46.54,
+      "end": 46.7,
+      "speaker": "A",
+      "ai_probability": "0.38"
+    },
+    {
+      "text": "in",
+      "start": 46.7,
+      "end": 46.86,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "the",
+      "start": 46.86,
+      "end": 46.98,
+      "speaker": "A",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "space",
+      "start": 46.98,
+      "end": 47.18,
+      "speaker": "A",
+      "ai_probability": "0.38"
+    },
+    {
+      "text": "business",
+      "start": 47.18,
+      "end": 47.46,
+      "speaker": "A",
+      "ai_probability": "0.83"
+    },
+    {
+      "text": "because",
+      "start": 47.46,
+      "end": 47.819,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "it's",
+      "start": 47.819,
+      "end": 48.259,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "such",
+      "start": 48.259,
+      "end": 48.5,
+      "speaker": "A",
+      "ai_probability": "0.30"
+    },
+    {
+      "text": "a",
+      "start": 48.5,
+      "end": 48.66,
+      "speaker": "A",
+      "ai_probability": "0.07"
+    },
+    {
+      "text": "capital",
+      "start": 48.66,
+      "end": 48.9,
+      "speaker": "A",
+      "ai_probability": "0.18"
+    },
+    {
+      "text": "intensive",
+      "start": 48.9,
+      "end": 49.38,
+      "speaker": "A",
+      "ai_probability": "0.17"
+    },
+    {
+      "text": "business.",
+      "start": 49.38,
+      "end": 49.74,
+      "speaker": "A",
+      "ai_probability": "0.84"
+    },
+    {
+      "text": "So",
+      "start": 49.98,
+      "end": 50.38,
+      "speaker": "A",
+      "ai_probability": "0.08"
+    },
+    {
+      "text": "it",
+      "start": 50.54,
+      "end": 50.82,
+      "speaker": "A",
+      "ai_probability": "0.63"
+    },
+    {
+      "text": "may",
+      "start": 50.82,
+      "end": 50.98,
+      "speaker": "A",
+      "ai_probability": "0.07"
+    },
+    {
+      "text": "be",
+      "start": 50.98,
+      "end": 51.14,
+      "speaker": "A",
+      "ai_probability": "0.68"
+    },
+    {
+      "text": "better",
+      "start": 51.14,
+      "end": 51.38,
+      "speaker": "A",
+      "ai_probability": "0.99"
+    },
+    {
+      "text": "to",
+      "start": 51.38,
+      "end": 51.62,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "do",
+      "start": 51.62,
+      "end": 51.78,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "something",
+      "start": 51.78,
+      "end": 52.06,
+      "speaker": "A",
+      "ai_probability": "0.84"
+    },
+    {
+      "text": "in",
+      "start": 52.22,
+      "end": 52.62,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "solar",
+      "start": 53.42,
+      "end": 53.9,
+      "speaker": "A",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "power",
+      "start": 53.9,
+      "end": 54.22,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "or",
+      "start": 54.62,
+      "end": 55.02,
+      "speaker": "A",
+      "ai_probability": "0.75"
+    },
+    {
+      "text": "if",
+      "start": 55.02,
+      "end": 55.3,
+      "speaker": "A",
+      "ai_probability": "0.94"
+    },
+    {
+      "text": "you're",
+      "start": 55.3,
+      "end": 55.5,
+      "speaker": "A",
+      "ai_probability": "0.62"
+    },
+    {
+      "text": "going",
+      "start": 55.5,
+      "end": 55.54,
+      "speaker": "A",
+      "ai_probability": "0.27"
+    },
+    {
+      "text": "to",
+      "start": 55.54,
+      "end": 55.58,
+      "speaker": "A",
+      "ai_probability": "0.58"
+    },
+    {
+      "text": "do",
+      "start": 55.58,
+      "end": 55.66,
+      "speaker": "A",
+      "ai_probability": "0.42"
+    },
+    {
+      "text": "it",
+      "start": 55.66,
+      "end": 55.78,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "in",
+      "start": 55.78,
+      "end": 55.94,
+      "speaker": "A",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "cars,",
+      "start": 55.94,
+      "end": 56.3,
+      "speaker": "A",
+      "ai_probability": "0.40"
+    },
+    {
+      "text": "do",
+      "start": 56.3,
+      "end": 56.5,
+      "speaker": "A",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "it",
+      "start": 56.5,
+      "end": 56.78,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "as",
+      "start": 56.78,
+      "end": 57.14,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "kind",
+      "start": 57.14,
+      "end": 57.34,
+      "speaker": "A",
+      "ai_probability": "0.74"
+    },
+    {
+      "text": "of",
+      "start": 57.34,
+      "end": 57.46,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "a",
+      "start": 57.46,
+      "end": 57.74,
+      "speaker": "A",
+      "ai_probability": "0.29"
+    },
+    {
+      "text": "component",
+      "start": 58.06,
+      "end": 58.7,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "supplier",
+      "start": 58.7,
+      "end": 59.26,
+      "speaker": "A",
+      "ai_probability": "0.55"
+    },
+    {
+      "text": "for",
+      "start": 59.26,
+      "end": 59.54,
+      "speaker": "A",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "cars",
+      "start": 59.54,
+      "end": 59.86,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "or",
+      "start": 59.86,
+      "end": 59.98,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "something",
+      "start": 59.98,
+      "end": 60.18,
+      "speaker": "A",
+      "ai_probability": "0.84"
+    },
+    {
+      "text": "like",
+      "start": 60.18,
+      "end": 60.38,
+      "speaker": "A",
+      "ai_probability": "0.79"
+    },
+    {
+      "text": "that.",
+      "start": 60.38,
+      "end": 60.62,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "Musk",
+      "start": 61.18,
+      "end": 61.66,
+      "speaker": "B",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "has",
+      "start": 61.66,
+      "end": 61.9,
+      "speaker": "B",
+      "ai_probability": "0.28"
+    },
+    {
+      "text": "college",
+      "start": 61.9,
+      "end": 62.34,
+      "speaker": "B",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "degrees",
+      "start": 62.34,
+      "end": 62.82,
+      "speaker": "B",
+      "ai_probability": "0.86"
+    },
+    {
+      "text": "in",
+      "start": 62.82,
+      "end": 63.1,
+      "speaker": "B",
+      "ai_probability": "0.90"
+    },
+    {
+      "text": "business",
+      "start": 63.1,
+      "end": 63.42,
+      "speaker": "B",
+      "ai_probability": "0.85"
+    },
+    {
+      "text": "physics,",
+      "start": 64.04,
+      "end": 64.44,
+      "speaker": "B",
+      "ai_probability": "0.55"
+    },
+    {
+      "text": "but",
+      "start": 64.68,
+      "end": 65,
+      "speaker": "B",
+      "ai_probability": "0.03"
+    },
+    {
+      "text": "SpaceX",
+      "start": 65,
+      "end": 65.6,
+      "speaker": "B",
+      "ai_probability": "0.79"
+    },
+    {
+      "text": "is",
+      "start": 65.6,
+      "end": 65.88,
+      "speaker": "B",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "his",
+      "start": 65.88,
+      "end": 66.16,
+      "speaker": "B",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "first",
+      "start": 66.16,
+      "end": 66.48,
+      "speaker": "B",
+      "ai_probability": "0.63"
+    },
+    {
+      "text": "venture",
+      "start": 66.48,
+      "end": 66.96,
+      "speaker": "B",
+      "ai_probability": "0.17"
+    },
+    {
+      "text": "in",
+      "start": 66.96,
+      "end": 67.16,
+      "speaker": "B",
+      "ai_probability": "0.66"
+    },
+    {
+      "text": "aerospace.",
+      "start": 67.16,
+      "end": 67.96,
+      "speaker": "B",
+      "ai_probability": "0.49"
+    },
+    {
+      "text": "How",
+      "start": 68.2,
+      "end": 68.48,
+      "speaker": "B",
+      "ai_probability": "0.64"
+    },
+    {
+      "text": "did",
+      "start": 68.48,
+      "end": 68.68,
+      "speaker": "B",
+      "ai_probability": "0.12"
+    },
+    {
+      "text": "you",
+      "start": 68.68,
+      "end": 68.88,
+      "speaker": "B",
+      "ai_probability": "0.37"
+    },
+    {
+      "text": "get",
+      "start": 68.88,
+      "end": 69.08,
+      "speaker": "B",
+      "ai_probability": "0.28"
+    },
+    {
+      "text": "the",
+      "start": 69.08,
+      "end": 69.28,
+      "speaker": "B",
+      "ai_probability": "0.56"
+    },
+    {
+      "text": "expertise",
+      "start": 69.28,
+      "end": 69.8,
+      "speaker": "B",
+      "ai_probability": "0.67"
+    },
+    {
+      "text": "to",
+      "start": 69.8,
+      "end": 70,
+      "speaker": "B",
+      "ai_probability": "0.05"
+    },
+    {
+      "text": "be",
+      "start": 70,
+      "end": 70.2,
+      "speaker": "B",
+      "ai_probability": "1.00"
+    },
+    {
+      "text": "the",
+      "start": 70.2,
+      "end": 70.48,
+      "speaker": "B",
+      "ai_probability": "0.76"
+    },
+    {
+      "text": "chief",
+      "start": 70.48,
+      "end": 70.8,
+      "speaker": "B",
+      "ai_probability": "0.58"
+    },
+    {
+      "text": "technology",
+      "start": 70.8,
+      "end": 71.16,
+      "speaker": "B",
+      "ai_probability": "0.60"
+    },
+    {
+      "text": "officer",
+      "start": 71.4,
+      "end": 72,
+      "speaker": "B",
+      "ai_probability": "0.35"
+    },
+    {
+      "text": "of",
+      "start": 72,
+      "end": 72.16,
+      "speaker": "B",
+      "ai_probability": "0.37"
+    },
+    {
+      "text": "a",
+      "start": 72.16,
+      "end": 72.28,
+      "speaker": "B",
+      "ai_probability": "0.87"
+    },
+    {
+      "text": "rocket",
+      "start": 72.28,
+      "end": 72.56,
+      "speaker": "B",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "ship",
+      "start": 72.56,
+      "end": 72.84,
+      "speaker": "B",
+      "ai_probability": "0.95"
+    },
+    {
+      "text": "company?",
+      "start": 72.84,
+      "end": 73.16,
+      "speaker": "B",
+      "ai_probability": "0.75"
+    },
+    {
+      "text": "Well,",
+      "start": 74.28,
+      "end": 74.68,
+      "speaker": "A",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "I",
+      "start": 74.84,
+      "end": 75.12,
+      "speaker": "A",
+      "ai_probability": "0.15"
+    },
+    {
+      "text": "do",
+      "start": 75.12,
+      "end": 75.28,
+      "speaker": "A",
+      "ai_probability": "0.66"
+    },
+    {
+      "text": "have",
+      "start": 75.28,
+      "end": 75.44,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "a",
+      "start": 75.44,
+      "end": 75.6,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "physics",
+      "start": 75.6,
+      "end": 75.96,
+      "speaker": "A",
+      "ai_probability": "0.79"
+    },
+    {
+      "text": "background",
+      "start": 75.96,
+      "end": 76.32,
+      "speaker": "A",
+      "ai_probability": "0.34"
+    },
+    {
+      "text": "that's",
+      "start": 76.32,
+      "end": 76.6,
+      "speaker": "A",
+      "ai_probability": "0.76"
+    },
+    {
+      "text": "helpful",
+      "start": 76.6,
+      "end": 76.88,
+      "speaker": "A",
+      "ai_probability": "0.95"
+    },
+    {
+      "text": "as",
+      "start": 76.88,
+      "end": 77.04,
+      "speaker": "A",
+      "ai_probability": "0.76"
+    },
+    {
+      "text": "a",
+      "start": 77.04,
+      "end": 77.2,
+      "speaker": "A",
+      "ai_probability": "0.45"
+    },
+    {
+      "text": "foundation.",
+      "start": 77.2,
+      "end": 77.72,
+      "speaker": "A",
+      "ai_probability": "0.12"
+    },
+    {
+      "text": "And",
+      "start": 78.6,
+      "end": 78.88,
+      "speaker": "A",
+      "ai_probability": "0.75"
+    },
+    {
+      "text": "then",
+      "start": 78.88,
+      "end": 79.04,
+      "speaker": "A",
+      "ai_probability": "0.89"
+    },
+    {
+      "text": "I",
+      "start": 79.04,
+      "end": 79.2,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "read",
+      "start": 79.2,
+      "end": 79.32,
+      "speaker": "A",
+      "ai_probability": "0.39"
+    },
+    {
+      "text": "a",
+      "start": 79.32,
+      "end": 79.4,
+      "speaker": "A",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "lot",
+      "start": 79.4,
+      "end": 79.48,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "of",
+      "start": 79.48,
+      "end": 79.56,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "books",
+      "start": 79.56,
+      "end": 79.799,
+      "speaker": "A",
+      "ai_probability": "0.25"
+    },
+    {
+      "text": "and",
+      "start": 79.799,
+      "end": 79.999,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "talked",
+      "start": 79.999,
+      "end": 80.2,
+      "speaker": "A",
+      "ai_probability": "0.22"
+    },
+    {
+      "text": "to",
+      "start": 80.2,
+      "end": 80.32,
+      "speaker": "A",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "a",
+      "start": 80.32,
+      "end": 80.44,
+      "speaker": "A",
+      "ai_probability": "0.64"
+    },
+    {
+      "text": "lot",
+      "start": 80.44,
+      "end": 80.52,
+      "speaker": "A",
+      "ai_probability": "0.32"
+    },
+    {
+      "text": "of",
+      "start": 80.52,
+      "end": 80.76,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "smart",
+      "start": 81.32,
+      "end": 81.76,
+      "speaker": "A",
+      "ai_probability": "0.64"
+    },
+    {
+      "text": "people.",
+      "start": 81.76,
+      "end": 82.04,
+      "speaker": "A",
+      "ai_probability": "0.53"
+    },
+    {
+      "text": "Don't",
+      "start": 82.52,
+      "end": 82.84,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "just",
+      "start": 82.84,
+      "end": 82.96,
+      "speaker": "A",
+      "ai_probability": "0.53"
+    },
+    {
+      "text": "follow",
+      "start": 82.96,
+      "end": 83.16,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "the",
+      "start": 83.16,
+      "end": 83.36,
+      "speaker": "A",
+      "ai_probability": "0.86"
+    },
+    {
+      "text": "trend.",
+      "start": 83.36,
+      "end": 83.72,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "You",
+      "start": 83.72,
+      "end": 83.96,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "may",
+      "start": 83.96,
+      "end": 84.08,
+      "speaker": "A",
+      "ai_probability": "0.26"
+    },
+    {
+      "text": "have",
+      "start": 84.08,
+      "end": 84.2,
+      "speaker": "A",
+      "ai_probability": "0.76"
+    },
+    {
+      "text": "heard",
+      "start": 84.2,
+      "end": 84.36,
+      "speaker": "A",
+      "ai_probability": "0.90"
+    },
+    {
+      "text": "me",
+      "start": 84.36,
+      "end": 84.48,
+      "speaker": "A",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "say",
+      "start": 84.48,
+      "end": 84.76,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "that",
+      "start": 85.16,
+      "end": 85.44,
+      "speaker": "A",
+      "ai_probability": "0.96"
+    },
+    {
+      "text": "it's",
+      "start": 85.44,
+      "end": 85.64,
+      "speaker": "A",
+      "ai_probability": "0.91"
+    },
+    {
+      "text": "good",
+      "start": 85.64,
+      "end": 85.76,
+      "speaker": "A",
+      "ai_probability": "0.19"
+    },
+    {
+      "text": "to",
+      "start": 85.76,
+      "end": 85.88,
+      "speaker": "A",
+      "ai_probability": "0.87"
+    },
+    {
+      "text": "think",
+      "start": 85.88,
+      "end": 86.04,
+      "speaker": "A",
+      "ai_probability": "0.01"
+    },
+    {
+      "text": "in",
+      "start": 86.04,
+      "end": 86.2,
+      "speaker": "A",
+      "ai_probability": "0.47"
+    },
+    {
+      "text": "terms",
+      "start": 86.2,
+      "end": 86.36,
+      "speaker": "A",
+      "ai_probability": "0.53"
+    },
+    {
+      "text": "of",
+      "start": 86.36,
+      "end": 86.68,
+      "speaker": "A",
+      "ai_probability": "0.86"
+    },
+    {
+      "text": "the",
+      "start": 87.16,
+      "end": 87.44,
+      "speaker": "A",
+      "ai_probability": "0.75"
+    },
+    {
+      "text": "physics",
+      "start": 87.44,
+      "end": 87.8,
+      "speaker": "A",
+      "ai_probability": "0.34"
+    },
+    {
+      "text": "approach",
+      "start": 87.8,
+      "end": 88.08,
+      "speaker": "A",
+      "ai_probability": "0.19"
+    },
+    {
+      "text": "of",
+      "start": 88.08,
+      "end": 88.32,
+      "speaker": "A",
+      "ai_probability": "0.47"
+    },
+    {
+      "text": "first",
+      "start": 88.32,
+      "end": 88.56,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "principles,",
+      "start": 88.56,
+      "end": 89.16,
+      "speaker": "A",
+      "ai_probability": "0.68"
+    },
+    {
+      "text": "which",
+      "start": 89.72,
+      "end": 90.04,
+      "speaker": "A",
+      "ai_probability": "0.42"
+    },
+    {
+      "text": "is",
+      "start": 90.04,
+      "end": 90.36,
+      "speaker": "A",
+      "ai_probability": "0.42"
+    },
+    {
+      "text": "rather",
+      "start": 91,
+      "end": 91.36,
+      "speaker": "A",
+      "ai_probability": "0.21"
+    },
+    {
+      "text": "than",
+      "start": 91.36,
+      "end": 91.52,
+      "speaker": "A",
+      "ai_probability": "0.03"
+    },
+    {
+      "text": "reasoning",
+      "start": 91.52,
+      "end": 91.92,
+      "speaker": "A",
+      "ai_probability": "0.20"
+    },
+    {
+      "text": "by",
+      "start": 91.92,
+      "end": 92.08,
+      "speaker": "A",
+      "ai_probability": "0.65"
+    },
+    {
+      "text": "analogy,",
+      "start": 92.08,
+      "end": 92.76,
+      "speaker": "A",
+      "ai_probability": "0.89"
+    },
+    {
+      "text": "you",
+      "start": 92.76,
+      "end": 93.04,
+      "speaker": "A",
+      "ai_probability": "0.44"
+    },
+    {
+      "text": "boil",
+      "start": 93.04,
+      "end": 93.32,
+      "speaker": "A",
+      "ai_probability": "0.83"
+    },
+    {
+      "text": "things",
+      "start": 93.32,
+      "end": 93.56,
+      "speaker": "A",
+      "ai_probability": "0.47"
+    },
+    {
+      "text": "down",
+      "start": 93.56,
+      "end": 93.8,
+      "speaker": "A",
+      "ai_probability": "0.99"
+    },
+    {
+      "text": "to",
+      "start": 93.8,
+      "end": 94.12,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "the",
+      "start": 94.6,
+      "end": 94.88,
+      "speaker": "A",
+      "ai_probability": "0.26"
+    },
+    {
+      "text": "most",
+      "start": 94.88,
+      "end": 95.04,
+      "speaker": "A",
+      "ai_probability": "0.53"
+    },
+    {
+      "text": "fundamental",
+      "start": 95.04,
+      "end": 95.48,
+      "speaker": "A",
+      "ai_probability": "0.53"
+    },
+    {
+      "text": "truths",
+      "start": 95.48,
+      "end": 95.71,
+      "speaker": "A",
+      "ai_probability": "0.00"
+    },
+    {
+      "text": "you",
+      "start": 95.86,
+      "end": 95.94,
+      "speaker": "A",
+      "ai_probability": "0.21"
+    },
+    {
+      "text": "can",
+      "start": 95.94,
+      "end": 96.06,
+      "speaker": "A",
+      "ai_probability": "0.70"
+    },
+    {
+      "text": "imagine",
+      "start": 96.06,
+      "end": 96.42,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "and",
+      "start": 96.42,
+      "end": 96.62,
+      "speaker": "A",
+      "ai_probability": "0.95"
+    },
+    {
+      "text": "you",
+      "start": 96.62,
+      "end": 96.82,
+      "speaker": "A",
+      "ai_probability": "0.64"
+    },
+    {
+      "text": "reason",
+      "start": 96.82,
+      "end": 97.14,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "up",
+      "start": 97.14,
+      "end": 97.46,
+      "speaker": "A",
+      "ai_probability": "0.90"
+    },
+    {
+      "text": "from",
+      "start": 97.46,
+      "end": 97.66,
+      "speaker": "A",
+      "ai_probability": "0.38"
+    },
+    {
+      "text": "there.",
+      "start": 97.66,
+      "end": 97.94,
+      "speaker": "A",
+      "ai_probability": "0.55"
+    },
+    {
+      "text": "And",
+      "start": 98.42,
+      "end": 98.7,
+      "speaker": "A",
+      "ai_probability": "0.81"
+    },
+    {
+      "text": "this",
+      "start": 98.7,
+      "end": 98.86,
+      "speaker": "A",
+      "ai_probability": "0.22"
+    },
+    {
+      "text": "is",
+      "start": 98.86,
+      "end": 99.02,
+      "speaker": "A",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "a",
+      "start": 99.02,
+      "end": 99.14,
+      "speaker": "A",
+      "ai_probability": "0.38"
+    },
+    {
+      "text": "good",
+      "start": 99.14,
+      "end": 99.3,
+      "speaker": "A",
+      "ai_probability": "0.18"
+    },
+    {
+      "text": "way",
+      "start": 99.3,
+      "end": 99.54,
+      "speaker": "A",
+      "ai_probability": "0.85"
+    },
+    {
+      "text": "to",
+      "start": 99.54,
+      "end": 99.86,
+      "speaker": "A",
+      "ai_probability": "0.29"
+    },
+    {
+      "text": "figure",
+      "start": 100.1,
+      "end": 100.46,
+      "speaker": "A",
+      "ai_probability": "0.99"
+    },
+    {
+      "text": "out",
+      "start": 100.46,
+      "end": 100.74,
+      "speaker": "A",
+      "ai_probability": "0.33"
+    },
+    {
+      "text": "if",
+      "start": 100.74,
+      "end": 101.14,
+      "speaker": "A",
+      "ai_probability": "0.93"
+    },
+    {
+      "text": "something",
+      "start": 102.5,
+      "end": 102.9,
+      "speaker": "A",
+      "ai_probability": "0.53"
+    },
+    {
+      "text": "really",
+      "start": 102.9,
+      "end": 103.3,
+      "speaker": "A",
+      "ai_probability": "0.79"
+    },
+    {
+      "text": "makes",
+      "start": 103.38,
+      "end": 103.78,
+      "speaker": "A",
+      "ai_probability": "0.01"
+    },
+    {
+      "text": "sense",
+      "start": 103.78,
+      "end": 104.22,
+      "speaker": "A",
+      "ai_probability": "0.85"
+    },
+    {
+      "text": "or",
+      "start": 104.22,
+      "end": 104.46,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "if",
+      "start": 104.46,
+      "end": 104.62,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "it's",
+      "start": 104.62,
+      "end": 104.86,
+      "speaker": "A",
+      "ai_probability": "0.75"
+    },
+    {
+      "text": "just",
+      "start": 104.86,
+      "end": 105.14,
+      "speaker": "A",
+      "ai_probability": "0.74"
+    },
+    {
+      "text": "what",
+      "start": 105.62,
+      "end": 105.94,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "everybody",
+      "start": 105.94,
+      "end": 106.34,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "else",
+      "start": 106.34,
+      "end": 106.5,
+      "speaker": "A",
+      "ai_probability": "0.44"
+    },
+    {
+      "text": "is",
+      "start": 106.5,
+      "end": 106.62,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "doing.",
+      "start": 106.62,
+      "end": 106.9,
+      "speaker": "A",
+      "ai_probability": "0.04"
+    },
+    {
+      "text": "It's",
+      "start": 107.46,
+      "end": 107.86,
+      "speaker": "A",
+      "ai_probability": "0.26"
+    },
+    {
+      "text": "hard",
+      "start": 107.86,
+      "end": 107.98,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "to",
+      "start": 107.98,
+      "end": 108.1,
+      "speaker": "A",
+      "ai_probability": "0.07"
+    },
+    {
+      "text": "think",
+      "start": 108.1,
+      "end": 108.22,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "that",
+      "start": 108.22,
+      "end": 108.38,
+      "speaker": "A",
+      "ai_probability": "0.58"
+    },
+    {
+      "text": "way.",
+      "start": 108.38,
+      "end": 108.54,
+      "speaker": "A",
+      "ai_probability": "0.53"
+    },
+    {
+      "text": "You",
+      "start": 108.54,
+      "end": 108.7,
+      "speaker": "A",
+      "ai_probability": "0.18"
+    },
+    {
+      "text": "can't",
+      "start": 108.7,
+      "end": 109.06,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "think",
+      "start": 109.14,
+      "end": 109.42,
+      "speaker": "A",
+      "ai_probability": "0.68"
+    },
+    {
+      "text": "that",
+      "start": 109.42,
+      "end": 109.58,
+      "speaker": "A",
+      "ai_probability": "0.59"
+    },
+    {
+      "text": "way",
+      "start": 109.58,
+      "end": 109.74,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "about",
+      "start": 109.74,
+      "end": 109.98,
+      "speaker": "A",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "everything.",
+      "start": 109.98,
+      "end": 110.34,
+      "speaker": "A",
+      "ai_probability": "0.58"
+    },
+    {
+      "text": "It",
+      "start": 110.5,
+      "end": 110.78,
+      "speaker": "A",
+      "ai_probability": "0.91"
+    },
+    {
+      "text": "takes",
+      "start": 110.78,
+      "end": 111.06,
+      "speaker": "A",
+      "ai_probability": "0.17"
+    },
+    {
+      "text": "a",
+      "start": 111.06,
+      "end": 111.14,
+      "speaker": "A",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "lot",
+      "start": 111.14,
+      "end": 111.22,
+      "speaker": "A",
+      "ai_probability": "0.19"
+    },
+    {
+      "text": "of",
+      "start": 111.22,
+      "end": 111.34,
+      "speaker": "A",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "effort.",
+      "start": 111.34,
+      "end": 111.7,
+      "speaker": "A",
+      "ai_probability": "0.44"
+    },
+    {
+      "text": "But",
+      "start": 112.58,
+      "end": 112.98,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "if",
+      "start": 113.14,
+      "end": 113.42,
+      "speaker": "A",
+      "ai_probability": "0.01"
+    },
+    {
+      "text": "you're",
+      "start": 113.42,
+      "end": 113.62,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "trying",
+      "start": 113.62,
+      "end": 113.74,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "to",
+      "start": 113.74,
+      "end": 113.86,
+      "speaker": "A",
+      "ai_probability": "0.41"
+    },
+    {
+      "text": "do",
+      "start": 113.86,
+      "end": 113.98,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "something",
+      "start": 113.98,
+      "end": 114.22,
+      "speaker": "A",
+      "ai_probability": "0.30"
+    },
+    {
+      "text": "new,",
+      "start": 114.22,
+      "end": 114.58,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "it's",
+      "start": 114.66,
+      "end": 115.06,
+      "speaker": "A",
+      "ai_probability": "0.59"
+    },
+    {
+      "text": "the",
+      "start": 115.06,
+      "end": 115.18,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "best",
+      "start": 115.18,
+      "end": 115.38,
+      "speaker": "A",
+      "ai_probability": "0.75"
+    },
+    {
+      "text": "way",
+      "start": 115.38,
+      "end": 115.58,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "to",
+      "start": 115.58,
+      "end": 115.74,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "think.",
+      "start": 115.74,
+      "end": 116.02,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "And",
+      "start": 116.58,
+      "end": 116.86,
+      "speaker": "A",
+      "ai_probability": "0.47"
+    },
+    {
+      "text": "that",
+      "start": 116.86,
+      "end": 117.02,
+      "speaker": "A",
+      "ai_probability": "0.32"
+    },
+    {
+      "text": "framework",
+      "start": 117.02,
+      "end": 117.42,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "was",
+      "start": 117.42,
+      "end": 117.58,
+      "speaker": "A",
+      "ai_probability": "0.45"
+    },
+    {
+      "text": "developed",
+      "start": 117.58,
+      "end": 118.18,
+      "speaker": "A",
+      "ai_probability": "0.20"
+    },
+    {
+      "text": "by",
+      "start": 118.82,
+      "end": 119.14,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "physicists",
+      "start": 119.14,
+      "end": 119.7,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "to",
+      "start": 119.86,
+      "end": 120.26,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "figure",
+      "start": 120.34,
+      "end": 120.74,
+      "speaker": "A",
+      "ai_probability": "0.99"
+    },
+    {
+      "text": "out",
+      "start": 120.74,
+      "end": 121.06,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "counterintuitive",
+      "start": 121.06,
+      "end": 121.94,
+      "speaker": "A",
+      "ai_probability": "0.75"
+    },
+    {
+      "text": "things",
+      "start": 121.94,
+      "end": 122.26,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "like",
+      "start": 122.42,
+      "end": 122.74,
+      "speaker": "A",
+      "ai_probability": "0.86"
+    },
+    {
+      "text": "quantum",
+      "start": 122.74,
+      "end": 123.1,
+      "speaker": "A",
+      "ai_probability": "0.76"
+    },
+    {
+      "text": "mechanics.",
+      "start": 123.1,
+      "end": 123.62,
+      "speaker": "A",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "So",
+      "start": 123.62,
+      "end": 124.02,
+      "speaker": "A",
+      "ai_probability": "0.65"
+    },
+    {
+      "text": "it's",
+      "start": 124.26,
+      "end": 124.78,
+      "speaker": "A",
+      "ai_probability": "0.63"
+    },
+    {
+      "text": "really",
+      "start": 124.78,
+      "end": 125.14,
+      "speaker": "A",
+      "ai_probability": "0.91"
+    },
+    {
+      "text": "a",
+      "start": 125.14,
+      "end": 125.54,
+      "speaker": "A",
+      "ai_probability": "0.18"
+    },
+    {
+      "text": "powerful",
+      "start": 126.26,
+      "end": 126.7,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "method.",
+      "start": 126.7,
+      "end": 127.14,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "And",
+      "start": 128.8,
+      "end": 128.92,
+      "speaker": "A",
+      "ai_probability": "0.83"
+    },
+    {
+      "text": "I",
+      "start": 128.92,
+      "end": 129.08,
+      "speaker": "A",
+      "ai_probability": "0.17"
+    },
+    {
+      "text": "want",
+      "start": 129.08,
+      "end": 129.24,
+      "speaker": "A",
+      "ai_probability": "0.40"
+    },
+    {
+      "text": "to",
+      "start": 129.24,
+      "end": 129.4,
+      "speaker": "A",
+      "ai_probability": "0.70"
+    },
+    {
+      "text": "know",
+      "start": 129.4,
+      "end": 129.68,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "what",
+      "start": 129.68,
+      "end": 130,
+      "speaker": "A",
+      "ai_probability": "0.57"
+    },
+    {
+      "text": "is",
+      "start": 130,
+      "end": 130.2,
+      "speaker": "A",
+      "ai_probability": "0.93"
+    },
+    {
+      "text": "the",
+      "start": 130.2,
+      "end": 130.36,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "one",
+      "start": 130.36,
+      "end": 130.6,
+      "speaker": "A",
+      "ai_probability": "0.10"
+    },
+    {
+      "text": "thing",
+      "start": 130.6,
+      "end": 130.92,
+      "speaker": "A",
+      "ai_probability": "0.13"
+    },
+    {
+      "text": "that",
+      "start": 130.92,
+      "end": 131.16,
+      "speaker": "A",
+      "ai_probability": "0.90"
+    },
+    {
+      "text": "has",
+      "start": 131.16,
+      "end": 131.36,
+      "speaker": "A",
+      "ai_probability": "0.52"
+    },
+    {
+      "text": "surprised",
+      "start": 131.36,
+      "end": 131.8,
+      "speaker": "A",
+      "ai_probability": "0.66"
+    },
+    {
+      "text": "you",
+      "start": 131.8,
+      "end": 132.04,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "about",
+      "start": 132.04,
+      "end": 132.28,
+      "speaker": "A",
+      "ai_probability": "0.95"
+    },
+    {
+      "text": "your",
+      "start": 132.28,
+      "end": 132.56,
+      "speaker": "A",
+      "ai_probability": "0.84"
+    },
+    {
+      "text": "life?",
+      "start": 132.56,
+      "end": 132.88,
+      "speaker": "A",
+      "ai_probability": "0.91"
+    },
+    {
+      "text": "Well,",
+      "start": 133.28,
+      "end": 133.56,
+      "speaker": "A",
+      "ai_probability": "0.05"
+    },
+    {
+      "text": "I",
+      "start": 133.56,
+      "end": 133.72,
+      "speaker": "A",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "certainly,",
+      "start": 133.72,
+      "end": 134.12,
+      "speaker": "A",
+      "ai_probability": "0.39"
+    },
+    {
+      "text": "I'm",
+      "start": 134.12,
+      "end": 134.4,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "surprised",
+      "start": 134.4,
+      "end": 134.68,
+      "speaker": "A",
+      "ai_probability": "0.41"
+    },
+    {
+      "text": "by",
+      "start": 134.68,
+      "end": 134.84,
+      "speaker": "A",
+      "ai_probability": "0.53"
+    },
+    {
+      "text": "the",
+      "start": 134.84,
+      "end": 134.96,
+      "speaker": "A",
+      "ai_probability": "0.26"
+    },
+    {
+      "text": "whole",
+      "start": 134.96,
+      "end": 135.16,
+      "speaker": "A",
+      "ai_probability": "0.38"
+    },
+    {
+      "text": "thing,",
+      "start": 135.16,
+      "end": 135.32,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "honestly.",
+      "start": 135.32,
+      "end": 135.92,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "I",
+      "start": 137.92,
+      "end": 138.2,
+      "speaker": "A",
+      "ai_probability": "0.87"
+    },
+    {
+      "text": "certainly",
+      "start": 138.2,
+      "end": 138.52,
+      "speaker": "A",
+      "ai_probability": "0.95"
+    },
+    {
+      "text": "didn't",
+      "start": 138.52,
+      "end": 138.72,
+      "speaker": "A",
+      "ai_probability": "0.55"
+    },
+    {
+      "text": "expect",
+      "start": 138.72,
+      "end": 138.92,
+      "speaker": "A",
+      "ai_probability": "0.63"
+    },
+    {
+      "text": "to",
+      "start": 138.92,
+      "end": 139.12,
+      "speaker": "A",
+      "ai_probability": "0.03"
+    },
+    {
+      "text": "be,",
+      "start": 139.12,
+      "end": 139.36,
+      "speaker": "A",
+      "ai_probability": "0.74"
+    },
+    {
+      "text": "to",
+      "start": 139.44,
+      "end": 139.72,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "be",
+      "start": 139.72,
+      "end": 140,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "for",
+      "start": 140.24,
+      "end": 140.56,
+      "speaker": "A",
+      "ai_probability": "0.08"
+    },
+    {
+      "text": "any",
+      "start": 140.56,
+      "end": 140.76,
+      "speaker": "A",
+      "ai_probability": "0.85"
+    },
+    {
+      "text": "of",
+      "start": 140.76,
+      "end": 140.88,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "these",
+      "start": 140.88,
+      "end": 141,
+      "speaker": "A",
+      "ai_probability": "0.75"
+    },
+    {
+      "text": "things",
+      "start": 141,
+      "end": 141.24,
+      "speaker": "A",
+      "ai_probability": "0.66"
+    },
+    {
+      "text": "to",
+      "start": 141.24,
+      "end": 141.48,
+      "speaker": "A",
+      "ai_probability": "0.92"
+    },
+    {
+      "text": "happen,",
+      "start": 141.48,
+      "end": 141.76,
+      "speaker": "A",
+      "ai_probability": "0.38"
+    },
+    {
+      "text": "honestly.",
+      "start": 141.92,
+      "end": 142.64,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "Yeah,",
+      "start": 145.92,
+      "end": 146.4,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "I",
+      "start": 147.04,
+      "end": 147.32,
+      "speaker": "A",
+      "ai_probability": "0.32"
+    },
+    {
+      "text": "just",
+      "start": 147.32,
+      "end": 147.48,
+      "speaker": "A",
+      "ai_probability": "0.86"
+    },
+    {
+      "text": "knew,",
+      "start": 147.48,
+      "end": 147.84,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "I",
+      "start": 148.08,
+      "end": 148.36,
+      "speaker": "A",
+      "ai_probability": "0.86"
+    },
+    {
+      "text": "knew",
+      "start": 148.36,
+      "end": 148.56,
+      "speaker": "A",
+      "ai_probability": "0.41"
+    },
+    {
+      "text": "I",
+      "start": 148.56,
+      "end": 148.64,
+      "speaker": "A",
+      "ai_probability": "0.51"
+    },
+    {
+      "text": "wanted",
+      "start": 148.64,
+      "end": 148.8,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "to",
+      "start": 148.8,
+      "end": 148.88,
+      "speaker": "A",
+      "ai_probability": "0.35"
+    },
+    {
+      "text": "be",
+      "start": 148.88,
+      "end": 148.96,
+      "speaker": "A",
+      "ai_probability": "0.39"
+    },
+    {
+      "text": "involved",
+      "start": 148.96,
+      "end": 149.24,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "in",
+      "start": 149.24,
+      "end": 149.44,
+      "speaker": "A",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "technology",
+      "start": 149.44,
+      "end": 149.76,
+      "speaker": "A",
+      "ai_probability": "0.20"
+    },
+    {
+      "text": "and",
+      "start": 151.52,
+      "end": 151.92,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "in",
+      "start": 152.48,
+      "end": 152.76,
+      "speaker": "A",
+      "ai_probability": "0.83"
+    },
+    {
+      "text": "fact",
+      "start": 152.76,
+      "end": 153,
+      "speaker": "A",
+      "ai_probability": "0.21"
+    },
+    {
+      "text": "the",
+      "start": 153,
+      "end": 153.24,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "only",
+      "start": 153.24,
+      "end": 153.4,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "reason",
+      "start": 153.4,
+      "end": 153.56,
+      "speaker": "A",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "I",
+      "start": 153.56,
+      "end": 153.72,
+      "speaker": "A",
+      "ai_probability": "0.74"
+    },
+    {
+      "text": "started",
+      "start": 153.72,
+      "end": 153.92,
+      "speaker": "A",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "a",
+      "start": 153.92,
+      "end": 154.08,
+      "speaker": "A",
+      "ai_probability": "0.83"
+    },
+    {
+      "text": "company",
+      "start": 154.08,
+      "end": 154.28,
+      "speaker": "A",
+      "ai_probability": "0.27"
+    },
+    {
+      "text": "back",
+      "start": 154.28,
+      "end": 154.52,
+      "speaker": "A",
+      "ai_probability": "0.37"
+    },
+    {
+      "text": "in",
+      "start": 154.52,
+      "end": 154.68,
+      "speaker": "A",
+      "ai_probability": "0.26"
+    },
+    {
+      "text": "95",
+      "start": 154.68,
+      "end": 155.12,
+      "speaker": "A",
+      "ai_probability": "0.23"
+    },
+    {
+      "text": "and",
+      "start": 155.12,
+      "end": 155.32,
+      "speaker": "A",
+      "ai_probability": "0.44"
+    },
+    {
+      "text": "Internet",
+      "start": 155.32,
+      "end": 155.64,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "company",
+      "start": 155.64,
+      "end": 155.88,
+      "speaker": "A",
+      "ai_probability": "0.74"
+    },
+    {
+      "text": "was",
+      "start": 155.88,
+      "end": 156.12,
+      "speaker": "A",
+      "ai_probability": "0.33"
+    },
+    {
+      "text": "because",
+      "start": 156.12,
+      "end": 156.4,
+      "speaker": "A",
+      "ai_probability": "0.37"
+    },
+    {
+      "text": "I",
+      "start": 156.98,
+      "end": 157.06,
+      "speaker": "A",
+      "ai_probability": "0.65"
+    },
+    {
+      "text": "couldn't",
+      "start": 157.06,
+      "end": 157.3,
+      "speaker": "A",
+      "ai_probability": "0.52"
+    },
+    {
+      "text": "get",
+      "start": 157.3,
+      "end": 157.38,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "it.",
+      "start": 157.38,
+      "end": 157.54,
+      "speaker": "A",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "There",
+      "start": 157.54,
+      "end": 157.7,
+      "speaker": "A",
+      "ai_probability": "0.75"
+    },
+    {
+      "text": "were",
+      "start": 157.7,
+      "end": 157.78,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "only",
+      "start": 157.78,
+      "end": 157.9,
+      "speaker": "A",
+      "ai_probability": "0.22"
+    },
+    {
+      "text": "a",
+      "start": 157.9,
+      "end": 158.02,
+      "speaker": "A",
+      "ai_probability": "0.99"
+    },
+    {
+      "text": "few",
+      "start": 158.02,
+      "end": 158.18,
+      "speaker": "A",
+      "ai_probability": "0.99"
+    },
+    {
+      "text": "Internet",
+      "start": 158.18,
+      "end": 158.54,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "companies",
+      "start": 158.54,
+      "end": 158.78,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "and",
+      "start": 158.78,
+      "end": 159.02,
+      "speaker": "A",
+      "ai_probability": "0.21"
+    },
+    {
+      "text": "I",
+      "start": 159.02,
+      "end": 159.18,
+      "speaker": "A",
+      "ai_probability": "0.81"
+    },
+    {
+      "text": "couldn't",
+      "start": 159.18,
+      "end": 159.38,
+      "speaker": "A",
+      "ai_probability": "0.03"
+    },
+    {
+      "text": "get",
+      "start": 159.38,
+      "end": 159.46,
+      "speaker": "A",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "a",
+      "start": 159.46,
+      "end": 159.54,
+      "speaker": "A",
+      "ai_probability": "0.96"
+    },
+    {
+      "text": "job",
+      "start": 159.54,
+      "end": 159.66,
+      "speaker": "A",
+      "ai_probability": "0.85"
+    },
+    {
+      "text": "at",
+      "start": 159.66,
+      "end": 159.82,
+      "speaker": "A",
+      "ai_probability": "0.51"
+    },
+    {
+      "text": "any",
+      "start": 159.82,
+      "end": 159.98,
+      "speaker": "A",
+      "ai_probability": "0.55"
+    },
+    {
+      "text": "of",
+      "start": 159.98,
+      "end": 160.1,
+      "speaker": "A",
+      "ai_probability": "0.50"
+    },
+    {
+      "text": "them.",
+      "start": 160.1,
+      "end": 160.34,
+      "speaker": "A",
+      "ai_probability": "0.40"
+    },
+    {
+      "text": "So",
+      "start": 160.98,
+      "end": 161.38,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "I",
+      "start": 163.14,
+      "end": 163.42,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "tried",
+      "start": 163.42,
+      "end": 163.62,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "to",
+      "start": 163.62,
+      "end": 163.7,
+      "speaker": "A",
+      "ai_probability": "0.74"
+    },
+    {
+      "text": "get",
+      "start": 163.7,
+      "end": 163.78,
+      "speaker": "A",
+      "ai_probability": "0.76"
+    },
+    {
+      "text": "a",
+      "start": 163.78,
+      "end": 163.86,
+      "speaker": "A",
+      "ai_probability": "0.39"
+    },
+    {
+      "text": "job",
+      "start": 163.86,
+      "end": 163.98,
+      "speaker": "A",
+      "ai_probability": "0.92"
+    },
+    {
+      "text": "at",
+      "start": 163.98,
+      "end": 164.26,
+      "speaker": "A",
+      "ai_probability": "0.51"
+    },
+    {
+      "text": "Netscape",
+      "start": 164.26,
+      "end": 165.14,
+      "speaker": "A",
+      "ai_probability": "0.81"
+    },
+    {
+      "text": "and",
+      "start": 165.62,
+      "end": 166.02,
+      "speaker": "A",
+      "ai_probability": "0.58"
+    },
+    {
+      "text": "sent",
+      "start": 166.26,
+      "end": 166.58,
+      "speaker": "A",
+      "ai_probability": "0.81"
+    },
+    {
+      "text": "my",
+      "start": 166.58,
+      "end": 166.74,
+      "speaker": "A",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "resume",
+      "start": 166.74,
+      "end": 167.1,
+      "speaker": "A",
+      "ai_probability": "0.89"
+    },
+    {
+      "text": "in",
+      "start": 167.1,
+      "end": 167.26,
+      "speaker": "A",
+      "ai_probability": "0.37"
+    },
+    {
+      "text": "and",
+      "start": 167.26,
+      "end": 167.42,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "tried",
+      "start": 167.42,
+      "end": 167.7,
+      "speaker": "A",
+      "ai_probability": "0.27"
+    },
+    {
+      "text": "hanging",
+      "start": 167.7,
+      "end": 168.02,
+      "speaker": "A",
+      "ai_probability": "0.96"
+    },
+    {
+      "text": "out",
+      "start": 168.02,
+      "end": 168.14,
+      "speaker": "A",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "in",
+      "start": 168.14,
+      "end": 168.26,
+      "speaker": "A",
+      "ai_probability": "0.99"
+    },
+    {
+      "text": "the",
+      "start": 168.26,
+      "end": 168.34,
+      "speaker": "A",
+      "ai_probability": "0.83"
+    },
+    {
+      "text": "lobby,",
+      "start": 168.34,
+      "end": 168.66,
+      "speaker": "A",
+      "ai_probability": "0.52"
+    },
+    {
+      "text": "but",
+      "start": 168.66,
+      "end": 168.82,
+      "speaker": "A",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "I",
+      "start": 168.82,
+      "end": 168.9,
+      "speaker": "A",
+      "ai_probability": "0.28"
+    },
+    {
+      "text": "was",
+      "start": 168.9,
+      "end": 168.98,
+      "speaker": "A",
+      "ai_probability": "0.28"
+    },
+    {
+      "text": "too",
+      "start": 168.98,
+      "end": 169.1,
+      "speaker": "A",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "shy",
+      "start": 169.1,
+      "end": 169.3,
+      "speaker": "A",
+      "ai_probability": "0.28"
+    },
+    {
+      "text": "to",
+      "start": 169.3,
+      "end": 169.42,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "talk",
+      "start": 169.42,
+      "end": 169.58,
+      "speaker": "A",
+      "ai_probability": "0.32"
+    },
+    {
+      "text": "to",
+      "start": 169.58,
+      "end": 169.74,
+      "speaker": "A",
+      "ai_probability": "0.99"
+    },
+    {
+      "text": "anyone.",
+      "start": 169.74,
+      "end": 170.18,
+      "speaker": "A",
+      "ai_probability": "0.19"
+    },
+    {
+      "text": "And",
+      "start": 170.98,
+      "end": 171.38,
+      "speaker": "A",
+      "ai_probability": "0.28"
+    },
+    {
+      "text": "then",
+      "start": 171.54,
+      "end": 171.78,
+      "speaker": "A",
+      "ai_probability": "0.75"
+    },
+    {
+      "text": "I",
+      "start": 171.78,
+      "end": 171.86,
+      "speaker": "A",
+      "ai_probability": "0.42"
+    },
+    {
+      "text": "was",
+      "start": 171.86,
+      "end": 171.98,
+      "speaker": "A",
+      "ai_probability": "0.41"
+    },
+    {
+      "text": "like,",
+      "start": 171.98,
+      "end": 172.1,
+      "speaker": "A",
+      "ai_probability": "0.86"
+    },
+    {
+      "text": "okay,",
+      "start": 172.1,
+      "end": 172.38,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "well",
+      "start": 172.38,
+      "end": 172.66,
+      "speaker": "A",
+      "ai_probability": "0.04"
+    },
+    {
+      "text": "I",
+      "start": 173.14,
+      "end": 173.42,
+      "speaker": "A",
+      "ai_probability": "0.33"
+    },
+    {
+      "text": "Guess",
+      "start": 173.42,
+      "end": 173.62,
+      "speaker": "A",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "I'll",
+      "start": 173.62,
+      "end": 173.78,
+      "speaker": "A",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "have",
+      "start": 173.78,
+      "end": 173.9,
+      "speaker": "A",
+      "ai_probability": "0.68"
+    },
+    {
+      "text": "to",
+      "start": 173.9,
+      "end": 174.02,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "start",
+      "start": 174.02,
+      "end": 174.14,
+      "speaker": "A",
+      "ai_probability": "0.44"
+    },
+    {
+      "text": "a",
+      "start": 174.14,
+      "end": 174.3,
+      "speaker": "A",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "company",
+      "start": 174.3,
+      "end": 174.54,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "because",
+      "start": 174.54,
+      "end": 174.78,
+      "speaker": "A",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "I",
+      "start": 174.78,
+      "end": 174.9,
+      "speaker": "A",
+      "ai_probability": "0.92"
+    },
+    {
+      "text": "can't",
+      "start": 174.9,
+      "end": 175.06,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "get",
+      "start": 175.06,
+      "end": 175.14,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "a",
+      "start": 175.14,
+      "end": 175.26,
+      "speaker": "A",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "job",
+      "start": 175.26,
+      "end": 175.42,
+      "speaker": "A",
+      "ai_probability": "0.47"
+    },
+    {
+      "text": "anywhere.",
+      "start": 175.42,
+      "end": 175.86,
+      "speaker": "A",
+      "ai_probability": "0.84"
+    },
+    {
+      "text": "Thank",
+      "start": 177.62,
+      "end": 177.98,
+      "speaker": "A",
+      "ai_probability": "0.56"
+    },
+    {
+      "text": "you.",
+      "start": 177.98,
+      "end": 178.26,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "I",
+      "start": 186.15,
+      "end": 186.27,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "wouldn't",
+      "start": 186.27,
+      "end": 186.51,
+      "speaker": "A",
+      "ai_probability": "0.90"
+    },
+    {
+      "text": "say",
+      "start": 186.51,
+      "end": 186.67,
+      "speaker": "A",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "I'm",
+      "start": 186.67,
+      "end": 186.87,
+      "speaker": "A",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "fearless.",
+      "start": 186.87,
+      "end": 187.27,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "In",
+      "start": 187.51,
+      "end": 187.79,
+      "speaker": "A",
+      "ai_probability": "0.96"
+    },
+    {
+      "text": "fact,",
+      "start": 187.79,
+      "end": 188.07,
+      "speaker": "A",
+      "ai_probability": "0.08"
+    },
+    {
+      "text": "I",
+      "start": 188.71,
+      "end": 188.95,
+      "speaker": "A",
+      "ai_probability": "0.33"
+    },
+    {
+      "text": "think",
+      "start": 188.95,
+      "end": 189.19,
+      "speaker": "A",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "I",
+      "start": 189.51,
+      "end": 189.79,
+      "speaker": "A",
+      "ai_probability": "0.20"
+    },
+    {
+      "text": "feel",
+      "start": 189.79,
+      "end": 190.03,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "fear",
+      "start": 190.03,
+      "end": 190.39,
+      "speaker": "A",
+      "ai_probability": "0.75"
+    },
+    {
+      "text": "quite",
+      "start": 190.39,
+      "end": 190.67,
+      "speaker": "A",
+      "ai_probability": "0.49"
+    },
+    {
+      "text": "strongly.",
+      "start": 190.67,
+      "end": 191.19,
+      "speaker": "A",
+      "ai_probability": "0.21"
+    },
+    {
+      "text": "But",
+      "start": 192.47,
+      "end": 192.87,
+      "speaker": "A",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "if",
+      "start": 195.27,
+      "end": 195.59,
+      "speaker": "A",
+      "ai_probability": "0.92"
+    },
+    {
+      "text": "what",
+      "start": 195.59,
+      "end": 195.79,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "we're",
+      "start": 195.79,
+      "end": 195.99,
+      "speaker": "A",
+      "ai_probability": "0.65"
+    },
+    {
+      "text": "doing",
+      "start": 195.99,
+      "end": 196.11,
+      "speaker": "A",
+      "ai_probability": "0.96"
+    },
+    {
+      "text": "is",
+      "start": 196.11,
+      "end": 196.39,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "what",
+      "start": 197.27,
+      "end": 197.55,
+      "speaker": "A",
+      "ai_probability": "0.75"
+    },
+    {
+      "text": "I'm",
+      "start": 197.55,
+      "end": 197.75,
+      "speaker": "A",
+      "ai_probability": "0.43"
+    },
+    {
+      "text": "doing",
+      "start": 197.75,
+      "end": 197.95,
+      "speaker": "A",
+      "ai_probability": "0.79"
+    },
+    {
+      "text": "I",
+      "start": 197.95,
+      "end": 198.15,
+      "speaker": "A",
+      "ai_probability": "0.44"
+    },
+    {
+      "text": "think",
+      "start": 198.15,
+      "end": 198.23,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "is",
+      "start": 198.23,
+      "end": 198.35,
+      "speaker": "A",
+      "ai_probability": "0.42"
+    },
+    {
+      "text": "important",
+      "start": 198.35,
+      "end": 198.59,
+      "speaker": "A",
+      "ai_probability": "0.62"
+    },
+    {
+      "text": "enough,",
+      "start": 198.59,
+      "end": 198.87,
+      "speaker": "A",
+      "ai_probability": "0.99"
+    },
+    {
+      "text": "then",
+      "start": 198.87,
+      "end": 199.07,
+      "speaker": "A",
+      "ai_probability": "0.70"
+    },
+    {
+      "text": "I",
+      "start": 199.07,
+      "end": 199.27,
+      "speaker": "A",
+      "ai_probability": "0.62"
+    },
+    {
+      "text": "just",
+      "start": 199.27,
+      "end": 199.59,
+      "speaker": "A",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "override",
+      "start": 199.989,
+      "end": 200.55,
+      "speaker": "A",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "the",
+      "start": 200.55,
+      "end": 200.67,
+      "speaker": "A",
+      "ai_probability": "0.56"
+    },
+    {
+      "text": "fear.",
+      "start": 200.67,
+      "end": 201.03,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "But",
+      "start": 201.99,
+      "end": 202.27,
+      "speaker": "A",
+      "ai_probability": "0.27"
+    },
+    {
+      "text": "it's",
+      "start": 202.27,
+      "end": 202.47,
+      "speaker": "A",
+      "ai_probability": "0.27"
+    },
+    {
+      "text": "not",
+      "start": 202.47,
+      "end": 202.55,
+      "speaker": "A",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "as",
+      "start": 202.55,
+      "end": 202.67,
+      "speaker": "A",
+      "ai_probability": "0.19"
+    },
+    {
+      "text": "though",
+      "start": 202.67,
+      "end": 202.95,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "I",
+      "start": 203.27,
+      "end": 203.59,
+      "speaker": "A",
+      "ai_probability": "0.60"
+    },
+    {
+      "text": "feel",
+      "start": 203.59,
+      "end": 203.91,
+      "speaker": "A",
+      "ai_probability": "0.51"
+    },
+    {
+      "text": "more",
+      "start": 204.63,
+      "end": 204.91,
+      "speaker": "A",
+      "ai_probability": "0.92"
+    },
+    {
+      "text": "strongly",
+      "start": 204.91,
+      "end": 205.23,
+      "speaker": "A",
+      "ai_probability": "0.81"
+    },
+    {
+      "text": "than",
+      "start": 205.23,
+      "end": 205.39,
+      "speaker": "A",
+      "ai_probability": "0.51"
+    },
+    {
+      "text": "I",
+      "start": 205.39,
+      "end": 205.51,
+      "speaker": "A",
+      "ai_probability": "0.43"
+    },
+    {
+      "text": "would",
+      "start": 205.51,
+      "end": 205.63,
+      "speaker": "A",
+      "ai_probability": "0.41"
+    },
+    {
+      "text": "like.",
+      "start": 205.63,
+      "end": 205.91,
+      "speaker": "A",
+      "ai_probability": "0.44"
+    },
+    {
+      "text": "I",
+      "start": 209.35,
+      "end": 209.59,
+      "speaker": "A",
+      "ai_probability": "0.93"
+    },
+    {
+      "text": "think",
+      "start": 209.59,
+      "end": 209.75,
+      "speaker": "A",
+      "ai_probability": "0.40"
+    },
+    {
+      "text": "also",
+      "start": 209.75,
+      "end": 210.03,
+      "speaker": "A",
+      "ai_probability": "0.50"
+    },
+    {
+      "text": "people",
+      "start": 210.03,
+      "end": 210.35,
+      "speaker": "A",
+      "ai_probability": "0.33"
+    },
+    {
+      "text": "tend",
+      "start": 210.35,
+      "end": 210.67,
+      "speaker": "A",
+      "ai_probability": "0.66"
+    },
+    {
+      "text": "to",
+      "start": 210.67,
+      "end": 210.83,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "overweight",
+      "start": 210.83,
+      "end": 211.35,
+      "speaker": "A",
+      "ai_probability": "0.92"
+    },
+    {
+      "text": "risk.",
+      "start": 211.35,
+      "end": 211.67,
+      "speaker": "A",
+      "ai_probability": "0.91"
+    },
+    {
+      "text": "On",
+      "start": 212.65,
+      "end": 212.77,
+      "speaker": "A",
+      "ai_probability": "0.94"
+    },
+    {
+      "text": "a",
+      "start": 212.77,
+      "end": 212.93,
+      "speaker": "A",
+      "ai_probability": "0.95"
+    },
+    {
+      "text": "personal",
+      "start": 212.93,
+      "end": 213.17,
+      "speaker": "A",
+      "ai_probability": "0.20"
+    },
+    {
+      "text": "level,",
+      "start": 213.17,
+      "end": 213.53,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "it's",
+      "start": 214.01,
+      "end": 214.33,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "one",
+      "start": 214.33,
+      "end": 214.45,
+      "speaker": "A",
+      "ai_probability": "0.42"
+    },
+    {
+      "text": "thing",
+      "start": 214.45,
+      "end": 214.61,
+      "speaker": "A",
+      "ai_probability": "0.29"
+    },
+    {
+      "text": "if",
+      "start": 214.61,
+      "end": 214.73,
+      "speaker": "A",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "you've",
+      "start": 214.73,
+      "end": 214.97,
+      "speaker": "A",
+      "ai_probability": "0.34"
+    },
+    {
+      "text": "got",
+      "start": 214.97,
+      "end": 215.21,
+      "speaker": "A",
+      "ai_probability": "0.87"
+    },
+    {
+      "text": "a",
+      "start": 216.01,
+      "end": 216.29,
+      "speaker": "A",
+      "ai_probability": "0.07"
+    },
+    {
+      "text": "mortgage",
+      "start": 216.29,
+      "end": 216.61,
+      "speaker": "A",
+      "ai_probability": "0.52"
+    },
+    {
+      "text": "to",
+      "start": 216.61,
+      "end": 216.77,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "pay",
+      "start": 216.77,
+      "end": 216.97,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "and",
+      "start": 216.97,
+      "end": 217.29,
+      "speaker": "A",
+      "ai_probability": "0.94"
+    },
+    {
+      "text": "kids",
+      "start": 217.37,
+      "end": 217.77,
+      "speaker": "A",
+      "ai_probability": "0.96"
+    },
+    {
+      "text": "to",
+      "start": 217.77,
+      "end": 217.97,
+      "speaker": "A",
+      "ai_probability": "0.56"
+    },
+    {
+      "text": "support",
+      "start": 217.97,
+      "end": 218.25,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "and",
+      "start": 218.33,
+      "end": 218.69,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "that",
+      "start": 218.69,
+      "end": 218.93,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "if",
+      "start": 218.93,
+      "end": 219.09,
+      "speaker": "A",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "you",
+      "start": 219.09,
+      "end": 219.37,
+      "speaker": "A",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "were",
+      "start": 219.37,
+      "end": 219.65,
+      "speaker": "A",
+      "ai_probability": "0.95"
+    },
+    {
+      "text": "to",
+      "start": 219.65,
+      "end": 219.81,
+      "speaker": "A",
+      "ai_probability": "0.95"
+    },
+    {
+      "text": "deviate",
+      "start": 219.81,
+      "end": 220.29,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "from",
+      "start": 220.29,
+      "end": 220.65,
+      "speaker": "A",
+      "ai_probability": "0.75"
+    },
+    {
+      "text": "your",
+      "start": 220.97,
+      "end": 221.29,
+      "speaker": "A",
+      "ai_probability": "0.63"
+    },
+    {
+      "text": "job",
+      "start": 221.29,
+      "end": 221.61,
+      "speaker": "A",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "that,",
+      "start": 221.61,
+      "end": 222.01,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "well,",
+      "start": 222.01,
+      "end": 222.33,
+      "speaker": "A",
+      "ai_probability": "0.74"
+    },
+    {
+      "text": "how",
+      "start": 222.33,
+      "end": 222.49,
+      "speaker": "A",
+      "ai_probability": "0.60"
+    },
+    {
+      "text": "are",
+      "start": 222.49,
+      "end": 222.57,
+      "speaker": "A",
+      "ai_probability": "0.03"
+    },
+    {
+      "text": "you",
+      "start": 222.57,
+      "end": 222.65,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "going",
+      "start": 222.65,
+      "end": 222.73,
+      "speaker": "A",
+      "ai_probability": "0.74"
+    },
+    {
+      "text": "to",
+      "start": 222.73,
+      "end": 222.81,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "feed",
+      "start": 222.81,
+      "end": 222.97,
+      "speaker": "A",
+      "ai_probability": "0.29"
+    },
+    {
+      "text": "your",
+      "start": 222.97,
+      "end": 223.09,
+      "speaker": "A",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "family",
+      "start": 223.09,
+      "end": 223.37,
+      "speaker": "A",
+      "ai_probability": "0.93"
+    },
+    {
+      "text": "and",
+      "start": 223.37,
+      "end": 223.77,
+      "speaker": "A",
+      "ai_probability": "0.07"
+    },
+    {
+      "text": "pay",
+      "start": 223.77,
+      "end": 224.05,
+      "speaker": "A",
+      "ai_probability": "0.50"
+    },
+    {
+      "text": "the",
+      "start": 224.05,
+      "end": 224.17,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "rent?",
+      "start": 224.17,
+      "end": 224.49,
+      "speaker": "A",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "Okay,",
+      "start": 224.89,
+      "end": 225.33,
+      "speaker": "A",
+      "ai_probability": "0.51"
+    },
+    {
+      "text": "that's",
+      "start": 225.33,
+      "end": 225.53,
+      "speaker": "A",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "understandable.",
+      "start": 225.53,
+      "end": 226.17,
+      "speaker": "A",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "But",
+      "start": 226.57,
+      "end": 226.97,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "let's",
+      "start": 227.45,
+      "end": 227.809,
+      "speaker": "A",
+      "ai_probability": "0.00"
+    },
+    {
+      "text": "say",
+      "start": 227.809,
+      "end": 227.969,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "you're",
+      "start": 227.969,
+      "end": 228.21,
+      "speaker": "A",
+      "ai_probability": "0.50"
+    },
+    {
+      "text": "young",
+      "start": 228.21,
+      "end": 228.37,
+      "speaker": "A",
+      "ai_probability": "0.87"
+    },
+    {
+      "text": "and",
+      "start": 228.37,
+      "end": 228.53,
+      "speaker": "A",
+      "ai_probability": "0.91"
+    },
+    {
+      "text": "you're",
+      "start": 228.53,
+      "end": 228.77,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "just",
+      "start": 228.77,
+      "end": 229.05,
+      "speaker": "A",
+      "ai_probability": "0.58"
+    },
+    {
+      "text": "coming",
+      "start": 229.21,
+      "end": 229.49,
+      "speaker": "A",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "out",
+      "start": 229.49,
+      "end": 229.65,
+      "speaker": "A",
+      "ai_probability": "0.20"
+    },
+    {
+      "text": "of",
+      "start": 229.65,
+      "end": 229.77,
+      "speaker": "A",
+      "ai_probability": "0.18"
+    },
+    {
+      "text": "college",
+      "start": 229.77,
+      "end": 230.09,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "or",
+      "start": 230.09,
+      "end": 230.41,
+      "speaker": "A",
+      "ai_probability": "0.79"
+    },
+    {
+      "text": "coming",
+      "start": 230.57,
+      "end": 230.89,
+      "speaker": "A",
+      "ai_probability": "0.40"
+    },
+    {
+      "text": "out",
+      "start": 230.89,
+      "end": 231.05,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "of",
+      "start": 231.05,
+      "end": 231.13,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "high",
+      "start": 231.13,
+      "end": 231.25,
+      "speaker": "A",
+      "ai_probability": "0.22"
+    },
+    {
+      "text": "school",
+      "start": 231.25,
+      "end": 231.41,
+      "speaker": "A",
+      "ai_probability": "0.96"
+    },
+    {
+      "text": "or",
+      "start": 231.41,
+      "end": 231.53,
+      "speaker": "A",
+      "ai_probability": "0.76"
+    },
+    {
+      "text": "whatever,",
+      "start": 231.53,
+      "end": 231.93,
+      "speaker": "A",
+      "ai_probability": "0.41"
+    },
+    {
+      "text": "what",
+      "start": 233.45,
+      "end": 233.73,
+      "speaker": "A",
+      "ai_probability": "0.63"
+    },
+    {
+      "text": "do",
+      "start": 233.73,
+      "end": 233.85,
+      "speaker": "A",
+      "ai_probability": "0.43"
+    },
+    {
+      "text": "you",
+      "start": 233.85,
+      "end": 233.97,
+      "speaker": "A",
+      "ai_probability": "0.20"
+    },
+    {
+      "text": "risk?",
+      "start": 233.97,
+      "end": 234.25,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "You",
+      "start": 241.03,
+      "end": 241.11,
+      "speaker": "A",
+      "ai_probability": "0.20"
+    },
+    {
+      "text": "know,",
+      "start": 241.11,
+      "end": 241.23,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "you're",
+      "start": 241.23,
+      "end": 241.43,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "not",
+      "start": 241.43,
+      "end": 241.51,
+      "speaker": "A",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "going",
+      "start": 241.51,
+      "end": 241.59,
+      "speaker": "A",
+      "ai_probability": "0.17"
+    },
+    {
+      "text": "to",
+      "start": 241.59,
+      "end": 241.67,
+      "speaker": "A",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "stop.",
+      "start": 241.67,
+      "end": 241.91,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "I",
+      "start": 241.99,
+      "end": 242.27,
+      "speaker": "A",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "mean,",
+      "start": 242.27,
+      "end": 242.55,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "it's",
+      "start": 243.67,
+      "end": 244.07,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "really,",
+      "start": 244.07,
+      "end": 244.39,
+      "speaker": "A",
+      "ai_probability": "0.47"
+    },
+    {
+      "text": "certainly",
+      "start": 244.39,
+      "end": 244.83,
+      "speaker": "A",
+      "ai_probability": "0.65"
+    },
+    {
+      "text": "not",
+      "start": 244.83,
+      "end": 244.99,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "in",
+      "start": 244.99,
+      "end": 245.15,
+      "speaker": "A",
+      "ai_probability": "0.83"
+    },
+    {
+      "text": "any",
+      "start": 245.15,
+      "end": 245.31,
+      "speaker": "A",
+      "ai_probability": "0.04"
+    },
+    {
+      "text": "kind",
+      "start": 245.31,
+      "end": 245.43,
+      "speaker": "A",
+      "ai_probability": "0.44"
+    },
+    {
+      "text": "of",
+      "start": 245.43,
+      "end": 245.55,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "modern",
+      "start": 245.55,
+      "end": 245.79,
+      "speaker": "A",
+      "ai_probability": "0.89"
+    },
+    {
+      "text": "economy.",
+      "start": 245.79,
+      "end": 246.07,
+      "speaker": "A",
+      "ai_probability": "0.27"
+    },
+    {
+      "text": "It's",
+      "start": 246.07,
+      "end": 246.63,
+      "speaker": "A",
+      "ai_probability": "0.34"
+    },
+    {
+      "text": "so",
+      "start": 247.19,
+      "end": 247.43,
+      "speaker": "A",
+      "ai_probability": "0.40"
+    },
+    {
+      "text": "easy",
+      "start": 247.43,
+      "end": 247.71,
+      "speaker": "A",
+      "ai_probability": "0.57"
+    },
+    {
+      "text": "to",
+      "start": 247.71,
+      "end": 247.91,
+      "speaker": "A",
+      "ai_probability": "0.49"
+    },
+    {
+      "text": "earn",
+      "start": 247.91,
+      "end": 248.27,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "enough",
+      "start": 248.27,
+      "end": 248.55,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "money",
+      "start": 248.55,
+      "end": 248.87,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "just",
+      "start": 248.87,
+      "end": 249.11,
+      "speaker": "A",
+      "ai_probability": "0.59"
+    },
+    {
+      "text": "to",
+      "start": 249.11,
+      "end": 249.27,
+      "speaker": "A",
+      "ai_probability": "0.19"
+    },
+    {
+      "text": "live",
+      "start": 249.27,
+      "end": 249.51,
+      "speaker": "A",
+      "ai_probability": "0.03"
+    },
+    {
+      "text": "somewhere",
+      "start": 249.51,
+      "end": 249.79,
+      "speaker": "A",
+      "ai_probability": "0.37"
+    },
+    {
+      "text": "and",
+      "start": 249.79,
+      "end": 249.99,
+      "speaker": "A",
+      "ai_probability": "0.68"
+    },
+    {
+      "text": "eat",
+      "start": 249.99,
+      "end": 250.23,
+      "speaker": "A",
+      "ai_probability": "0.66"
+    },
+    {
+      "text": "food.",
+      "start": 250.23,
+      "end": 250.47,
+      "speaker": "A",
+      "ai_probability": "0.83"
+    },
+    {
+      "text": "I",
+      "start": 252.71,
+      "end": 252.95,
+      "speaker": "A",
+      "ai_probability": "0.65"
+    },
+    {
+      "text": "don't",
+      "start": 252.95,
+      "end": 253.03,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "know,",
+      "start": 253.03,
+      "end": 253.27,
+      "speaker": "A",
+      "ai_probability": "0.55"
+    },
+    {
+      "text": "what",
+      "start": 253.35,
+      "end": 253.59,
+      "speaker": "A",
+      "ai_probability": "0.39"
+    },
+    {
+      "text": "are",
+      "start": 253.59,
+      "end": 253.67,
+      "speaker": "A",
+      "ai_probability": "0.34"
+    },
+    {
+      "text": "they,",
+      "start": 253.67,
+      "end": 253.83,
+      "speaker": "A",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "what",
+      "start": 253.83,
+      "end": 254.03,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "are",
+      "start": 254.03,
+      "end": 254.15,
+      "speaker": "A",
+      "ai_probability": "0.91"
+    },
+    {
+      "text": "they",
+      "start": 254.15,
+      "end": 254.27,
+      "speaker": "A",
+      "ai_probability": "0.07"
+    },
+    {
+      "text": "afraid",
+      "start": 254.27,
+      "end": 254.47,
+      "speaker": "A",
+      "ai_probability": "0.57"
+    },
+    {
+      "text": "of?",
+      "start": 254.47,
+      "end": 254.71,
+      "speaker": "A",
+      "ai_probability": "0.47"
+    },
+    {
+      "text": "They're",
+      "start": 254.79,
+      "end": 255.27,
+      "speaker": "A",
+      "ai_probability": "0.40"
+    },
+    {
+      "text": "mostly",
+      "start": 255.35,
+      "end": 255.71,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "afraid",
+      "start": 255.71,
+      "end": 256.03,
+      "speaker": "A",
+      "ai_probability": "0.41"
+    },
+    {
+      "text": "of",
+      "start": 256.03,
+      "end": 256.31,
+      "speaker": "A",
+      "ai_probability": "0.05"
+    },
+    {
+      "text": "failure.",
+      "start": 256.709,
+      "end": 257.27,
+      "speaker": "A",
+      "ai_probability": "0.68"
+    },
+    {
+      "text": "I",
+      "start": 257.27,
+      "end": 257.47,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "think",
+      "start": 257.47,
+      "end": 257.75,
+      "speaker": "A",
+      "ai_probability": "0.45"
+    },
+    {
+      "text": "people",
+      "start": 266.07,
+      "end": 266.39,
+      "speaker": "A",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "should",
+      "start": 266.39,
+      "end": 266.71,
+      "speaker": "A",
+      "ai_probability": "0.90"
+    },
+    {
+      "text": "be",
+      "start": 266.99,
+      "end": 267.23,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "less",
+      "start": 267.31,
+      "end": 267.59,
+      "speaker": "A",
+      "ai_probability": "0.68"
+    },
+    {
+      "text": "risk",
+      "start": 267.59,
+      "end": 267.83,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "averse",
+      "start": 267.83,
+      "end": 268.35,
+      "speaker": "A",
+      "ai_probability": "0.56"
+    },
+    {
+      "text": "when",
+      "start": 268.67,
+      "end": 269.07,
+      "speaker": "A",
+      "ai_probability": "0.52"
+    },
+    {
+      "text": "there's",
+      "start": 269.87,
+      "end": 270.51,
+      "speaker": "A",
+      "ai_probability": "0.22"
+    },
+    {
+      "text": "not",
+      "start": 270.67,
+      "end": 270.99,
+      "speaker": "A",
+      "ai_probability": "0.27"
+    },
+    {
+      "text": "much",
+      "start": 270.99,
+      "end": 271.27,
+      "speaker": "A",
+      "ai_probability": "0.08"
+    },
+    {
+      "text": "at",
+      "start": 271.27,
+      "end": 271.51,
+      "speaker": "A",
+      "ai_probability": "0.01"
+    },
+    {
+      "text": "risk.",
+      "start": 271.51,
+      "end": 271.79,
+      "speaker": "A",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "What",
+      "start": 276.75,
+      "end": 277.03,
+      "speaker": "A",
+      "ai_probability": "0.35"
+    },
+    {
+      "text": "is",
+      "start": 277.03,
+      "end": 277.23,
+      "speaker": "A",
+      "ai_probability": "0.34"
+    },
+    {
+      "text": "education",
+      "start": 277.23,
+      "end": 277.55,
+      "speaker": "A",
+      "ai_probability": "0.00"
+    },
+    {
+      "text": "like?",
+      "start": 277.63,
+      "end": 277.95,
+      "speaker": "A",
+      "ai_probability": "0.19"
+    },
+    {
+      "text": "You're",
+      "start": 277.95,
+      "end": 278.19,
+      "speaker": "A",
+      "ai_probability": "0.15"
+    },
+    {
+      "text": "basically",
+      "start": 278.19,
+      "end": 278.47,
+      "speaker": "A",
+      "ai_probability": "0.51"
+    },
+    {
+      "text": "downloading",
+      "start": 278.47,
+      "end": 279.07,
+      "speaker": "A",
+      "ai_probability": "0.15"
+    },
+    {
+      "text": "data",
+      "start": 279.07,
+      "end": 279.31,
+      "speaker": "A",
+      "ai_probability": "0.28"
+    },
+    {
+      "text": "and",
+      "start": 279.31,
+      "end": 279.51,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "algorithms",
+      "start": 279.51,
+      "end": 279.99,
+      "speaker": "A",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "into",
+      "start": 279.99,
+      "end": 280.19,
+      "speaker": "A",
+      "ai_probability": "0.57"
+    },
+    {
+      "text": "your",
+      "start": 280.19,
+      "end": 280.39,
+      "speaker": "A",
+      "ai_probability": "0.20"
+    },
+    {
+      "text": "brain",
+      "start": 280.39,
+      "end": 280.75,
+      "speaker": "A",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "and",
+      "start": 281.23,
+      "end": 281.63,
+      "speaker": "A",
+      "ai_probability": "0.08"
+    },
+    {
+      "text": "it's",
+      "start": 282.83,
+      "end": 283.15,
+      "speaker": "A",
+      "ai_probability": "0.99"
+    },
+    {
+      "text": "actually",
+      "start": 283.15,
+      "end": 283.39,
+      "speaker": "A",
+      "ai_probability": "0.50"
+    },
+    {
+      "text": "amazingly",
+      "start": 283.95,
+      "end": 284.75,
+      "speaker": "A",
+      "ai_probability": "0.10"
+    },
+    {
+      "text": "bad",
+      "start": 284.99,
+      "end": 285.39,
+      "speaker": "A",
+      "ai_probability": "0.25"
+    },
+    {
+      "text": "in",
+      "start": 285.39,
+      "end": 285.67,
+      "speaker": "A",
+      "ai_probability": "0.37"
+    },
+    {
+      "text": "conventional",
+      "start": 285.67,
+      "end": 286.19,
+      "speaker": "A",
+      "ai_probability": "0.03"
+    },
+    {
+      "text": "education",
+      "start": 286.19,
+      "end": 286.51,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "because",
+      "start": 286.59,
+      "end": 286.87,
+      "speaker": "A",
+      "ai_probability": "0.99"
+    },
+    {
+      "text": "like",
+      "start": 286.87,
+      "end": 287.03,
+      "speaker": "A",
+      "ai_probability": "0.62"
+    },
+    {
+      "text": "it",
+      "start": 287.03,
+      "end": 287.15,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "shouldn't",
+      "start": 287.15,
+      "end": 287.31,
+      "speaker": "A",
+      "ai_probability": "0.18"
+    },
+    {
+      "text": "be",
+      "start": 287.31,
+      "end": 287.43,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "like",
+      "start": 287.43,
+      "end": 287.59,
+      "speaker": "A",
+      "ai_probability": "0.21"
+    },
+    {
+      "text": "this",
+      "start": 287.59,
+      "end": 287.75,
+      "speaker": "A",
+      "ai_probability": "0.67"
+    },
+    {
+      "text": "huge",
+      "start": 287.75,
+      "end": 287.99,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "chore.",
+      "start": 287.99,
+      "end": 288.43,
+      "speaker": "A",
+      "ai_probability": "0.32"
+    },
+    {
+      "text": "The",
+      "start": 288.75,
+      "end": 289.03,
+      "speaker": "A",
+      "ai_probability": "0.57"
+    },
+    {
+      "text": "more",
+      "start": 289.03,
+      "end": 289.19,
+      "speaker": "A",
+      "ai_probability": "0.00"
+    },
+    {
+      "text": "you",
+      "start": 289.19,
+      "end": 289.31,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "can",
+      "start": 289.31,
+      "end": 289.47,
+      "speaker": "A",
+      "ai_probability": "0.07"
+    },
+    {
+      "text": "gamify",
+      "start": 289.47,
+      "end": 290.03,
+      "speaker": "A",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "the",
+      "start": 290.75,
+      "end": 291.15,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "process",
+      "start": 292.61,
+      "end": 292.77,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "of",
+      "start": 292.77,
+      "end": 292.97,
+      "speaker": "A",
+      "ai_probability": "0.38"
+    },
+    {
+      "text": "learning,",
+      "start": 292.97,
+      "end": 293.33,
+      "speaker": "A",
+      "ai_probability": "0.85"
+    },
+    {
+      "text": "the",
+      "start": 293.41,
+      "end": 293.69,
+      "speaker": "A",
+      "ai_probability": "0.23"
+    },
+    {
+      "text": "better.",
+      "start": 293.69,
+      "end": 293.97,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "I",
+      "start": 301.81,
+      "end": 302.05,
+      "speaker": "A",
+      "ai_probability": "0.13"
+    },
+    {
+      "text": "was",
+      "start": 302.05,
+      "end": 302.17,
+      "speaker": "A",
+      "ai_probability": "0.79"
+    },
+    {
+      "text": "at",
+      "start": 302.17,
+      "end": 302.37,
+      "speaker": "A",
+      "ai_probability": "0.93"
+    },
+    {
+      "text": "sort",
+      "start": 302.37,
+      "end": 302.57,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "of",
+      "start": 302.57,
+      "end": 302.65,
+      "speaker": "A",
+      "ai_probability": "0.57"
+    },
+    {
+      "text": "a",
+      "start": 302.65,
+      "end": 302.77,
+      "speaker": "A",
+      "ai_probability": "0.94"
+    },
+    {
+      "text": "slight",
+      "start": 302.77,
+      "end": 303.01,
+      "speaker": "A",
+      "ai_probability": "0.01"
+    },
+    {
+      "text": "existential",
+      "start": 303.01,
+      "end": 303.57,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "crisis",
+      "start": 303.57,
+      "end": 304.01,
+      "speaker": "A",
+      "ai_probability": "0.35"
+    },
+    {
+      "text": "because",
+      "start": 304.01,
+      "end": 304.17,
+      "speaker": "A",
+      "ai_probability": "0.99"
+    },
+    {
+      "text": "I",
+      "start": 304.17,
+      "end": 304.29,
+      "speaker": "A",
+      "ai_probability": "0.12"
+    },
+    {
+      "text": "was",
+      "start": 304.29,
+      "end": 304.37,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "trying",
+      "start": 304.37,
+      "end": 304.49,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "to",
+      "start": 304.49,
+      "end": 304.61,
+      "speaker": "A",
+      "ai_probability": "0.95"
+    },
+    {
+      "text": "figure",
+      "start": 304.61,
+      "end": 304.81,
+      "speaker": "A",
+      "ai_probability": "0.63"
+    },
+    {
+      "text": "out",
+      "start": 304.81,
+      "end": 305.09,
+      "speaker": "A",
+      "ai_probability": "0.19"
+    },
+    {
+      "text": "what",
+      "start": 305.25,
+      "end": 305.53,
+      "speaker": "A",
+      "ai_probability": "0.18"
+    },
+    {
+      "text": "does",
+      "start": 305.53,
+      "end": 305.69,
+      "speaker": "A",
+      "ai_probability": "0.51"
+    },
+    {
+      "text": "it",
+      "start": 305.69,
+      "end": 305.85,
+      "speaker": "A",
+      "ai_probability": "0.55"
+    },
+    {
+      "text": "all",
+      "start": 305.85,
+      "end": 306.01,
+      "speaker": "A",
+      "ai_probability": "0.33"
+    },
+    {
+      "text": "mean?",
+      "start": 306.01,
+      "end": 306.21,
+      "speaker": "A",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "Like",
+      "start": 306.21,
+      "end": 306.41,
+      "speaker": "A",
+      "ai_probability": "0.18"
+    },
+    {
+      "text": "what's",
+      "start": 306.41,
+      "end": 306.61,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "the",
+      "start": 306.61,
+      "end": 306.73,
+      "speaker": "A",
+      "ai_probability": "0.19"
+    },
+    {
+      "text": "purpose",
+      "start": 306.73,
+      "end": 307.05,
+      "speaker": "A",
+      "ai_probability": "0.70"
+    },
+    {
+      "text": "of",
+      "start": 307.05,
+      "end": 307.21,
+      "speaker": "A",
+      "ai_probability": "0.52"
+    },
+    {
+      "text": "things?",
+      "start": 307.21,
+      "end": 307.49,
+      "speaker": "A",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "And",
+      "start": 307.97,
+      "end": 308.37,
+      "speaker": "A",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "I",
+      "start": 309.49,
+      "end": 309.77,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "came",
+      "start": 309.77,
+      "end": 309.93,
+      "speaker": "A",
+      "ai_probability": "0.64"
+    },
+    {
+      "text": "to",
+      "start": 309.93,
+      "end": 310.09,
+      "speaker": "A",
+      "ai_probability": "0.90"
+    },
+    {
+      "text": "the",
+      "start": 310.09,
+      "end": 310.21,
+      "speaker": "A",
+      "ai_probability": "0.38"
+    },
+    {
+      "text": "conclusion",
+      "start": 310.21,
+      "end": 310.69,
+      "speaker": "A",
+      "ai_probability": "0.76"
+    },
+    {
+      "text": "that",
+      "start": 310.69,
+      "end": 311.01,
+      "speaker": "A",
+      "ai_probability": "0.29"
+    },
+    {
+      "text": "if",
+      "start": 311.49,
+      "end": 311.77,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "we",
+      "start": 311.77,
+      "end": 311.93,
+      "speaker": "A",
+      "ai_probability": "0.30"
+    },
+    {
+      "text": "can",
+      "start": 311.93,
+      "end": 312.09,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "advance",
+      "start": 312.09,
+      "end": 312.53,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "the",
+      "start": 314.05,
+      "end": 314.37,
+      "speaker": "A",
+      "ai_probability": "0.04"
+    },
+    {
+      "text": "knowledge",
+      "start": 314.37,
+      "end": 314.73,
+      "speaker": "A",
+      "ai_probability": "0.32"
+    },
+    {
+      "text": "of",
+      "start": 314.73,
+      "end": 314.85,
+      "speaker": "A",
+      "ai_probability": "0.67"
+    },
+    {
+      "text": "the",
+      "start": 314.85,
+      "end": 314.93,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "world,",
+      "start": 314.93,
+      "end": 315.09,
+      "speaker": "A",
+      "ai_probability": "0.64"
+    },
+    {
+      "text": "if",
+      "start": 315.09,
+      "end": 315.29,
+      "speaker": "A",
+      "ai_probability": "0.62"
+    },
+    {
+      "text": "we",
+      "start": 315.29,
+      "end": 315.41,
+      "speaker": "A",
+      "ai_probability": "0.89"
+    },
+    {
+      "text": "can",
+      "start": 315.41,
+      "end": 315.53,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "do",
+      "start": 315.53,
+      "end": 315.69,
+      "speaker": "A",
+      "ai_probability": "0.35"
+    },
+    {
+      "text": "things",
+      "start": 315.69,
+      "end": 315.89,
+      "speaker": "A",
+      "ai_probability": "0.34"
+    },
+    {
+      "text": "that",
+      "start": 315.89,
+      "end": 316.21,
+      "speaker": "A",
+      "ai_probability": "0.03"
+    },
+    {
+      "text": "expand",
+      "start": 316.37,
+      "end": 316.73,
+      "speaker": "A",
+      "ai_probability": "0.39"
+    },
+    {
+      "text": "the",
+      "start": 316.73,
+      "end": 316.89,
+      "speaker": "A",
+      "ai_probability": "0.90"
+    },
+    {
+      "text": "scope",
+      "start": 316.89,
+      "end": 317.41,
+      "speaker": "A",
+      "ai_probability": "0.01"
+    },
+    {
+      "text": "and",
+      "start": 317.81,
+      "end": 318.09,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "scale",
+      "start": 318.09,
+      "end": 318.41,
+      "speaker": "A",
+      "ai_probability": "0.40"
+    },
+    {
+      "text": "of",
+      "start": 318.41,
+      "end": 318.77,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "consciousness,",
+      "start": 319.03,
+      "end": 319.59,
+      "speaker": "A",
+      "ai_probability": "0.39"
+    },
+    {
+      "text": "then",
+      "start": 319.75,
+      "end": 320.07,
+      "speaker": "A",
+      "ai_probability": "0.35"
+    },
+    {
+      "text": "we're",
+      "start": 320.07,
+      "end": 320.35,
+      "speaker": "A",
+      "ai_probability": "0.89"
+    },
+    {
+      "text": "better",
+      "start": 320.35,
+      "end": 320.55,
+      "speaker": "A",
+      "ai_probability": "0.38"
+    },
+    {
+      "text": "able",
+      "start": 320.55,
+      "end": 320.79,
+      "speaker": "A",
+      "ai_probability": "0.50"
+    },
+    {
+      "text": "to",
+      "start": 320.79,
+      "end": 321.11,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "ask",
+      "start": 321.19,
+      "end": 321.55,
+      "speaker": "A",
+      "ai_probability": "0.50"
+    },
+    {
+      "text": "the",
+      "start": 321.55,
+      "end": 321.79,
+      "speaker": "A",
+      "ai_probability": "0.87"
+    },
+    {
+      "text": "right",
+      "start": 321.79,
+      "end": 321.99,
+      "speaker": "A",
+      "ai_probability": "0.67"
+    },
+    {
+      "text": "questions",
+      "start": 321.99,
+      "end": 322.55,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "and",
+      "start": 322.79,
+      "end": 323.11,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "become",
+      "start": 323.11,
+      "end": 323.35,
+      "speaker": "A",
+      "ai_probability": "0.35"
+    },
+    {
+      "text": "more",
+      "start": 323.35,
+      "end": 323.55,
+      "speaker": "A",
+      "ai_probability": "0.52"
+    },
+    {
+      "text": "enlightened.",
+      "start": 323.55,
+      "end": 324.19,
+      "speaker": "A",
+      "ai_probability": "0.52"
+    },
+    {
+      "text": "And",
+      "start": 324.19,
+      "end": 324.55,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "that's",
+      "start": 324.95,
+      "end": 325.31,
+      "speaker": "A",
+      "ai_probability": "0.70"
+    },
+    {
+      "text": "really",
+      "start": 325.31,
+      "end": 325.47,
+      "speaker": "A",
+      "ai_probability": "0.59"
+    },
+    {
+      "text": "the",
+      "start": 325.47,
+      "end": 325.59,
+      "speaker": "A",
+      "ai_probability": "0.13"
+    },
+    {
+      "text": "only",
+      "start": 325.59,
+      "end": 325.75,
+      "speaker": "A",
+      "ai_probability": "0.56"
+    },
+    {
+      "text": "way",
+      "start": 325.75,
+      "end": 325.99,
+      "speaker": "A",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "forward.",
+      "start": 325.99,
+      "end": 326.31,
+      "speaker": "A",
+      "ai_probability": "0.60"
+    },
+    {
+      "text": "What",
+      "start": 330.39,
+      "end": 330.71,
+      "speaker": "B",
+      "ai_probability": "0.10"
+    },
+    {
+      "text": "drives",
+      "start": 330.71,
+      "end": 331.11,
+      "speaker": "B",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "you?",
+      "start": 331.11,
+      "end": 331.43,
+      "speaker": "B",
+      "ai_probability": "0.20"
+    },
+    {
+      "text": "What",
+      "start": 331.91,
+      "end": 332.19,
+      "speaker": "B",
+      "ai_probability": "0.49"
+    },
+    {
+      "text": "is",
+      "start": 332.19,
+      "end": 332.35,
+      "speaker": "B",
+      "ai_probability": "0.89"
+    },
+    {
+      "text": "it",
+      "start": 332.35,
+      "end": 332.55,
+      "speaker": "B",
+      "ai_probability": "0.08"
+    },
+    {
+      "text": "that",
+      "start": 332.55,
+      "end": 332.79,
+      "speaker": "B",
+      "ai_probability": "0.39"
+    },
+    {
+      "text": "when",
+      "start": 332.79,
+      "end": 332.99,
+      "speaker": "B",
+      "ai_probability": "0.28"
+    },
+    {
+      "text": "you",
+      "start": 332.99,
+      "end": 333.19,
+      "speaker": "B",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "wake",
+      "start": 333.19,
+      "end": 333.43,
+      "speaker": "B",
+      "ai_probability": "0.42"
+    },
+    {
+      "text": "up",
+      "start": 333.43,
+      "end": 333.55,
+      "speaker": "B",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "in",
+      "start": 333.55,
+      "end": 333.71,
+      "speaker": "B",
+      "ai_probability": "0.34"
+    },
+    {
+      "text": "the",
+      "start": 333.71,
+      "end": 333.87,
+      "speaker": "B",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "morning,",
+      "start": 333.87,
+      "end": 334.15,
+      "speaker": "B",
+      "ai_probability": "0.04"
+    },
+    {
+      "text": "do",
+      "start": 334.47,
+      "end": 334.75,
+      "speaker": "B",
+      "ai_probability": "0.21"
+    },
+    {
+      "text": "you",
+      "start": 334.75,
+      "end": 334.909,
+      "speaker": "B",
+      "ai_probability": "0.59"
+    },
+    {
+      "text": "see",
+      "start": 334.909,
+      "end": 335.109,
+      "speaker": "B",
+      "ai_probability": "0.12"
+    },
+    {
+      "text": "a",
+      "start": 335.109,
+      "end": 335.31,
+      "speaker": "B",
+      "ai_probability": "0.90"
+    },
+    {
+      "text": "problem",
+      "start": 335.31,
+      "end": 335.59,
+      "speaker": "B",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "and",
+      "start": 336.07,
+      "end": 336.43,
+      "speaker": "B",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "you",
+      "start": 336.43,
+      "end": 336.71,
+      "speaker": "B",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "want",
+      "start": 336.71,
+      "end": 336.91,
+      "speaker": "B",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "to",
+      "start": 336.91,
+      "end": 337.11,
+      "speaker": "B",
+      "ai_probability": "0.70"
+    },
+    {
+      "text": "solve",
+      "start": 337.11,
+      "end": 337.39,
+      "speaker": "B",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "it?",
+      "start": 337.39,
+      "end": 337.67,
+      "speaker": "B",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "The",
+      "start": 341.83,
+      "end": 342.11,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "thing",
+      "start": 342.11,
+      "end": 342.27,
+      "speaker": "A",
+      "ai_probability": "0.95"
+    },
+    {
+      "text": "that",
+      "start": 342.27,
+      "end": 342.55,
+      "speaker": "A",
+      "ai_probability": "0.53"
+    },
+    {
+      "text": "drives",
+      "start": 342.71,
+      "end": 343.11,
+      "speaker": "A",
+      "ai_probability": "0.63"
+    },
+    {
+      "text": "me",
+      "start": 343.11,
+      "end": 343.39,
+      "speaker": "A",
+      "ai_probability": "0.52"
+    },
+    {
+      "text": "is",
+      "start": 343.39,
+      "end": 343.71,
+      "speaker": "A",
+      "ai_probability": "0.59"
+    },
+    {
+      "text": "that",
+      "start": 343.71,
+      "end": 344.07,
+      "speaker": "A",
+      "ai_probability": "0.49"
+    },
+    {
+      "text": "I",
+      "start": 344.15,
+      "end": 344.43,
+      "speaker": "A",
+      "ai_probability": "0.00"
+    },
+    {
+      "text": "want",
+      "start": 344.43,
+      "end": 344.59,
+      "speaker": "A",
+      "ai_probability": "0.85"
+    },
+    {
+      "text": "to",
+      "start": 344.59,
+      "end": 344.71,
+      "speaker": "A",
+      "ai_probability": "0.57"
+    },
+    {
+      "text": "be",
+      "start": 344.71,
+      "end": 344.79,
+      "speaker": "A",
+      "ai_probability": "0.95"
+    },
+    {
+      "text": "able",
+      "start": 344.79,
+      "end": 344.91,
+      "speaker": "A",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "to",
+      "start": 344.91,
+      "end": 345.07,
+      "speaker": "A",
+      "ai_probability": "0.22"
+    },
+    {
+      "text": "think",
+      "start": 345.07,
+      "end": 345.23,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "about",
+      "start": 345.23,
+      "end": 345.39,
+      "speaker": "A",
+      "ai_probability": "0.25"
+    },
+    {
+      "text": "the",
+      "start": 345.39,
+      "end": 345.51,
+      "speaker": "A",
+      "ai_probability": "0.96"
+    },
+    {
+      "text": "future",
+      "start": 345.51,
+      "end": 345.75,
+      "speaker": "A",
+      "ai_probability": "0.38"
+    },
+    {
+      "text": "and",
+      "start": 346.6,
+      "end": 346.84,
+      "speaker": "A",
+      "ai_probability": "0.92"
+    },
+    {
+      "text": "feel",
+      "start": 349,
+      "end": 349.28,
+      "speaker": "A",
+      "ai_probability": "0.01"
+    },
+    {
+      "text": "good",
+      "start": 349.28,
+      "end": 349.44,
+      "speaker": "A",
+      "ai_probability": "0.42"
+    },
+    {
+      "text": "about",
+      "start": 349.44,
+      "end": 349.64,
+      "speaker": "A",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "that,",
+      "start": 349.64,
+      "end": 349.96,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "so",
+      "start": 350.84,
+      "end": 351.24,
+      "speaker": "A",
+      "ai_probability": "0.35"
+    },
+    {
+      "text": "that",
+      "start": 352.44,
+      "end": 352.84,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "we're",
+      "start": 353.72,
+      "end": 354.04,
+      "speaker": "A",
+      "ai_probability": "0.60"
+    },
+    {
+      "text": "doing",
+      "start": 354.04,
+      "end": 354.16,
+      "speaker": "A",
+      "ai_probability": "0.51"
+    },
+    {
+      "text": "what",
+      "start": 354.16,
+      "end": 354.32,
+      "speaker": "A",
+      "ai_probability": "0.51"
+    },
+    {
+      "text": "we",
+      "start": 354.32,
+      "end": 354.48,
+      "speaker": "A",
+      "ai_probability": "0.63"
+    },
+    {
+      "text": "can",
+      "start": 354.48,
+      "end": 354.72,
+      "speaker": "A",
+      "ai_probability": "0.41"
+    },
+    {
+      "text": "to",
+      "start": 354.72,
+      "end": 355.08,
+      "speaker": "A",
+      "ai_probability": "0.93"
+    },
+    {
+      "text": "have",
+      "start": 356.36,
+      "end": 356.64,
+      "speaker": "A",
+      "ai_probability": "0.18"
+    },
+    {
+      "text": "the",
+      "start": 356.64,
+      "end": 356.8,
+      "speaker": "A",
+      "ai_probability": "0.87"
+    },
+    {
+      "text": "future",
+      "start": 356.8,
+      "end": 357.08,
+      "speaker": "A",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "be",
+      "start": 357.64,
+      "end": 357.92,
+      "speaker": "A",
+      "ai_probability": "0.62"
+    },
+    {
+      "text": "as",
+      "start": 357.92,
+      "end": 358.08,
+      "speaker": "A",
+      "ai_probability": "0.68"
+    },
+    {
+      "text": "good",
+      "start": 358.08,
+      "end": 358.24,
+      "speaker": "A",
+      "ai_probability": "0.26"
+    },
+    {
+      "text": "as",
+      "start": 358.24,
+      "end": 358.4,
+      "speaker": "A",
+      "ai_probability": "0.05"
+    },
+    {
+      "text": "possible,",
+      "start": 358.4,
+      "end": 358.68,
+      "speaker": "A",
+      "ai_probability": "0.51"
+    },
+    {
+      "text": "to",
+      "start": 360.6,
+      "end": 360.88,
+      "speaker": "A",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "be",
+      "start": 360.88,
+      "end": 361.04,
+      "speaker": "A",
+      "ai_probability": "0.58"
+    },
+    {
+      "text": "inspired",
+      "start": 361.04,
+      "end": 361.44,
+      "speaker": "A",
+      "ai_probability": "0.19"
+    },
+    {
+      "text": "by",
+      "start": 361.44,
+      "end": 361.8,
+      "speaker": "A",
+      "ai_probability": "0.35"
+    },
+    {
+      "text": "what",
+      "start": 361.8,
+      "end": 362.16,
+      "speaker": "A",
+      "ai_probability": "0.56"
+    },
+    {
+      "text": "is",
+      "start": 362.16,
+      "end": 362.399,
+      "speaker": "A",
+      "ai_probability": "0.23"
+    },
+    {
+      "text": "likely",
+      "start": 362.399,
+      "end": 362.6,
+      "speaker": "A",
+      "ai_probability": "0.63"
+    },
+    {
+      "text": "to",
+      "start": 362.6,
+      "end": 362.8,
+      "speaker": "A",
+      "ai_probability": "0.52"
+    },
+    {
+      "text": "happen,",
+      "start": 362.8,
+      "end": 363.08,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "and",
+      "start": 364.84,
+      "end": 365.2,
+      "speaker": "A",
+      "ai_probability": "0.74"
+    },
+    {
+      "text": "to",
+      "start": 365.2,
+      "end": 365.56,
+      "speaker": "A",
+      "ai_probability": "0.04"
+    },
+    {
+      "text": "look",
+      "start": 365.88,
+      "end": 366.2,
+      "speaker": "A",
+      "ai_probability": "0.74"
+    },
+    {
+      "text": "forward",
+      "start": 366.2,
+      "end": 366.52,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "to",
+      "start": 366.6,
+      "end": 367,
+      "speaker": "A",
+      "ai_probability": "0.22"
+    },
+    {
+      "text": "the",
+      "start": 367.08,
+      "end": 367.4,
+      "speaker": "A",
+      "ai_probability": "0.43"
+    },
+    {
+      "text": "next",
+      "start": 367.4,
+      "end": 367.64,
+      "speaker": "A",
+      "ai_probability": "0.65"
+    },
+    {
+      "text": "day.",
+      "start": 367.64,
+      "end": 367.96,
+      "speaker": "A",
+      "ai_probability": "0.15"
+    },
+    {
+      "text": "So",
+      "start": 370.04,
+      "end": 370.44,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "that's",
+      "start": 372.61,
+      "end": 372.77,
+      "speaker": "A",
+      "ai_probability": "0.76"
+    },
+    {
+      "text": "what",
+      "start": 372.77,
+      "end": 372.93,
+      "speaker": "A",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "really",
+      "start": 372.93,
+      "end": 373.25,
+      "speaker": "A",
+      "ai_probability": "0.53"
+    },
+    {
+      "text": "drives",
+      "start": 373.73,
+      "end": 374.09,
+      "speaker": "A",
+      "ai_probability": "0.01"
+    },
+    {
+      "text": "me,",
+      "start": 374.09,
+      "end": 374.37,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "is",
+      "start": 374.93,
+      "end": 375.25,
+      "speaker": "A",
+      "ai_probability": "0.12"
+    },
+    {
+      "text": "trying",
+      "start": 375.25,
+      "end": 375.45,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "to",
+      "start": 375.45,
+      "end": 375.57,
+      "speaker": "A",
+      "ai_probability": "0.58"
+    },
+    {
+      "text": "figure",
+      "start": 375.57,
+      "end": 375.77,
+      "speaker": "A",
+      "ai_probability": "0.57"
+    },
+    {
+      "text": "out",
+      "start": 375.77,
+      "end": 376.05,
+      "speaker": "A",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "how",
+      "start": 376.77,
+      "end": 377.05,
+      "speaker": "A",
+      "ai_probability": "0.92"
+    },
+    {
+      "text": "to",
+      "start": 377.05,
+      "end": 377.21,
+      "speaker": "A",
+      "ai_probability": "0.26"
+    },
+    {
+      "text": "make",
+      "start": 377.21,
+      "end": 377.37,
+      "speaker": "A",
+      "ai_probability": "0.44"
+    },
+    {
+      "text": "sure",
+      "start": 377.37,
+      "end": 377.53,
+      "speaker": "A",
+      "ai_probability": "0.39"
+    },
+    {
+      "text": "that",
+      "start": 377.53,
+      "end": 377.73,
+      "speaker": "A",
+      "ai_probability": "0.42"
+    },
+    {
+      "text": "things",
+      "start": 377.73,
+      "end": 377.93,
+      "speaker": "A",
+      "ai_probability": "0.19"
+    },
+    {
+      "text": "are",
+      "start": 377.93,
+      "end": 378.09,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "great",
+      "start": 378.09,
+      "end": 378.37,
+      "speaker": "A",
+      "ai_probability": "0.01"
+    },
+    {
+      "text": "and",
+      "start": 379.25,
+      "end": 379.65,
+      "speaker": "A",
+      "ai_probability": "0.15"
+    },
+    {
+      "text": "going",
+      "start": 379.73,
+      "end": 380.01,
+      "speaker": "A",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "to",
+      "start": 380.01,
+      "end": 380.13,
+      "speaker": "A",
+      "ai_probability": "0.99"
+    },
+    {
+      "text": "be.",
+      "start": 380.13,
+      "end": 380.29,
+      "speaker": "A",
+      "ai_probability": "0.15"
+    },
+    {
+      "text": "So",
+      "start": 380.29,
+      "end": 380.61,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "that's",
+      "start": 382.13,
+      "end": 382.69,
+      "speaker": "A",
+      "ai_probability": "0.49"
+    },
+    {
+      "text": "the",
+      "start": 383.09,
+      "end": 383.49,
+      "speaker": "A",
+      "ai_probability": "0.30"
+    },
+    {
+      "text": "underlying",
+      "start": 383.49,
+      "end": 384.13,
+      "speaker": "A",
+      "ai_probability": "0.90"
+    },
+    {
+      "text": "principle",
+      "start": 384.13,
+      "end": 384.69,
+      "speaker": "A",
+      "ai_probability": "0.41"
+    },
+    {
+      "text": "behind",
+      "start": 385.09,
+      "end": 385.49,
+      "speaker": "A",
+      "ai_probability": "0.26"
+    },
+    {
+      "text": "Tesla",
+      "start": 385.81,
+      "end": 386.57,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "and",
+      "start": 386.57,
+      "end": 386.93,
+      "speaker": "A",
+      "ai_probability": "0.07"
+    },
+    {
+      "text": "SpaceX,",
+      "start": 386.93,
+      "end": 387.65,
+      "speaker": "A",
+      "ai_probability": "0.39"
+    },
+    {
+      "text": "is",
+      "start": 389.25,
+      "end": 389.65,
+      "speaker": "A",
+      "ai_probability": "0.81"
+    },
+    {
+      "text": "that",
+      "start": 389.65,
+      "end": 390.05,
+      "speaker": "A",
+      "ai_probability": "0.59"
+    },
+    {
+      "text": "I",
+      "start": 390.93,
+      "end": 391.17,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "think",
+      "start": 391.17,
+      "end": 391.41,
+      "speaker": "A",
+      "ai_probability": "0.53"
+    },
+    {
+      "text": "it's",
+      "start": 391.97,
+      "end": 392.33,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "pretty",
+      "start": 392.33,
+      "end": 392.53,
+      "speaker": "A",
+      "ai_probability": "0.81"
+    },
+    {
+      "text": "important",
+      "start": 392.53,
+      "end": 392.73,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "that",
+      "start": 392.73,
+      "end": 392.97,
+      "speaker": "A",
+      "ai_probability": "0.79"
+    },
+    {
+      "text": "we",
+      "start": 392.97,
+      "end": 393.17,
+      "speaker": "A",
+      "ai_probability": "0.85"
+    },
+    {
+      "text": "accelerate",
+      "start": 393.17,
+      "end": 393.77,
+      "speaker": "A",
+      "ai_probability": "0.27"
+    },
+    {
+      "text": "the",
+      "start": 393.77,
+      "end": 393.97,
+      "speaker": "A",
+      "ai_probability": "0.04"
+    },
+    {
+      "text": "transition",
+      "start": 393.97,
+      "end": 394.53,
+      "speaker": "A",
+      "ai_probability": "0.25"
+    },
+    {
+      "text": "to",
+      "start": 394.53,
+      "end": 394.93,
+      "speaker": "A",
+      "ai_probability": "0.32"
+    },
+    {
+      "text": "sustainable",
+      "start": 395.65,
+      "end": 396.33,
+      "speaker": "A",
+      "ai_probability": "0.32"
+    },
+    {
+      "text": "generation",
+      "start": 396.33,
+      "end": 396.93,
+      "speaker": "A",
+      "ai_probability": "0.40"
+    },
+    {
+      "text": "and",
+      "start": 397.41,
+      "end": 397.77,
+      "speaker": "A",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "consumption",
+      "start": 397.77,
+      "end": 398.25,
+      "speaker": "A",
+      "ai_probability": "0.07"
+    },
+    {
+      "text": "of",
+      "start": 398.25,
+      "end": 398.37,
+      "speaker": "A",
+      "ai_probability": "0.50"
+    },
+    {
+      "text": "energy.",
+      "start": 398.37,
+      "end": 398.61,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "It's",
+      "start": 400.22,
+      "end": 400.46,
+      "speaker": "A",
+      "ai_probability": "0.38"
+    },
+    {
+      "text": "inevitable,",
+      "start": 400.46,
+      "end": 400.94,
+      "speaker": "A",
+      "ai_probability": "0.74"
+    },
+    {
+      "text": "but",
+      "start": 400.94,
+      "end": 401.26,
+      "speaker": "A",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "it",
+      "start": 401.5,
+      "end": 401.78,
+      "speaker": "A",
+      "ai_probability": "0.59"
+    },
+    {
+      "text": "matters",
+      "start": 401.78,
+      "end": 402.22,
+      "speaker": "A",
+      "ai_probability": "0.41"
+    },
+    {
+      "text": "if",
+      "start": 402.46,
+      "end": 402.74,
+      "speaker": "A",
+      "ai_probability": "0.23"
+    },
+    {
+      "text": "it",
+      "start": 402.74,
+      "end": 402.9,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "happens",
+      "start": 402.9,
+      "end": 403.22,
+      "speaker": "A",
+      "ai_probability": "0.83"
+    },
+    {
+      "text": "sooner",
+      "start": 403.22,
+      "end": 403.58,
+      "speaker": "A",
+      "ai_probability": "0.22"
+    },
+    {
+      "text": "or",
+      "start": 403.58,
+      "end": 403.82,
+      "speaker": "A",
+      "ai_probability": "0.65"
+    },
+    {
+      "text": "later.",
+      "start": 403.82,
+      "end": 404.14,
+      "speaker": "A",
+      "ai_probability": "0.53"
+    },
+    {
+      "text": "And",
+      "start": 414.22,
+      "end": 414.5,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "then",
+      "start": 414.5,
+      "end": 414.7,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "SpaceX",
+      "start": 414.7,
+      "end": 415.42,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "is",
+      "start": 415.42,
+      "end": 415.78,
+      "speaker": "A",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "about",
+      "start": 415.78,
+      "end": 416.14,
+      "speaker": "A",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "helping",
+      "start": 417.74,
+      "end": 418.22,
+      "speaker": "A",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "make",
+      "start": 418.22,
+      "end": 418.46,
+      "speaker": "A",
+      "ai_probability": "0.10"
+    },
+    {
+      "text": "life",
+      "start": 418.46,
+      "end": 418.78,
+      "speaker": "A",
+      "ai_probability": "0.90"
+    },
+    {
+      "text": "multi",
+      "start": 418.94,
+      "end": 419.42,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "planetary",
+      "start": 419.42,
+      "end": 419.98,
+      "speaker": "A",
+      "ai_probability": "0.20"
+    },
+    {
+      "text": "and",
+      "start": 421.58,
+      "end": 421.94,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "doing",
+      "start": 421.94,
+      "end": 422.18,
+      "speaker": "A",
+      "ai_probability": "0.28"
+    },
+    {
+      "text": "what",
+      "start": 422.18,
+      "end": 422.34,
+      "speaker": "A",
+      "ai_probability": "0.89"
+    },
+    {
+      "text": "we",
+      "start": 422.34,
+      "end": 422.5,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "can",
+      "start": 422.5,
+      "end": 422.78,
+      "speaker": "A",
+      "ai_probability": "0.44"
+    },
+    {
+      "text": "to",
+      "start": 422.78,
+      "end": 423.18,
+      "speaker": "A",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "continue",
+      "start": 423.66,
+      "end": 424.06,
+      "speaker": "A",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "the",
+      "start": 424.14,
+      "end": 424.54,
+      "speaker": "A",
+      "ai_probability": "0.04"
+    },
+    {
+      "text": "dream",
+      "start": 424.54,
+      "end": 424.86,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "of",
+      "start": 424.86,
+      "end": 424.98,
+      "speaker": "A",
+      "ai_probability": "0.58"
+    },
+    {
+      "text": "Apollo",
+      "start": 424.98,
+      "end": 425.58,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "and",
+      "start": 426.46,
+      "end": 426.86,
+      "speaker": "A",
+      "ai_probability": "0.01"
+    },
+    {
+      "text": "ultimately",
+      "start": 428.3,
+      "end": 429.02,
+      "speaker": "A",
+      "ai_probability": "0.43"
+    },
+    {
+      "text": "make",
+      "start": 429.58,
+      "end": 429.94,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "contributions",
+      "start": 429.94,
+      "end": 430.54,
+      "speaker": "A",
+      "ai_probability": "0.95"
+    },
+    {
+      "text": "to",
+      "start": 430.92,
+      "end": 431.04,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "life",
+      "start": 431.04,
+      "end": 431.24,
+      "speaker": "A",
+      "ai_probability": "0.70"
+    },
+    {
+      "text": "becoming",
+      "start": 431.24,
+      "end": 431.64,
+      "speaker": "A",
+      "ai_probability": "0.07"
+    },
+    {
+      "text": "multi",
+      "start": 431.64,
+      "end": 432.04,
+      "speaker": "A",
+      "ai_probability": "0.99"
+    },
+    {
+      "text": "planetary.",
+      "start": 432.04,
+      "end": 432.68,
+      "speaker": "A",
+      "ai_probability": "0.42"
+    },
+    {
+      "text": "Let's",
+      "start": 433.16,
+      "end": 433.56,
+      "speaker": "B",
+      "ai_probability": "0.50"
+    },
+    {
+      "text": "talk",
+      "start": 433.56,
+      "end": 433.68,
+      "speaker": "B",
+      "ai_probability": "0.26"
+    },
+    {
+      "text": "a",
+      "start": 433.68,
+      "end": 433.8,
+      "speaker": "B",
+      "ai_probability": "0.60"
+    },
+    {
+      "text": "little",
+      "start": 433.8,
+      "end": 433.92,
+      "speaker": "B",
+      "ai_probability": "0.85"
+    },
+    {
+      "text": "more",
+      "start": 433.92,
+      "end": 434.12,
+      "speaker": "B",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "about",
+      "start": 434.12,
+      "end": 434.36,
+      "speaker": "B",
+      "ai_probability": "0.43"
+    },
+    {
+      "text": "that.",
+      "start": 434.36,
+      "end": 434.6,
+      "speaker": "B",
+      "ai_probability": "0.56"
+    },
+    {
+      "text": "I",
+      "start": 434.6,
+      "end": 434.8,
+      "speaker": "B",
+      "ai_probability": "0.39"
+    },
+    {
+      "text": "think",
+      "start": 434.8,
+      "end": 435.08,
+      "speaker": "B",
+      "ai_probability": "0.01"
+    },
+    {
+      "text": "everyone",
+      "start": 435.16,
+      "end": 435.56,
+      "speaker": "B",
+      "ai_probability": "0.50"
+    },
+    {
+      "text": "very",
+      "start": 435.88,
+      "end": 436.2,
+      "speaker": "B",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "interested",
+      "start": 436.2,
+      "end": 436.76,
+      "speaker": "B",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "that",
+      "start": 436.76,
+      "end": 436.96,
+      "speaker": "B",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "when",
+      "start": 436.96,
+      "end": 437.12,
+      "speaker": "B",
+      "ai_probability": "0.59"
+    },
+    {
+      "text": "you",
+      "start": 437.12,
+      "end": 437.28,
+      "speaker": "B",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "say",
+      "start": 437.28,
+      "end": 437.56,
+      "speaker": "B",
+      "ai_probability": "0.53"
+    },
+    {
+      "text": "making",
+      "start": 437.72,
+      "end": 438.12,
+      "speaker": "B",
+      "ai_probability": "0.94"
+    },
+    {
+      "text": "life",
+      "start": 438.12,
+      "end": 438.48,
+      "speaker": "B",
+      "ai_probability": "0.43"
+    },
+    {
+      "text": "multi",
+      "start": 438.48,
+      "end": 438.88,
+      "speaker": "B",
+      "ai_probability": "0.38"
+    },
+    {
+      "text": "planetary,",
+      "start": 438.88,
+      "end": 439.56,
+      "speaker": "B",
+      "ai_probability": "0.94"
+    },
+    {
+      "text": "that's",
+      "start": 440.6,
+      "end": 440.92,
+      "speaker": "B",
+      "ai_probability": "0.32"
+    },
+    {
+      "text": "exciting.",
+      "start": 440.92,
+      "end": 441.32,
+      "speaker": "B",
+      "ai_probability": "0.19"
+    },
+    {
+      "text": "It",
+      "start": 441.4,
+      "end": 441.68,
+      "speaker": "B",
+      "ai_probability": "0.57"
+    },
+    {
+      "text": "is",
+      "start": 441.68,
+      "end": 441.88,
+      "speaker": "B",
+      "ai_probability": "0.89"
+    },
+    {
+      "text": "exciting.",
+      "start": 441.88,
+      "end": 442.36,
+      "speaker": "B",
+      "ai_probability": "0.29"
+    },
+    {
+      "text": "So",
+      "start": 443.48,
+      "end": 443.72,
+      "speaker": "B",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "what's",
+      "start": 443.72,
+      "end": 443.96,
+      "speaker": "B",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "your",
+      "start": 443.96,
+      "end": 444.08,
+      "speaker": "B",
+      "ai_probability": "0.85"
+    },
+    {
+      "text": "vision",
+      "start": 444.08,
+      "end": 444.44,
+      "speaker": "B",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "there?",
+      "start": 444.44,
+      "end": 444.76,
+      "speaker": "B",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "You",
+      "start": 445.08,
+      "end": 445.36,
+      "speaker": "A",
+      "ai_probability": "0.23"
+    },
+    {
+      "text": "know,",
+      "start": 445.36,
+      "end": 445.64,
+      "speaker": "A",
+      "ai_probability": "0.25"
+    },
+    {
+      "text": "I",
+      "start": 446.2,
+      "end": 446.44,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "think,",
+      "start": 446.44,
+      "end": 446.679,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "you",
+      "start": 446.679,
+      "end": 446.92,
+      "speaker": "A",
+      "ai_probability": "0.81"
+    },
+    {
+      "text": "know,",
+      "start": 446.92,
+      "end": 447.039,
+      "speaker": "A",
+      "ai_probability": "0.81"
+    },
+    {
+      "text": "particularly",
+      "start": 447.039,
+      "end": 447.44,
+      "speaker": "A",
+      "ai_probability": "0.65"
+    },
+    {
+      "text": "for",
+      "start": 447.44,
+      "end": 447.72,
+      "speaker": "A",
+      "ai_probability": "0.53"
+    },
+    {
+      "text": "Americans,",
+      "start": 448.68,
+      "end": 449.32,
+      "speaker": "A",
+      "ai_probability": "0.41"
+    },
+    {
+      "text": "you",
+      "start": 449.32,
+      "end": 449.52,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "know,",
+      "start": 449.52,
+      "end": 449.72,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "like",
+      "start": 449.72,
+      "end": 450,
+      "speaker": "A",
+      "ai_probability": "0.21"
+    },
+    {
+      "text": "think",
+      "start": 450,
+      "end": 450.24,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "about.",
+      "start": 450.24,
+      "end": 450.52,
+      "speaker": "A",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "America",
+      "start": 450.76,
+      "end": 451.36,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "is",
+      "start": 451.36,
+      "end": 451.56,
+      "speaker": "A",
+      "ai_probability": "0.42"
+    },
+    {
+      "text": "a",
+      "start": 451.56,
+      "end": 451.72,
+      "speaker": "A",
+      "ai_probability": "0.60"
+    },
+    {
+      "text": "nation",
+      "start": 451.72,
+      "end": 451.84,
+      "speaker": "A",
+      "ai_probability": "0.62"
+    },
+    {
+      "text": "of",
+      "start": 451.84,
+      "end": 452,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "explorers.",
+      "start": 452,
+      "end": 452.68,
+      "speaker": "A",
+      "ai_probability": "0.79"
+    },
+    {
+      "text": "People",
+      "start": 453.72,
+      "end": 454.08,
+      "speaker": "A",
+      "ai_probability": "0.67"
+    },
+    {
+      "text": "came",
+      "start": 454.08,
+      "end": 454.36,
+      "speaker": "A",
+      "ai_probability": "0.47"
+    },
+    {
+      "text": "here",
+      "start": 454.36,
+      "end": 454.56,
+      "speaker": "A",
+      "ai_probability": "0.03"
+    },
+    {
+      "text": "from",
+      "start": 454.56,
+      "end": 454.84,
+      "speaker": "A",
+      "ai_probability": "0.35"
+    },
+    {
+      "text": "other",
+      "start": 455.08,
+      "end": 455.4,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "parts",
+      "start": 455.4,
+      "end": 455.72,
+      "speaker": "A",
+      "ai_probability": "0.12"
+    },
+    {
+      "text": "of",
+      "start": 455.72,
+      "end": 455.8,
+      "speaker": "A",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "the",
+      "start": 455.8,
+      "end": 455.88,
+      "speaker": "A",
+      "ai_probability": "0.64"
+    },
+    {
+      "text": "world.",
+      "start": 455.88,
+      "end": 456.12,
+      "speaker": "A",
+      "ai_probability": "0.12"
+    },
+    {
+      "text": "They",
+      "start": 456.78,
+      "end": 457.02,
+      "speaker": "A",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "chose",
+      "start": 459.18,
+      "end": 459.62,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "to",
+      "start": 459.62,
+      "end": 459.94,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "give",
+      "start": 459.94,
+      "end": 460.22,
+      "speaker": "A",
+      "ai_probability": "0.60"
+    },
+    {
+      "text": "up",
+      "start": 460.22,
+      "end": 460.46,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "the",
+      "start": 460.46,
+      "end": 460.7,
+      "speaker": "A",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "known",
+      "start": 460.7,
+      "end": 461.02,
+      "speaker": "A",
+      "ai_probability": "0.43"
+    },
+    {
+      "text": "in",
+      "start": 461.02,
+      "end": 461.3,
+      "speaker": "A",
+      "ai_probability": "0.05"
+    },
+    {
+      "text": "favor",
+      "start": 461.3,
+      "end": 461.62,
+      "speaker": "A",
+      "ai_probability": "0.84"
+    },
+    {
+      "text": "of",
+      "start": 461.62,
+      "end": 461.74,
+      "speaker": "A",
+      "ai_probability": "0.03"
+    },
+    {
+      "text": "the",
+      "start": 461.74,
+      "end": 461.86,
+      "speaker": "A",
+      "ai_probability": "0.12"
+    },
+    {
+      "text": "unknown.",
+      "start": 461.86,
+      "end": 462.38,
+      "speaker": "A",
+      "ai_probability": "0.03"
+    },
+    {
+      "text": "So",
+      "start": 464.3,
+      "end": 464.58,
+      "speaker": "A",
+      "ai_probability": "0.03"
+    },
+    {
+      "text": "I",
+      "start": 464.58,
+      "end": 464.7,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "think",
+      "start": 464.7,
+      "end": 464.94,
+      "speaker": "A",
+      "ai_probability": "0.99"
+    },
+    {
+      "text": "exploration,",
+      "start": 465.26,
+      "end": 465.98,
+      "speaker": "A",
+      "ai_probability": "0.13"
+    },
+    {
+      "text": "I",
+      "start": 466.94,
+      "end": 467.18,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "think",
+      "start": 467.18,
+      "end": 467.34,
+      "speaker": "A",
+      "ai_probability": "0.18"
+    },
+    {
+      "text": "the",
+      "start": 467.34,
+      "end": 467.5,
+      "speaker": "A",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "United",
+      "start": 467.5,
+      "end": 467.66,
+      "speaker": "A",
+      "ai_probability": "0.64"
+    },
+    {
+      "text": "States",
+      "start": 467.66,
+      "end": 467.98,
+      "speaker": "A",
+      "ai_probability": "1.00"
+    },
+    {
+      "text": "is",
+      "start": 468.06,
+      "end": 468.34,
+      "speaker": "A",
+      "ai_probability": "0.26"
+    },
+    {
+      "text": "a",
+      "start": 468.34,
+      "end": 468.5,
+      "speaker": "A",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "distillation",
+      "start": 468.5,
+      "end": 469.18,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "of",
+      "start": 469.18,
+      "end": 469.46,
+      "speaker": "A",
+      "ai_probability": "0.55"
+    },
+    {
+      "text": "the",
+      "start": 469.46,
+      "end": 469.62,
+      "speaker": "A",
+      "ai_probability": "0.22"
+    },
+    {
+      "text": "human",
+      "start": 469.62,
+      "end": 469.82,
+      "speaker": "A",
+      "ai_probability": "0.08"
+    },
+    {
+      "text": "spirit",
+      "start": 469.82,
+      "end": 470.14,
+      "speaker": "A",
+      "ai_probability": "0.70"
+    },
+    {
+      "text": "of",
+      "start": 470.14,
+      "end": 470.26,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "exploration.",
+      "start": 470.26,
+      "end": 470.94,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "So",
+      "start": 473.58,
+      "end": 473.82,
+      "speaker": "A",
+      "ai_probability": "0.37"
+    },
+    {
+      "text": "that's",
+      "start": 473.82,
+      "end": 473.98,
+      "speaker": "A",
+      "ai_probability": "0.94"
+    },
+    {
+      "text": "why",
+      "start": 473.98,
+      "end": 474.22,
+      "speaker": "A",
+      "ai_probability": "0.95"
+    },
+    {
+      "text": "it",
+      "start": 474.22,
+      "end": 474.5,
+      "speaker": "A",
+      "ai_probability": "0.47"
+    },
+    {
+      "text": "appeals",
+      "start": 474.5,
+      "end": 474.86,
+      "speaker": "A",
+      "ai_probability": "0.87"
+    },
+    {
+      "text": "to",
+      "start": 474.86,
+      "end": 475.06,
+      "speaker": "A",
+      "ai_probability": "0.17"
+    },
+    {
+      "text": "Americans",
+      "start": 475.06,
+      "end": 475.62,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "so",
+      "start": 475.62,
+      "end": 475.78,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "much.",
+      "start": 475.78,
+      "end": 476.06,
+      "speaker": "A",
+      "ai_probability": "0.26"
+    },
+    {
+      "text": "You",
+      "start": 477.34,
+      "end": 477.62,
+      "speaker": "A",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "can",
+      "start": 477.62,
+      "end": 477.74,
+      "speaker": "A",
+      "ai_probability": "0.86"
+    },
+    {
+      "text": "see",
+      "start": 477.74,
+      "end": 477.86,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "this",
+      "start": 477.86,
+      "end": 478.06,
+      "speaker": "A",
+      "ai_probability": "0.19"
+    },
+    {
+      "text": "when",
+      "start": 478.06,
+      "end": 478.38,
+      "speaker": "A",
+      "ai_probability": "0.85"
+    },
+    {
+      "text": "there",
+      "start": 479.18,
+      "end": 479.42,
+      "speaker": "A",
+      "ai_probability": "0.26"
+    },
+    {
+      "text": "was",
+      "start": 479.42,
+      "end": 479.5,
+      "speaker": "A",
+      "ai_probability": "0.01"
+    },
+    {
+      "text": "a",
+      "start": 479.5,
+      "end": 479.62,
+      "speaker": "A",
+      "ai_probability": "0.62"
+    },
+    {
+      "text": "shuttle",
+      "start": 479.62,
+      "end": 479.98,
+      "speaker": "A",
+      "ai_probability": "0.87"
+    },
+    {
+      "text": "tragedy",
+      "start": 479.98,
+      "end": 480.46,
+      "speaker": "A",
+      "ai_probability": "0.08"
+    },
+    {
+      "text": "and",
+      "start": 481.34,
+      "end": 481.7,
+      "speaker": "A",
+      "ai_probability": "0.63"
+    },
+    {
+      "text": "seven",
+      "start": 481.7,
+      "end": 481.98,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "people",
+      "start": 481.98,
+      "end": 482.22,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "died,",
+      "start": 482.22,
+      "end": 482.62,
+      "speaker": "A",
+      "ai_probability": "0.35"
+    },
+    {
+      "text": "and",
+      "start": 483.19,
+      "end": 483.43,
+      "speaker": "A",
+      "ai_probability": "0.40"
+    },
+    {
+      "text": "that's",
+      "start": 483.67,
+      "end": 483.99,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "terrible,",
+      "start": 483.99,
+      "end": 484.31,
+      "speaker": "A",
+      "ai_probability": "0.96"
+    },
+    {
+      "text": "but",
+      "start": 484.31,
+      "end": 484.63,
+      "speaker": "A",
+      "ai_probability": "0.81"
+    },
+    {
+      "text": "a",
+      "start": 484.71,
+      "end": 484.95,
+      "speaker": "A",
+      "ai_probability": "0.74"
+    },
+    {
+      "text": "lot",
+      "start": 484.95,
+      "end": 485.03,
+      "speaker": "A",
+      "ai_probability": "0.29"
+    },
+    {
+      "text": "of",
+      "start": 485.03,
+      "end": 485.11,
+      "speaker": "A",
+      "ai_probability": "0.52"
+    },
+    {
+      "text": "people",
+      "start": 485.11,
+      "end": 485.23,
+      "speaker": "A",
+      "ai_probability": "0.58"
+    },
+    {
+      "text": "die",
+      "start": 485.23,
+      "end": 485.47,
+      "speaker": "A",
+      "ai_probability": "0.27"
+    },
+    {
+      "text": "all",
+      "start": 485.47,
+      "end": 485.63,
+      "speaker": "A",
+      "ai_probability": "0.76"
+    },
+    {
+      "text": "the",
+      "start": 485.63,
+      "end": 485.75,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "time.",
+      "start": 485.75,
+      "end": 485.99,
+      "speaker": "A",
+      "ai_probability": "0.60"
+    },
+    {
+      "text": "But",
+      "start": 486.95,
+      "end": 487.27,
+      "speaker": "A",
+      "ai_probability": "0.51"
+    },
+    {
+      "text": "why",
+      "start": 487.27,
+      "end": 487.51,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "do",
+      "start": 487.51,
+      "end": 487.71,
+      "speaker": "A",
+      "ai_probability": "0.52"
+    },
+    {
+      "text": "we",
+      "start": 487.71,
+      "end": 487.83,
+      "speaker": "A",
+      "ai_probability": "0.79"
+    },
+    {
+      "text": "care",
+      "start": 487.83,
+      "end": 487.99,
+      "speaker": "A",
+      "ai_probability": "0.17"
+    },
+    {
+      "text": "so",
+      "start": 487.99,
+      "end": 488.19,
+      "speaker": "A",
+      "ai_probability": "0.96"
+    },
+    {
+      "text": "much?",
+      "start": 488.19,
+      "end": 488.47,
+      "speaker": "A",
+      "ai_probability": "0.42"
+    },
+    {
+      "text": "Because",
+      "start": 488.63,
+      "end": 488.99,
+      "speaker": "A",
+      "ai_probability": "0.44"
+    },
+    {
+      "text": "it",
+      "start": 488.99,
+      "end": 489.23,
+      "speaker": "A",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "was",
+      "start": 489.23,
+      "end": 489.51,
+      "speaker": "A",
+      "ai_probability": "0.20"
+    },
+    {
+      "text": "the",
+      "start": 489.83,
+      "end": 490.11,
+      "speaker": "A",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "dream",
+      "start": 490.11,
+      "end": 490.35,
+      "speaker": "A",
+      "ai_probability": "0.28"
+    },
+    {
+      "text": "of",
+      "start": 490.35,
+      "end": 490.55,
+      "speaker": "A",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "exploration",
+      "start": 490.55,
+      "end": 491.19,
+      "speaker": "A",
+      "ai_probability": "0.57"
+    },
+    {
+      "text": "that",
+      "start": 491.19,
+      "end": 491.47,
+      "speaker": "A",
+      "ai_probability": "0.57"
+    },
+    {
+      "text": "was",
+      "start": 491.47,
+      "end": 491.67,
+      "speaker": "A",
+      "ai_probability": "0.60"
+    },
+    {
+      "text": "dying",
+      "start": 491.67,
+      "end": 492.07,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "along",
+      "start": 492.55,
+      "end": 492.87,
+      "speaker": "A",
+      "ai_probability": "0.55"
+    },
+    {
+      "text": "with",
+      "start": 492.87,
+      "end": 493.07,
+      "speaker": "A",
+      "ai_probability": "0.39"
+    },
+    {
+      "text": "those",
+      "start": 493.07,
+      "end": 493.27,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "people.",
+      "start": 493.27,
+      "end": 493.59,
+      "speaker": "A",
+      "ai_probability": "0.05"
+    },
+    {
+      "text": "That's",
+      "start": 494.23,
+      "end": 494.59,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "why.",
+      "start": 494.59,
+      "end": 494.87,
+      "speaker": "A",
+      "ai_probability": "0.66"
+    },
+    {
+      "text": "I",
+      "start": 498.47,
+      "end": 498.749,
+      "speaker": "A",
+      "ai_probability": "0.45"
+    },
+    {
+      "text": "mean,",
+      "start": 498.749,
+      "end": 498.869,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "I",
+      "start": 498.869,
+      "end": 498.95,
+      "speaker": "A",
+      "ai_probability": "0.56"
+    },
+    {
+      "text": "thought",
+      "start": 498.95,
+      "end": 499.11,
+      "speaker": "A",
+      "ai_probability": "0.89"
+    },
+    {
+      "text": "both",
+      "start": 499.11,
+      "end": 499.31,
+      "speaker": "A",
+      "ai_probability": "0.20"
+    },
+    {
+      "text": "Tesla",
+      "start": 499.31,
+      "end": 499.75,
+      "speaker": "A",
+      "ai_probability": "0.41"
+    },
+    {
+      "text": "and",
+      "start": 499.75,
+      "end": 499.87,
+      "speaker": "A",
+      "ai_probability": "0.50"
+    },
+    {
+      "text": "SpaceX",
+      "start": 499.87,
+      "end": 500.39,
+      "speaker": "A",
+      "ai_probability": "0.34"
+    },
+    {
+      "text": "would",
+      "start": 500.39,
+      "end": 500.59,
+      "speaker": "A",
+      "ai_probability": "0.15"
+    },
+    {
+      "text": "fail",
+      "start": 500.59,
+      "end": 500.87,
+      "speaker": "A",
+      "ai_probability": "0.10"
+    },
+    {
+      "text": "at",
+      "start": 501.11,
+      "end": 501.35,
+      "speaker": "A",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "the",
+      "start": 501.35,
+      "end": 501.47,
+      "speaker": "A",
+      "ai_probability": "0.21"
+    },
+    {
+      "text": "beginning.",
+      "start": 501.47,
+      "end": 501.91,
+      "speaker": "A",
+      "ai_probability": "0.90"
+    },
+    {
+      "text": "You",
+      "start": 502.79,
+      "end": 503.07,
+      "speaker": "A",
+      "ai_probability": "0.07"
+    },
+    {
+      "text": "saw",
+      "start": 503.07,
+      "end": 503.27,
+      "speaker": "A",
+      "ai_probability": "0.43"
+    },
+    {
+      "text": "it?",
+      "start": 503.27,
+      "end": 503.51,
+      "speaker": "A",
+      "ai_probability": "0.57"
+    },
+    {
+      "text": "Yeah,",
+      "start": 503.51,
+      "end": 503.83,
+      "speaker": "A",
+      "ai_probability": "0.87"
+    },
+    {
+      "text": "sure.",
+      "start": 503.83,
+      "end": 504.15,
+      "speaker": "A",
+      "ai_probability": "0.21"
+    },
+    {
+      "text": "Really?",
+      "start": 504.39,
+      "end": 504.79,
+      "speaker": "A",
+      "ai_probability": "0.43"
+    },
+    {
+      "text": "Of",
+      "start": 504.95,
+      "end": 505.23,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "course.",
+      "start": 505.23,
+      "end": 505.51,
+      "speaker": "A",
+      "ai_probability": "0.93"
+    },
+    {
+      "text": "But",
+      "start": 505.51,
+      "end": 505.87,
+      "speaker": "A",
+      "ai_probability": "0.59"
+    },
+    {
+      "text": "nevertheless,",
+      "start": 505.87,
+      "end": 506.43,
+      "speaker": "A",
+      "ai_probability": "0.17"
+    },
+    {
+      "text": "you",
+      "start": 506.43,
+      "end": 506.71,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "put",
+      "start": 506.71,
+      "end": 506.99,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "all",
+      "start": 506.99,
+      "end": 507.15,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "your",
+      "start": 507.15,
+      "end": 507.27,
+      "speaker": "A",
+      "ai_probability": "0.13"
+    },
+    {
+      "text": "money",
+      "start": 507.27,
+      "end": 507.43,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "in",
+      "start": 507.43,
+      "end": 507.63,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "that.",
+      "start": 507.63,
+      "end": 507.91,
+      "speaker": "A",
+      "ai_probability": "0.87"
+    },
+    {
+      "text": "I",
+      "start": 508.31,
+      "end": 508.55,
+      "speaker": "A",
+      "ai_probability": "0.26"
+    },
+    {
+      "text": "expected",
+      "start": 508.55,
+      "end": 508.75,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "to",
+      "start": 508.75,
+      "end": 508.95,
+      "speaker": "A",
+      "ai_probability": "0.53"
+    },
+    {
+      "text": "lose",
+      "start": 508.95,
+      "end": 509.15,
+      "speaker": "A",
+      "ai_probability": "0.07"
+    },
+    {
+      "text": "it.",
+      "start": 509.15,
+      "end": 509.37,
+      "speaker": "A",
+      "ai_probability": "0.65"
+    },
+    {
+      "text": "Well,",
+      "start": 509.76,
+      "end": 510,
+      "speaker": "A",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "technically",
+      "start": 510,
+      "end": 510.64,
+      "speaker": "A",
+      "ai_probability": "0.87"
+    },
+    {
+      "text": "what",
+      "start": 511.2,
+      "end": 511.6,
+      "speaker": "A",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "I",
+      "start": 511.68,
+      "end": 511.96,
+      "speaker": "A",
+      "ai_probability": "0.39"
+    },
+    {
+      "text": "thought",
+      "start": 511.96,
+      "end": 512.2,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "was,",
+      "start": 512.2,
+      "end": 512.56,
+      "speaker": "A",
+      "ai_probability": "0.42"
+    },
+    {
+      "text": "well,",
+      "start": 512.56,
+      "end": 512.92,
+      "speaker": "A",
+      "ai_probability": "0.60"
+    },
+    {
+      "text": "I'll",
+      "start": 512.92,
+      "end": 513.24,
+      "speaker": "A",
+      "ai_probability": "0.03"
+    },
+    {
+      "text": "take",
+      "start": 513.24,
+      "end": 513.44,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "half",
+      "start": 513.44,
+      "end": 513.64,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "the",
+      "start": 513.64,
+      "end": 513.76,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "money",
+      "start": 513.76,
+      "end": 513.96,
+      "speaker": "A",
+      "ai_probability": "0.96"
+    },
+    {
+      "text": "from",
+      "start": 513.96,
+      "end": 514.2,
+      "speaker": "A",
+      "ai_probability": "0.85"
+    },
+    {
+      "text": "PayPal",
+      "start": 514.2,
+      "end": 514.8,
+      "speaker": "A",
+      "ai_probability": "0.90"
+    },
+    {
+      "text": "and",
+      "start": 514.96,
+      "end": 515.36,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "if",
+      "start": 515.52,
+      "end": 515.8,
+      "speaker": "A",
+      "ai_probability": "0.64"
+    },
+    {
+      "text": "I",
+      "start": 515.8,
+      "end": 515.92,
+      "speaker": "A",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "lose",
+      "start": 515.92,
+      "end": 516.16,
+      "speaker": "A",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "half",
+      "start": 516.16,
+      "end": 516.36,
+      "speaker": "A",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "of",
+      "start": 516.36,
+      "end": 516.48,
+      "speaker": "A",
+      "ai_probability": "0.60"
+    },
+    {
+      "text": "it,",
+      "start": 516.48,
+      "end": 516.64,
+      "speaker": "A",
+      "ai_probability": "0.43"
+    },
+    {
+      "text": "that's",
+      "start": 516.64,
+      "end": 516.88,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "okay.",
+      "start": 516.88,
+      "end": 517.28,
+      "speaker": "A",
+      "ai_probability": "0.37"
+    },
+    {
+      "text": "But",
+      "start": 519.36,
+      "end": 519.64,
+      "speaker": "A",
+      "ai_probability": "0.01"
+    },
+    {
+      "text": "then",
+      "start": 519.64,
+      "end": 519.8,
+      "speaker": "A",
+      "ai_probability": "0.17"
+    },
+    {
+      "text": "of",
+      "start": 519.8,
+      "end": 519.96,
+      "speaker": "A",
+      "ai_probability": "0.30"
+    },
+    {
+      "text": "course",
+      "start": 519.96,
+      "end": 520.24,
+      "speaker": "A",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "the",
+      "start": 520.32,
+      "end": 520.6,
+      "speaker": "A",
+      "ai_probability": "0.22"
+    },
+    {
+      "text": "companies",
+      "start": 520.6,
+      "end": 520.88,
+      "speaker": "A",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "encounter",
+      "start": 520.88,
+      "end": 521.4,
+      "speaker": "A",
+      "ai_probability": "0.60"
+    },
+    {
+      "text": "difficulties",
+      "start": 521.4,
+      "end": 522.12,
+      "speaker": "A",
+      "ai_probability": "0.23"
+    },
+    {
+      "text": "and",
+      "start": 522.12,
+      "end": 522.36,
+      "speaker": "A",
+      "ai_probability": "0.95"
+    },
+    {
+      "text": "then",
+      "start": 522.36,
+      "end": 522.64,
+      "speaker": "A",
+      "ai_probability": "0.20"
+    },
+    {
+      "text": "have",
+      "start": 523.12,
+      "end": 523.4,
+      "speaker": "A",
+      "ai_probability": "0.79"
+    },
+    {
+      "text": "a",
+      "start": 523.4,
+      "end": 523.56,
+      "speaker": "A",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "choice",
+      "start": 523.56,
+      "end": 523.8,
+      "speaker": "A",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "of",
+      "start": 523.8,
+      "end": 524.08,
+      "speaker": "A",
+      "ai_probability": "0.40"
+    },
+    {
+      "text": "either",
+      "start": 524.08,
+      "end": 524.56,
+      "speaker": "A",
+      "ai_probability": "0.34"
+    },
+    {
+      "text": "let",
+      "start": 524.8,
+      "end": 525.08,
+      "speaker": "A",
+      "ai_probability": "0.83"
+    },
+    {
+      "text": "the",
+      "start": 525.08,
+      "end": 525.24,
+      "speaker": "A",
+      "ai_probability": "0.07"
+    },
+    {
+      "text": "company",
+      "start": 525.24,
+      "end": 525.52,
+      "speaker": "A",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "die",
+      "start": 525.52,
+      "end": 526,
+      "speaker": "A",
+      "ai_probability": "0.08"
+    },
+    {
+      "text": "or",
+      "start": 526.64,
+      "end": 527,
+      "speaker": "A",
+      "ai_probability": "0.90"
+    },
+    {
+      "text": "put",
+      "start": 527,
+      "end": 527.36,
+      "speaker": "A",
+      "ai_probability": "0.66"
+    },
+    {
+      "text": "all",
+      "start": 529.04,
+      "end": 529.32,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "the",
+      "start": 529.32,
+      "end": 529.48,
+      "speaker": "A",
+      "ai_probability": "0.19"
+    },
+    {
+      "text": "money",
+      "start": 529.48,
+      "end": 529.76,
+      "speaker": "A",
+      "ai_probability": "0.81"
+    },
+    {
+      "text": "into",
+      "start": 530.32,
+      "end": 530.6,
+      "speaker": "A",
+      "ai_probability": "0.42"
+    },
+    {
+      "text": "the",
+      "start": 530.6,
+      "end": 530.76,
+      "speaker": "A",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "companies.",
+      "start": 530.76,
+      "end": 531.04,
+      "speaker": "A",
+      "ai_probability": "0.22"
+    },
+    {
+      "text": "And",
+      "start": 531.44,
+      "end": 531.8,
+      "speaker": "A",
+      "ai_probability": "0.65"
+    },
+    {
+      "text": "so",
+      "start": 531.8,
+      "end": 532.16,
+      "speaker": "A",
+      "ai_probability": "0.22"
+    },
+    {
+      "text": "I",
+      "start": 533.44,
+      "end": 533.72,
+      "speaker": "A",
+      "ai_probability": "0.05"
+    },
+    {
+      "text": "really",
+      "start": 533.72,
+      "end": 533.88,
+      "speaker": "A",
+      "ai_probability": "0.64"
+    },
+    {
+      "text": "didn't",
+      "start": 533.88,
+      "end": 534.08,
+      "speaker": "A",
+      "ai_probability": "0.79"
+    },
+    {
+      "text": "want",
+      "start": 534.08,
+      "end": 534.2,
+      "speaker": "A",
+      "ai_probability": "0.08"
+    },
+    {
+      "text": "the",
+      "start": 534.2,
+      "end": 534.32,
+      "speaker": "A",
+      "ai_probability": "0.12"
+    },
+    {
+      "text": "companies",
+      "start": 534.32,
+      "end": 534.48,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "to",
+      "start": 534.48,
+      "end": 534.68,
+      "speaker": "A",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "die,",
+      "start": 534.68,
+      "end": 534.92,
+      "speaker": "A",
+      "ai_probability": "0.67"
+    },
+    {
+      "text": "so",
+      "start": 534.92,
+      "end": 535.04,
+      "speaker": "A",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "I",
+      "start": 535.04,
+      "end": 535.12,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "put",
+      "start": 535.12,
+      "end": 535.2,
+      "speaker": "A",
+      "ai_probability": "0.96"
+    },
+    {
+      "text": "all",
+      "start": 535.2,
+      "end": 535.32,
+      "speaker": "A",
+      "ai_probability": "0.42"
+    },
+    {
+      "text": "the",
+      "start": 535.32,
+      "end": 535.44,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "money",
+      "start": 535.44,
+      "end": 535.56,
+      "speaker": "A",
+      "ai_probability": "0.18"
+    },
+    {
+      "text": "in",
+      "start": 535.56,
+      "end": 535.68,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "the",
+      "start": 535.68,
+      "end": 535.76,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "companies",
+      "start": 535.76,
+      "end": 536,
+      "speaker": "A",
+      "ai_probability": "0.64"
+    },
+    {
+      "text": "and",
+      "start": 536.96,
+      "end": 537.24,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "then",
+      "start": 537.24,
+      "end": 537.44,
+      "speaker": "A",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "had",
+      "start": 537.44,
+      "end": 537.6,
+      "speaker": "A",
+      "ai_probability": "0.87"
+    },
+    {
+      "text": "to",
+      "start": 537.6,
+      "end": 537.68,
+      "speaker": "A",
+      "ai_probability": "0.51"
+    },
+    {
+      "text": "borrow",
+      "start": 537.68,
+      "end": 537.84,
+      "speaker": "A",
+      "ai_probability": "0.60"
+    },
+    {
+      "text": "money",
+      "start": 537.84,
+      "end": 538,
+      "speaker": "A",
+      "ai_probability": "0.49"
+    },
+    {
+      "text": "from",
+      "start": 538,
+      "end": 538.2,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "friends",
+      "start": 538.2,
+      "end": 538.48,
+      "speaker": "A",
+      "ai_probability": "0.95"
+    },
+    {
+      "text": "to",
+      "start": 539.13,
+      "end": 539.25,
+      "speaker": "A",
+      "ai_probability": "0.23"
+    },
+    {
+      "text": "pay",
+      "start": 539.25,
+      "end": 539.41,
+      "speaker": "A",
+      "ai_probability": "0.91"
+    },
+    {
+      "text": "living",
+      "start": 539.41,
+      "end": 539.69,
+      "speaker": "A",
+      "ai_probability": "0.23"
+    },
+    {
+      "text": "expenses.",
+      "start": 539.69,
+      "end": 540.33,
+      "speaker": "A",
+      "ai_probability": "0.29"
+    },
+    {
+      "text": "You",
+      "start": 541.69,
+      "end": 541.97,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "know,",
+      "start": 541.97,
+      "end": 542.17,
+      "speaker": "A",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "just",
+      "start": 542.17,
+      "end": 542.49,
+      "speaker": "A",
+      "ai_probability": "0.87"
+    },
+    {
+      "text": "looking",
+      "start": 543.05,
+      "end": 543.45,
+      "speaker": "A",
+      "ai_probability": "0.22"
+    },
+    {
+      "text": "just",
+      "start": 543.45,
+      "end": 543.73,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "for",
+      "start": 543.73,
+      "end": 543.93,
+      "speaker": "A",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "evidence",
+      "start": 543.93,
+      "end": 544.33,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "of",
+      "start": 544.81,
+      "end": 545.09,
+      "speaker": "A",
+      "ai_probability": "0.34"
+    },
+    {
+      "text": "exceptional",
+      "start": 545.09,
+      "end": 545.57,
+      "speaker": "A",
+      "ai_probability": "0.83"
+    },
+    {
+      "text": "ability.",
+      "start": 545.57,
+      "end": 546.01,
+      "speaker": "A",
+      "ai_probability": "0.83"
+    },
+    {
+      "text": "And",
+      "start": 546.73,
+      "end": 547.01,
+      "speaker": "A",
+      "ai_probability": "0.17"
+    },
+    {
+      "text": "if",
+      "start": 547.01,
+      "end": 547.13,
+      "speaker": "A",
+      "ai_probability": "0.92"
+    },
+    {
+      "text": "there's",
+      "start": 547.13,
+      "end": 547.37,
+      "speaker": "A",
+      "ai_probability": "0.64"
+    },
+    {
+      "text": "a",
+      "start": 547.37,
+      "end": 547.45,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "track",
+      "start": 547.45,
+      "end": 547.61,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "record",
+      "start": 547.61,
+      "end": 547.89,
+      "speaker": "A",
+      "ai_probability": "0.83"
+    },
+    {
+      "text": "of",
+      "start": 547.89,
+      "end": 548.21,
+      "speaker": "A",
+      "ai_probability": "0.49"
+    },
+    {
+      "text": "exceptional",
+      "start": 548.21,
+      "end": 548.73,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "achievement,",
+      "start": 548.73,
+      "end": 549.25,
+      "speaker": "A",
+      "ai_probability": "0.10"
+    },
+    {
+      "text": "then",
+      "start": 549.25,
+      "end": 549.53,
+      "speaker": "A",
+      "ai_probability": "0.05"
+    },
+    {
+      "text": "it's",
+      "start": 549.53,
+      "end": 549.89,
+      "speaker": "A",
+      "ai_probability": "0.57"
+    },
+    {
+      "text": "likely",
+      "start": 549.89,
+      "end": 550.13,
+      "speaker": "A",
+      "ai_probability": "0.56"
+    },
+    {
+      "text": "that",
+      "start": 550.13,
+      "end": 550.41,
+      "speaker": "A",
+      "ai_probability": "0.01"
+    },
+    {
+      "text": "that",
+      "start": 550.41,
+      "end": 550.61,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "will",
+      "start": 550.61,
+      "end": 550.89,
+      "speaker": "A",
+      "ai_probability": "0.38"
+    },
+    {
+      "text": "continue",
+      "start": 550.97,
+      "end": 551.33,
+      "speaker": "A",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "into",
+      "start": 551.33,
+      "end": 551.57,
+      "speaker": "A",
+      "ai_probability": "0.94"
+    },
+    {
+      "text": "the",
+      "start": 551.57,
+      "end": 551.73,
+      "speaker": "A",
+      "ai_probability": "0.66"
+    },
+    {
+      "text": "future.",
+      "start": 551.73,
+      "end": 552.01,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "Well,",
+      "start": 560.01,
+      "end": 560.29,
+      "speaker": "A",
+      "ai_probability": "0.18"
+    },
+    {
+      "text": "it",
+      "start": 560.29,
+      "end": 560.45,
+      "speaker": "A",
+      "ai_probability": "0.30"
+    },
+    {
+      "text": "really",
+      "start": 560.45,
+      "end": 560.65,
+      "speaker": "A",
+      "ai_probability": "0.63"
+    },
+    {
+      "text": "depends",
+      "start": 560.65,
+      "end": 561.09,
+      "speaker": "A",
+      "ai_probability": "0.60"
+    },
+    {
+      "text": "on",
+      "start": 561.09,
+      "end": 561.37,
+      "speaker": "A",
+      "ai_probability": "0.67"
+    },
+    {
+      "text": "the",
+      "start": 561.77,
+      "end": 562.05,
+      "speaker": "A",
+      "ai_probability": "0.42"
+    },
+    {
+      "text": "stakes.",
+      "start": 562.05,
+      "end": 562.49,
+      "speaker": "A",
+      "ai_probability": "0.57"
+    },
+    {
+      "text": "If",
+      "start": 562.49,
+      "end": 562.73,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "the",
+      "start": 562.73,
+      "end": 562.85,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "stakes",
+      "start": 562.85,
+      "end": 563.13,
+      "speaker": "A",
+      "ai_probability": "0.91"
+    },
+    {
+      "text": "are",
+      "start": 563.13,
+      "end": 563.33,
+      "speaker": "A",
+      "ai_probability": "0.87"
+    },
+    {
+      "text": "high,",
+      "start": 563.33,
+      "end": 563.61,
+      "speaker": "A",
+      "ai_probability": "0.64"
+    },
+    {
+      "text": "if",
+      "start": 564.01,
+      "end": 564.29,
+      "speaker": "A",
+      "ai_probability": "0.42"
+    },
+    {
+      "text": "it's",
+      "start": 564.29,
+      "end": 564.61,
+      "speaker": "A",
+      "ai_probability": "0.34"
+    },
+    {
+      "text": "really",
+      "start": 564.61,
+      "end": 564.85,
+      "speaker": "A",
+      "ai_probability": "0.55"
+    },
+    {
+      "text": "important,",
+      "start": 564.85,
+      "end": 565.13,
+      "speaker": "A",
+      "ai_probability": "0.91"
+    },
+    {
+      "text": "then",
+      "start": 566.17,
+      "end": 566.41,
+      "speaker": "A",
+      "ai_probability": "0.68"
+    },
+    {
+      "text": "one",
+      "start": 566.57,
+      "end": 566.89,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "should,",
+      "start": 566.89,
+      "end": 567.21,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "then",
+      "start": 567.37,
+      "end": 567.65,
+      "speaker": "A",
+      "ai_probability": "0.41"
+    },
+    {
+      "text": "I,",
+      "start": 567.65,
+      "end": 567.85,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "you",
+      "start": 567.85,
+      "end": 568.05,
+      "speaker": "A",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "know,",
+      "start": 568.05,
+      "end": 568.25,
+      "speaker": "A",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "will",
+      "start": 568.25,
+      "end": 568.49,
+      "speaker": "A",
+      "ai_probability": "0.47"
+    },
+    {
+      "text": "overcome",
+      "start": 568.49,
+      "end": 568.97,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "the",
+      "start": 568.97,
+      "end": 569.09,
+      "speaker": "A",
+      "ai_probability": "0.62"
+    },
+    {
+      "text": "fear",
+      "start": 569.09,
+      "end": 569.33,
+      "speaker": "A",
+      "ai_probability": "0.84"
+    },
+    {
+      "text": "and",
+      "start": 569.33,
+      "end": 569.57,
+      "speaker": "A",
+      "ai_probability": "0.08"
+    },
+    {
+      "text": "just",
+      "start": 569.57,
+      "end": 569.81,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "do",
+      "start": 569.81,
+      "end": 569.93,
+      "speaker": "A",
+      "ai_probability": "0.59"
+    },
+    {
+      "text": "it",
+      "start": 569.93,
+      "end": 570.05,
+      "speaker": "A",
+      "ai_probability": "0.95"
+    },
+    {
+      "text": "anyway.",
+      "start": 570.05,
+      "end": 570.49,
+      "speaker": "A",
+      "ai_probability": "0.30"
+    },
+    {
+      "text": "But",
+      "start": 573.37,
+      "end": 573.65,
+      "speaker": "A",
+      "ai_probability": "0.07"
+    },
+    {
+      "text": "essentially,",
+      "start": 573.65,
+      "end": 574.17,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "I",
+      "start": 574.17,
+      "end": 574.45,
+      "speaker": "A",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "mean,",
+      "start": 574.45,
+      "end": 574.73,
+      "speaker": "A",
+      "ai_probability": "0.70"
+    },
+    {
+      "text": "drive",
+      "start": 576.09,
+      "end": 576.57,
+      "speaker": "A",
+      "ai_probability": "0.23"
+    },
+    {
+      "text": "overrides",
+      "start": 576.57,
+      "end": 577.21,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "fear.",
+      "start": 577.21,
+      "end": 577.61,
+      "speaker": "A",
+      "ai_probability": "0.17"
+    },
+    {
+      "text": "But",
+      "start": 577.93,
+      "end": 578.21,
+      "speaker": "A",
+      "ai_probability": "0.47"
+    },
+    {
+      "text": "I",
+      "start": 578.21,
+      "end": 578.33,
+      "speaker": "A",
+      "ai_probability": "0.94"
+    },
+    {
+      "text": "feel",
+      "start": 578.33,
+      "end": 578.49,
+      "speaker": "A",
+      "ai_probability": "0.68"
+    },
+    {
+      "text": "the",
+      "start": 578.49,
+      "end": 578.69,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "fear.",
+      "start": 578.69,
+      "end": 578.93,
+      "speaker": "A",
+      "ai_probability": "0.59"
+    },
+    {
+      "text": "It's",
+      "start": 578.93,
+      "end": 579.17,
+      "speaker": "A",
+      "ai_probability": "0.74"
+    },
+    {
+      "text": "kind",
+      "start": 579.17,
+      "end": 579.33,
+      "speaker": "A",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "of",
+      "start": 579.33,
+      "end": 579.45,
+      "speaker": "A",
+      "ai_probability": "0.62"
+    },
+    {
+      "text": "annoying.",
+      "start": 579.45,
+      "end": 579.85,
+      "speaker": "A",
+      "ai_probability": "0.17"
+    },
+    {
+      "text": "I",
+      "start": 580.65,
+      "end": 580.89,
+      "speaker": "A",
+      "ai_probability": "0.33"
+    },
+    {
+      "text": "wish",
+      "start": 580.89,
+      "end": 581.01,
+      "speaker": "A",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "I",
+      "start": 581.01,
+      "end": 581.17,
+      "speaker": "A",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "felt",
+      "start": 581.17,
+      "end": 581.409,
+      "speaker": "A",
+      "ai_probability": "0.68"
+    },
+    {
+      "text": "it",
+      "start": 581.409,
+      "end": 581.569,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "less.",
+      "start": 581.569,
+      "end": 581.85,
+      "speaker": "A",
+      "ai_probability": "0.32"
+    },
+    {
+      "text": "Sam.",
+      "start": 597.43,
+      "end": 610.21,
+      "speaker": "A",
+      "ai_probability": "0.91"
+    }
+  ]
+}

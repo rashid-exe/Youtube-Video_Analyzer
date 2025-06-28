@@ -1,0 +1,2365 @@
+{
+  "id": "6ca1974a-111e-4537-93b6-155913fdb550",
+  "screenshotPath": "screenshots/6ca1974a-111e-4537-93b6-155913fdb550.png",
+  "transcript": [
+    {
+      "text": "We're",
+      "start": 18.8,
+      "end": 19.08,
+      "speaker": "A",
+      "ai_probability": "0.91"
+    },
+    {
+      "text": "no",
+      "start": 19.08,
+      "end": 19.24,
+      "speaker": "A",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "strangers",
+      "start": 19.24,
+      "end": 19.8,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "to",
+      "start": 19.8,
+      "end": 20.04,
+      "speaker": "A",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "love",
+      "start": 20.04,
+      "end": 20.4,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "you",
+      "start": 22.64,
+      "end": 22.96,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "know",
+      "start": 22.96,
+      "end": 23.2,
+      "speaker": "A",
+      "ai_probability": "0.90"
+    },
+    {
+      "text": "the",
+      "start": 23.2,
+      "end": 23.44,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "rules",
+      "start": 23.44,
+      "end": 23.92,
+      "speaker": "A",
+      "ai_probability": "0.93"
+    },
+    {
+      "text": "and",
+      "start": 24.08,
+      "end": 24.48,
+      "speaker": "A",
+      "ai_probability": "0.27"
+    },
+    {
+      "text": "so",
+      "start": 24.48,
+      "end": 24.88,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "do",
+      "start": 24.96,
+      "end": 25.32,
+      "speaker": "A",
+      "ai_probability": "0.38"
+    },
+    {
+      "text": "I.",
+      "start": 25.32,
+      "end": 25.68,
+      "speaker": "A",
+      "ai_probability": "0.25"
+    },
+    {
+      "text": "I",
+      "start": 26.8,
+      "end": 27.08,
+      "speaker": "A",
+      "ai_probability": "0.86"
+    },
+    {
+      "text": "feel",
+      "start": 27.08,
+      "end": 27.36,
+      "speaker": "A",
+      "ai_probability": "1.00"
+    },
+    {
+      "text": "commitments",
+      "start": 27.44,
+      "end": 28.16,
+      "speaker": "A",
+      "ai_probability": "0.25"
+    },
+    {
+      "text": "while",
+      "start": 28.16,
+      "end": 28.48,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "I'm",
+      "start": 28.48,
+      "end": 28.96,
+      "speaker": "A",
+      "ai_probability": "0.05"
+    },
+    {
+      "text": "thinking",
+      "start": 28.96,
+      "end": 29.6,
+      "speaker": "A",
+      "ai_probability": "0.03"
+    },
+    {
+      "text": "of",
+      "start": 29.6,
+      "end": 30,
+      "speaker": "A",
+      "ai_probability": "0.54"
+    },
+    {
+      "text": "you",
+      "start": 31.04,
+      "end": 31.4,
+      "speaker": "A",
+      "ai_probability": "0.62"
+    },
+    {
+      "text": "wouldn'",
+      "start": 31.4,
+      "end": 31.91,
+      "speaker": "A",
+      "ai_probability": "0.96"
+    },
+    {
+      "text": "get",
+      "start": 32.14,
+      "end": 32.26,
+      "speaker": "A",
+      "ai_probability": "0.10"
+    },
+    {
+      "text": "this",
+      "start": 32.26,
+      "end": 32.46,
+      "speaker": "A",
+      "ai_probability": "0.58"
+    },
+    {
+      "text": "from",
+      "start": 32.46,
+      "end": 32.78,
+      "speaker": "A",
+      "ai_probability": "0.84"
+    },
+    {
+      "text": "any",
+      "start": 33.02,
+      "end": 33.42,
+      "speaker": "A",
+      "ai_probability": "0.65"
+    },
+    {
+      "text": "other",
+      "start": 33.5,
+      "end": 33.9,
+      "speaker": "A",
+      "ai_probability": "0.93"
+    },
+    {
+      "text": "guy",
+      "start": 33.98,
+      "end": 34.54,
+      "speaker": "A",
+      "ai_probability": "0.39"
+    },
+    {
+      "text": "I",
+      "start": 35.18,
+      "end": 35.58,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "just",
+      "start": 36.38,
+      "end": 36.7,
+      "speaker": "A",
+      "ai_probability": "0.57"
+    },
+    {
+      "text": "want",
+      "start": 36.7,
+      "end": 36.98,
+      "speaker": "A",
+      "ai_probability": "0.44"
+    },
+    {
+      "text": "to",
+      "start": 36.98,
+      "end": 37.22,
+      "speaker": "A",
+      "ai_probability": "0.91"
+    },
+    {
+      "text": "tell",
+      "start": 37.22,
+      "end": 37.42,
+      "speaker": "A",
+      "ai_probability": "0.56"
+    },
+    {
+      "text": "you",
+      "start": 37.42,
+      "end": 37.7,
+      "speaker": "A",
+      "ai_probability": "0.39"
+    },
+    {
+      "text": "how",
+      "start": 37.7,
+      "end": 37.98,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "I'm",
+      "start": 37.98,
+      "end": 38.38,
+      "speaker": "A",
+      "ai_probability": "0.30"
+    },
+    {
+      "text": "feeling",
+      "start": 38.38,
+      "end": 39.1,
+      "speaker": "A",
+      "ai_probability": "0.04"
+    },
+    {
+      "text": "Gotta",
+      "start": 40.3,
+      "end": 40.94,
+      "speaker": "A",
+      "ai_probability": "0.44"
+    },
+    {
+      "text": "make",
+      "start": 40.94,
+      "end": 41.18,
+      "speaker": "A",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "you",
+      "start": 41.18,
+      "end": 41.5,
+      "speaker": "A",
+      "ai_probability": "0.37"
+    },
+    {
+      "text": "understand",
+      "start": 41.74,
+      "end": 42.14,
+      "speaker": "A",
+      "ai_probability": "0.55"
+    },
+    {
+      "text": "Never",
+      "start": 42.94,
+      "end": 43.26,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "gonna",
+      "start": 43.26,
+      "end": 43.62,
+      "speaker": "A",
+      "ai_probability": "0.25"
+    },
+    {
+      "text": "give",
+      "start": 43.62,
+      "end": 43.9,
+      "speaker": "A",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "you",
+      "start": 43.9,
+      "end": 44.3,
+      "speaker": "A",
+      "ai_probability": "0.62"
+    },
+    {
+      "text": "up",
+      "start": 44.3,
+      "end": 44.7,
+      "speaker": "A",
+      "ai_probability": "0.91"
+    },
+    {
+      "text": "never",
+      "start": 45.02,
+      "end": 45.38,
+      "speaker": "A",
+      "ai_probability": "0.50"
+    },
+    {
+      "text": "gonna",
+      "start": 45.38,
+      "end": 45.78,
+      "speaker": "A",
+      "ai_probability": "0.52"
+    },
+    {
+      "text": "let",
+      "start": 45.78,
+      "end": 46.02,
+      "speaker": "A",
+      "ai_probability": "0.63"
+    },
+    {
+      "text": "you",
+      "start": 46.02,
+      "end": 46.38,
+      "speaker": "A",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "down",
+      "start": 46.38,
+      "end": 46.78,
+      "speaker": "A",
+      "ai_probability": "0.39"
+    },
+    {
+      "text": "Never",
+      "start": 47.18,
+      "end": 47.5,
+      "speaker": "A",
+      "ai_probability": "0.20"
+    },
+    {
+      "text": "gonna",
+      "start": 47.5,
+      "end": 47.899,
+      "speaker": "A",
+      "ai_probability": "0.37"
+    },
+    {
+      "text": "run",
+      "start": 47.899,
+      "end": 48.22,
+      "speaker": "A",
+      "ai_probability": "0.37"
+    },
+    {
+      "text": "around",
+      "start": 48.3,
+      "end": 48.7,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "and",
+      "start": 49.02,
+      "end": 49.42,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "desert",
+      "start": 49.58,
+      "end": 50.22,
+      "speaker": "A",
+      "ai_probability": "0.25"
+    },
+    {
+      "text": "you",
+      "start": 50.38,
+      "end": 50.78,
+      "speaker": "A",
+      "ai_probability": "0.70"
+    },
+    {
+      "text": "Never",
+      "start": 51.34,
+      "end": 51.7,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "gonna",
+      "start": 51.7,
+      "end": 52.1,
+      "speaker": "A",
+      "ai_probability": "0.60"
+    },
+    {
+      "text": "make",
+      "start": 52.1,
+      "end": 52.34,
+      "speaker": "A",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "you",
+      "start": 52.34,
+      "end": 52.7,
+      "speaker": "A",
+      "ai_probability": "0.19"
+    },
+    {
+      "text": "cry",
+      "start": 52.7,
+      "end": 53.26,
+      "speaker": "A",
+      "ai_probability": "0.92"
+    },
+    {
+      "text": "Never",
+      "start": 53.5,
+      "end": 53.82,
+      "speaker": "A",
+      "ai_probability": "0.26"
+    },
+    {
+      "text": "gonna",
+      "start": 53.82,
+      "end": 54.18,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "say",
+      "start": 54.18,
+      "end": 54.46,
+      "speaker": "A",
+      "ai_probability": "0.03"
+    },
+    {
+      "text": "goodbye",
+      "start": 54.54,
+      "end": 55.34,
+      "speaker": "A",
+      "ai_probability": "0.32"
+    },
+    {
+      "text": "Never",
+      "start": 55.58,
+      "end": 55.94,
+      "speaker": "A",
+      "ai_probability": "0.32"
+    },
+    {
+      "text": "gonna",
+      "start": 55.94,
+      "end": 56.34,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "tell",
+      "start": 56.34,
+      "end": 56.62,
+      "speaker": "A",
+      "ai_probability": "0.83"
+    },
+    {
+      "text": "a",
+      "start": 56.7,
+      "end": 57.02,
+      "speaker": "A",
+      "ai_probability": "0.58"
+    },
+    {
+      "text": "lie",
+      "start": 57.02,
+      "end": 57.58,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "and",
+      "start": 57.98,
+      "end": 58.34,
+      "speaker": "A",
+      "ai_probability": "0.85"
+    },
+    {
+      "text": "hurt",
+      "start": 58.34,
+      "end": 58.86,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "you",
+      "start": 58.86,
+      "end": 59.26,
+      "speaker": "A",
+      "ai_probability": "0.66"
+    },
+    {
+      "text": "We've",
+      "start": 60.62,
+      "end": 61.06,
+      "speaker": "A",
+      "ai_probability": "0.81"
+    },
+    {
+      "text": "known",
+      "start": 61.06,
+      "end": 61.34,
+      "speaker": "A",
+      "ai_probability": "0.05"
+    },
+    {
+      "text": "your",
+      "start": 65,
+      "end": 65.16,
+      "speaker": "A",
+      "ai_probability": "0.27"
+    },
+    {
+      "text": "heart's",
+      "start": 65.16,
+      "end": 65.6,
+      "speaker": "A",
+      "ai_probability": "0.04"
+    },
+    {
+      "text": "been",
+      "start": 65.6,
+      "end": 65.76,
+      "speaker": "A",
+      "ai_probability": "0.52"
+    },
+    {
+      "text": "aching",
+      "start": 65.76,
+      "end": 66.24,
+      "speaker": "A",
+      "ai_probability": "0.18"
+    },
+    {
+      "text": "but",
+      "start": 66.24,
+      "end": 66.6,
+      "speaker": "A",
+      "ai_probability": "0.65"
+    },
+    {
+      "text": "you're",
+      "start": 66.92,
+      "end": 67.36,
+      "speaker": "A",
+      "ai_probability": "0.39"
+    },
+    {
+      "text": "too",
+      "start": 67.36,
+      "end": 67.52,
+      "speaker": "A",
+      "ai_probability": "0.44"
+    },
+    {
+      "text": "shy",
+      "start": 67.52,
+      "end": 67.96,
+      "speaker": "A",
+      "ai_probability": "1.00"
+    },
+    {
+      "text": "to",
+      "start": 68.04,
+      "end": 68.32,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "say",
+      "start": 68.32,
+      "end": 68.6,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "it",
+      "start": 68.6,
+      "end": 69,
+      "speaker": "A",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "inside",
+      "start": 69.16,
+      "end": 69.72,
+      "speaker": "A",
+      "ai_probability": "0.66"
+    },
+    {
+      "text": "we",
+      "start": 69.72,
+      "end": 69.96,
+      "speaker": "A",
+      "ai_probability": "0.52"
+    },
+    {
+      "text": "both",
+      "start": 69.96,
+      "end": 70.24,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "know",
+      "start": 70.24,
+      "end": 70.48,
+      "speaker": "A",
+      "ai_probability": "0.85"
+    },
+    {
+      "text": "what's",
+      "start": 70.48,
+      "end": 70.8,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "been",
+      "start": 70.8,
+      "end": 71.08,
+      "speaker": "A",
+      "ai_probability": "0.92"
+    },
+    {
+      "text": "going",
+      "start": 71.24,
+      "end": 71.64,
+      "speaker": "A",
+      "ai_probability": "0.51"
+    },
+    {
+      "text": "on",
+      "start": 71.8,
+      "end": 72.2,
+      "speaker": "A",
+      "ai_probability": "0.84"
+    },
+    {
+      "text": "we",
+      "start": 73.32,
+      "end": 73.64,
+      "speaker": "A",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "know",
+      "start": 73.64,
+      "end": 73.88,
+      "speaker": "A",
+      "ai_probability": "0.89"
+    },
+    {
+      "text": "the",
+      "start": 73.88,
+      "end": 74.16,
+      "speaker": "A",
+      "ai_probability": "0.64"
+    },
+    {
+      "text": "game",
+      "start": 74.16,
+      "end": 74.48,
+      "speaker": "A",
+      "ai_probability": "0.91"
+    },
+    {
+      "text": "and",
+      "start": 74.48,
+      "end": 74.76,
+      "speaker": "A",
+      "ai_probability": "0.15"
+    },
+    {
+      "text": "we're",
+      "start": 74.76,
+      "end": 75.24,
+      "speaker": "A",
+      "ai_probability": "0.92"
+    },
+    {
+      "text": "gonna",
+      "start": 75.48,
+      "end": 76.12,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "play",
+      "start": 76.12,
+      "end": 76.44,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "it",
+      "start": 76.52,
+      "end": 76.92,
+      "speaker": "A",
+      "ai_probability": "0.25"
+    },
+    {
+      "text": "and",
+      "start": 77.4,
+      "end": 77.8,
+      "speaker": "A",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "if",
+      "start": 78.6,
+      "end": 78.92,
+      "speaker": "A",
+      "ai_probability": "0.17"
+    },
+    {
+      "text": "you",
+      "start": 78.92,
+      "end": 79.24,
+      "speaker": "A",
+      "ai_probability": "0.57"
+    },
+    {
+      "text": "ask",
+      "start": 79.24,
+      "end": 79.64,
+      "speaker": "A",
+      "ai_probability": "0.94"
+    },
+    {
+      "text": "me",
+      "start": 79.719,
+      "end": 79.999,
+      "speaker": "A",
+      "ai_probability": "0.75"
+    },
+    {
+      "text": "how",
+      "start": 79.999,
+      "end": 80.24,
+      "speaker": "A",
+      "ai_probability": "0.85"
+    },
+    {
+      "text": "I",
+      "start": 80.24,
+      "end": 80.52,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "feeling",
+      "start": 80.52,
+      "end": 81.4,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "don't",
+      "start": 82.28,
+      "end": 82.64,
+      "speaker": "A",
+      "ai_probability": "0.13"
+    },
+    {
+      "text": "tell",
+      "start": 82.64,
+      "end": 82.84,
+      "speaker": "A",
+      "ai_probability": "0.13"
+    },
+    {
+      "text": "me",
+      "start": 82.84,
+      "end": 83.12,
+      "speaker": "A",
+      "ai_probability": "0.99"
+    },
+    {
+      "text": "you're",
+      "start": 83.12,
+      "end": 83.44,
+      "speaker": "A",
+      "ai_probability": "0.19"
+    },
+    {
+      "text": "too",
+      "start": 83.44,
+      "end": 83.72,
+      "speaker": "A",
+      "ai_probability": "0.79"
+    },
+    {
+      "text": "blind",
+      "start": 83.8,
+      "end": 84.2,
+      "speaker": "A",
+      "ai_probability": "0.81"
+    },
+    {
+      "text": "to",
+      "start": 84.2,
+      "end": 84.44,
+      "speaker": "A",
+      "ai_probability": "0.04"
+    },
+    {
+      "text": "see",
+      "start": 84.44,
+      "end": 84.76,
+      "speaker": "A",
+      "ai_probability": "0.27"
+    },
+    {
+      "text": "Never",
+      "start": 85.16,
+      "end": 85.52,
+      "speaker": "A",
+      "ai_probability": "0.17"
+    },
+    {
+      "text": "gonna",
+      "start": 85.52,
+      "end": 85.92,
+      "speaker": "A",
+      "ai_probability": "0.32"
+    },
+    {
+      "text": "give",
+      "start": 85.92,
+      "end": 86.2,
+      "speaker": "A",
+      "ai_probability": "0.30"
+    },
+    {
+      "text": "you",
+      "start": 86.2,
+      "end": 86.6,
+      "speaker": "A",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "up",
+      "start": 86.6,
+      "end": 87,
+      "speaker": "A",
+      "ai_probability": "0.17"
+    },
+    {
+      "text": "never",
+      "start": 87.32,
+      "end": 87.64,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "gonna",
+      "start": 87.64,
+      "end": 88.04,
+      "speaker": "A",
+      "ai_probability": "0.58"
+    },
+    {
+      "text": "let",
+      "start": 88.04,
+      "end": 88.24,
+      "speaker": "A",
+      "ai_probability": "0.76"
+    },
+    {
+      "text": "you",
+      "start": 88.24,
+      "end": 88.6,
+      "speaker": "A",
+      "ai_probability": "0.21"
+    },
+    {
+      "text": "down",
+      "start": 88.68,
+      "end": 89.08,
+      "speaker": "A",
+      "ai_probability": "0.07"
+    },
+    {
+      "text": "Never",
+      "start": 89.4,
+      "end": 89.76,
+      "speaker": "A",
+      "ai_probability": "0.93"
+    },
+    {
+      "text": "gonna",
+      "start": 89.76,
+      "end": 90.16,
+      "speaker": "A",
+      "ai_probability": "0.35"
+    },
+    {
+      "text": "run",
+      "start": 90.16,
+      "end": 90.44,
+      "speaker": "A",
+      "ai_probability": "0.28"
+    },
+    {
+      "text": "around",
+      "start": 90.6,
+      "end": 91,
+      "speaker": "A",
+      "ai_probability": "0.95"
+    },
+    {
+      "text": "and",
+      "start": 91.32,
+      "end": 91.72,
+      "speaker": "A",
+      "ai_probability": "0.29"
+    },
+    {
+      "text": "desert",
+      "start": 91.88,
+      "end": 92.52,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "you",
+      "start": 92.6,
+      "end": 93,
+      "speaker": "A",
+      "ai_probability": "0.51"
+    },
+    {
+      "text": "Never",
+      "start": 93.64,
+      "end": 94,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "gonn",
+      "start": 94,
+      "end": 94.44,
+      "speaker": "A",
+      "ai_probability": "0.40"
+    },
+    {
+      "text": "Never",
+      "start": 95.94,
+      "end": 96.1,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "gonna",
+      "start": 96.1,
+      "end": 96.46,
+      "speaker": "A",
+      "ai_probability": "0.93"
+    },
+    {
+      "text": "say",
+      "start": 96.46,
+      "end": 96.74,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "goodbye",
+      "start": 96.82,
+      "end": 97.62,
+      "speaker": "A",
+      "ai_probability": "0.13"
+    },
+    {
+      "text": "Never",
+      "start": 97.86,
+      "end": 98.18,
+      "speaker": "A",
+      "ai_probability": "0.07"
+    },
+    {
+      "text": "gonna",
+      "start": 98.18,
+      "end": 98.54,
+      "speaker": "A",
+      "ai_probability": "0.49"
+    },
+    {
+      "text": "tell",
+      "start": 98.54,
+      "end": 98.82,
+      "speaker": "A",
+      "ai_probability": "0.43"
+    },
+    {
+      "text": "a",
+      "start": 98.98,
+      "end": 99.3,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "fight",
+      "start": 99.3,
+      "end": 99.62,
+      "speaker": "A",
+      "ai_probability": "0.04"
+    },
+    {
+      "text": "and",
+      "start": 100.26,
+      "end": 100.58,
+      "speaker": "A",
+      "ai_probability": "0.17"
+    },
+    {
+      "text": "hurt",
+      "start": 100.58,
+      "end": 101.1,
+      "speaker": "A",
+      "ai_probability": "0.40"
+    },
+    {
+      "text": "you",
+      "start": 101.1,
+      "end": 101.46,
+      "speaker": "A",
+      "ai_probability": "0.84"
+    },
+    {
+      "text": "Never",
+      "start": 102.1,
+      "end": 102.42,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "gonna",
+      "start": 102.42,
+      "end": 102.78,
+      "speaker": "A",
+      "ai_probability": "0.74"
+    },
+    {
+      "text": "give",
+      "start": 102.78,
+      "end": 103.06,
+      "speaker": "A",
+      "ai_probability": "0.26"
+    },
+    {
+      "text": "you",
+      "start": 103.06,
+      "end": 103.42,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "up",
+      "start": 103.42,
+      "end": 103.78,
+      "speaker": "A",
+      "ai_probability": "0.17"
+    },
+    {
+      "text": "never",
+      "start": 104.18,
+      "end": 104.54,
+      "speaker": "A",
+      "ai_probability": "0.37"
+    },
+    {
+      "text": "gonna",
+      "start": 104.54,
+      "end": 104.94,
+      "speaker": "A",
+      "ai_probability": "0.93"
+    },
+    {
+      "text": "let",
+      "start": 104.94,
+      "end": 105.18,
+      "speaker": "A",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "you",
+      "start": 105.18,
+      "end": 105.54,
+      "speaker": "A",
+      "ai_probability": "0.35"
+    },
+    {
+      "text": "down",
+      "start": 105.54,
+      "end": 105.94,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "Never",
+      "start": 106.34,
+      "end": 106.66,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "gonna",
+      "start": 106.66,
+      "end": 107.02,
+      "speaker": "A",
+      "ai_probability": "0.76"
+    },
+    {
+      "text": "run",
+      "start": 107.02,
+      "end": 107.3,
+      "speaker": "A",
+      "ai_probability": "0.62"
+    },
+    {
+      "text": "around",
+      "start": 107.46,
+      "end": 107.86,
+      "speaker": "A",
+      "ai_probability": "0.93"
+    },
+    {
+      "text": "and",
+      "start": 108.18,
+      "end": 108.58,
+      "speaker": "A",
+      "ai_probability": "0.93"
+    },
+    {
+      "text": "desert",
+      "start": 108.74,
+      "end": 109.38,
+      "speaker": "A",
+      "ai_probability": "0.32"
+    },
+    {
+      "text": "you",
+      "start": 109.46,
+      "end": 109.86,
+      "speaker": "A",
+      "ai_probability": "0.21"
+    },
+    {
+      "text": "Never",
+      "start": 110.5,
+      "end": 110.86,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "gonna",
+      "start": 110.86,
+      "end": 111.26,
+      "speaker": "A",
+      "ai_probability": "0.33"
+    },
+    {
+      "text": "make",
+      "start": 111.26,
+      "end": 111.46,
+      "speaker": "A",
+      "ai_probability": "0.81"
+    },
+    {
+      "text": "you",
+      "start": 111.46,
+      "end": 111.779,
+      "speaker": "A",
+      "ai_probability": "0.52"
+    },
+    {
+      "text": "cry",
+      "start": 111.779,
+      "end": 112.42,
+      "speaker": "A",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "Never",
+      "start": 112.66,
+      "end": 112.98,
+      "speaker": "A",
+      "ai_probability": "0.25"
+    },
+    {
+      "text": "gonna",
+      "start": 112.98,
+      "end": 113.38,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "say",
+      "start": 113.38,
+      "end": 113.7,
+      "speaker": "A",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "goodbye",
+      "start": 113.7,
+      "end": 114.5,
+      "speaker": "A",
+      "ai_probability": "0.32"
+    },
+    {
+      "text": "Never",
+      "start": 114.74,
+      "end": 115.1,
+      "speaker": "A",
+      "ai_probability": "0.57"
+    },
+    {
+      "text": "gonna",
+      "start": 115.1,
+      "end": 115.5,
+      "speaker": "A",
+      "ai_probability": "0.92"
+    },
+    {
+      "text": "tell",
+      "start": 115.5,
+      "end": 115.78,
+      "speaker": "A",
+      "ai_probability": "0.70"
+    },
+    {
+      "text": "a",
+      "start": 115.86,
+      "end": 116.18,
+      "speaker": "A",
+      "ai_probability": "0.85"
+    },
+    {
+      "text": "l",
+      "start": 116.18,
+      "end": 116.5,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "Never",
+      "start": 128.32,
+      "end": 128.52,
+      "speaker": "A",
+      "ai_probability": "0.61"
+    },
+    {
+      "text": "gonna",
+      "start": 128.52,
+      "end": 128.88,
+      "speaker": "A",
+      "ai_probability": "0.74"
+    },
+    {
+      "text": "give",
+      "start": 128.88,
+      "end": 129.08,
+      "speaker": "A",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "Never",
+      "start": 129.08,
+      "end": 129.36,
+      "speaker": "A",
+      "ai_probability": "0.50"
+    },
+    {
+      "text": "gonna",
+      "start": 129.36,
+      "end": 129.68,
+      "speaker": "A",
+      "ai_probability": "0.08"
+    },
+    {
+      "text": "give",
+      "start": 129.68,
+      "end": 129.92,
+      "speaker": "A",
+      "ai_probability": "0.25"
+    },
+    {
+      "text": "Never",
+      "start": 132.4,
+      "end": 132.76,
+      "speaker": "A",
+      "ai_probability": "0.84"
+    },
+    {
+      "text": "gonna",
+      "start": 132.76,
+      "end": 133.12,
+      "speaker": "A",
+      "ai_probability": "0.86"
+    },
+    {
+      "text": "give",
+      "start": 133.12,
+      "end": 133.32,
+      "speaker": "A",
+      "ai_probability": "0.01"
+    },
+    {
+      "text": "Never",
+      "start": 133.32,
+      "end": 133.6,
+      "speaker": "A",
+      "ai_probability": "0.51"
+    },
+    {
+      "text": "gonna",
+      "start": 133.6,
+      "end": 133.92,
+      "speaker": "A",
+      "ai_probability": "0.79"
+    },
+    {
+      "text": "give",
+      "start": 133.92,
+      "end": 134.16,
+      "speaker": "A",
+      "ai_probability": "0.63"
+    },
+    {
+      "text": "We've",
+      "start": 136.64,
+      "end": 137.08,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "known",
+      "start": 137.08,
+      "end": 137.32,
+      "speaker": "A",
+      "ai_probability": "0.22"
+    },
+    {
+      "text": "each",
+      "start": 137.32,
+      "end": 137.6,
+      "speaker": "A",
+      "ai_probability": "0.08"
+    },
+    {
+      "text": "other",
+      "start": 137.6,
+      "end": 137.92,
+      "speaker": "A",
+      "ai_probability": "0.50"
+    },
+    {
+      "text": "for",
+      "start": 138.72,
+      "end": 139.12,
+      "speaker": "A",
+      "ai_probability": "0.58"
+    },
+    {
+      "text": "so",
+      "start": 139.12,
+      "end": 139.44,
+      "speaker": "A",
+      "ai_probability": "0.43"
+    },
+    {
+      "text": "long",
+      "start": 139.44,
+      "end": 139.76,
+      "speaker": "A",
+      "ai_probability": "0.55"
+    },
+    {
+      "text": "your",
+      "start": 140.88,
+      "end": 141.2,
+      "speaker": "A",
+      "ai_probability": "0.85"
+    },
+    {
+      "text": "heart's",
+      "start": 141.2,
+      "end": 141.6,
+      "speaker": "A",
+      "ai_probability": "0.91"
+    },
+    {
+      "text": "been",
+      "start": 141.6,
+      "end": 141.76,
+      "speaker": "A",
+      "ai_probability": "0.59"
+    },
+    {
+      "text": "aching",
+      "start": 141.76,
+      "end": 142.28,
+      "speaker": "A",
+      "ai_probability": "0.62"
+    },
+    {
+      "text": "but",
+      "start": 142.28,
+      "end": 142.64,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "you're",
+      "start": 142.96,
+      "end": 143.32,
+      "speaker": "A",
+      "ai_probability": "0.85"
+    },
+    {
+      "text": "too",
+      "start": 143.32,
+      "end": 143.559,
+      "speaker": "A",
+      "ai_probability": "0.24"
+    },
+    {
+      "text": "shy",
+      "start": 143.559,
+      "end": 143.999,
+      "speaker": "A",
+      "ai_probability": "0.66"
+    },
+    {
+      "text": "to",
+      "start": 144,
+      "end": 144.32,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "say",
+      "start": 144.32,
+      "end": 144.64,
+      "speaker": "A",
+      "ai_probability": "0.50"
+    },
+    {
+      "text": "it's",
+      "start": 144.64,
+      "end": 145.56,
+      "speaker": "A",
+      "ai_probability": "0.96"
+    },
+    {
+      "text": "sad",
+      "start": 145.56,
+      "end": 145.8,
+      "speaker": "A",
+      "ai_probability": "0.93"
+    },
+    {
+      "text": "we",
+      "start": 145.8,
+      "end": 146,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "both",
+      "start": 146,
+      "end": 146.24,
+      "speaker": "A",
+      "ai_probability": "0.52"
+    },
+    {
+      "text": "know",
+      "start": 146.24,
+      "end": 146.48,
+      "speaker": "A",
+      "ai_probability": "0.35"
+    },
+    {
+      "text": "what's",
+      "start": 146.48,
+      "end": 146.84,
+      "speaker": "A",
+      "ai_probability": "0.09"
+    },
+    {
+      "text": "been",
+      "start": 146.84,
+      "end": 147.12,
+      "speaker": "A",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "going",
+      "start": 147.28,
+      "end": 147.68,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "on.",
+      "start": 147.84,
+      "end": 148.24,
+      "speaker": "A",
+      "ai_probability": "0.05"
+    },
+    {
+      "text": "We",
+      "start": 149.36,
+      "end": 149.68,
+      "speaker": "A",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "know",
+      "start": 149.68,
+      "end": 149.92,
+      "speaker": "A",
+      "ai_probability": "0.62"
+    },
+    {
+      "text": "the",
+      "start": 149.92,
+      "end": 150.16,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "game",
+      "start": 150.16,
+      "end": 150.44,
+      "speaker": "A",
+      "ai_probability": "0.94"
+    },
+    {
+      "text": "and",
+      "start": 150.44,
+      "end": 150.72,
+      "speaker": "A",
+      "ai_probability": "0.47"
+    },
+    {
+      "text": "we're",
+      "start": 150.72,
+      "end": 151.2,
+      "speaker": "A",
+      "ai_probability": "0.64"
+    },
+    {
+      "text": "gonna",
+      "start": 151.52,
+      "end": 152.08,
+      "speaker": "A",
+      "ai_probability": "0.62"
+    },
+    {
+      "text": "play",
+      "start": 152.08,
+      "end": 152.4,
+      "speaker": "A",
+      "ai_probability": "0.12"
+    },
+    {
+      "text": "it.",
+      "start": 152.56,
+      "end": 152.96,
+      "speaker": "A",
+      "ai_probability": "0.47"
+    },
+    {
+      "text": "I",
+      "start": 153.52,
+      "end": 153.92,
+      "speaker": "A",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "just",
+      "start": 154.64,
+      "end": 154.96,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "wanna",
+      "start": 154.96,
+      "end": 155.48,
+      "speaker": "A",
+      "ai_probability": "0.68"
+    },
+    {
+      "text": "tell",
+      "start": 155.48,
+      "end": 155.68,
+      "speaker": "A",
+      "ai_probability": "0.39"
+    },
+    {
+      "text": "you",
+      "start": 155.68,
+      "end": 155.96,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "how",
+      "start": 155.96,
+      "end": 156.24,
+      "speaker": "A",
+      "ai_probability": "0.49"
+    },
+    {
+      "text": "I'm",
+      "start": 156.24,
+      "end": 156.64,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "feel",
+      "start": 156.64,
+      "end": 156.96,
+      "speaker": "A",
+      "ai_probability": "0.07"
+    },
+    {
+      "text": "understand",
+      "start": 160.22,
+      "end": 160.46,
+      "speaker": "A",
+      "ai_probability": "0.18"
+    },
+    {
+      "text": "Never",
+      "start": 161.18,
+      "end": 161.54,
+      "speaker": "A",
+      "ai_probability": "0.70"
+    },
+    {
+      "text": "gonna",
+      "start": 161.54,
+      "end": 161.94,
+      "speaker": "A",
+      "ai_probability": "0.22"
+    },
+    {
+      "text": "give",
+      "start": 161.94,
+      "end": 162.18,
+      "speaker": "A",
+      "ai_probability": "0.66"
+    },
+    {
+      "text": "you",
+      "start": 162.18,
+      "end": 162.54,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "up",
+      "start": 162.62,
+      "end": 163.02,
+      "speaker": "A",
+      "ai_probability": "0.10"
+    },
+    {
+      "text": "never",
+      "start": 163.18,
+      "end": 163.58,
+      "speaker": "A",
+      "ai_probability": "0.21"
+    },
+    {
+      "text": "gonna",
+      "start": 163.58,
+      "end": 164.02,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "let",
+      "start": 164.02,
+      "end": 164.26,
+      "speaker": "A",
+      "ai_probability": "0.78"
+    },
+    {
+      "text": "you",
+      "start": 164.26,
+      "end": 164.62,
+      "speaker": "A",
+      "ai_probability": "0.70"
+    },
+    {
+      "text": "down",
+      "start": 164.7,
+      "end": 165.1,
+      "speaker": "A",
+      "ai_probability": "0.07"
+    },
+    {
+      "text": "Never",
+      "start": 165.42,
+      "end": 165.78,
+      "speaker": "A",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "gonna",
+      "start": 165.78,
+      "end": 166.18,
+      "speaker": "A",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "run",
+      "start": 166.18,
+      "end": 166.46,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "around",
+      "start": 166.62,
+      "end": 167.02,
+      "speaker": "A",
+      "ai_probability": "0.96"
+    },
+    {
+      "text": "and",
+      "start": 167.34,
+      "end": 167.74,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "desert",
+      "start": 167.82,
+      "end": 168.54,
+      "speaker": "A",
+      "ai_probability": "0.48"
+    },
+    {
+      "text": "you",
+      "start": 168.62,
+      "end": 169.02,
+      "speaker": "A",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "Never",
+      "start": 169.66,
+      "end": 169.98,
+      "speaker": "A",
+      "ai_probability": "0.37"
+    },
+    {
+      "text": "gonna",
+      "start": 169.98,
+      "end": 170.34,
+      "speaker": "A",
+      "ai_probability": "0.72"
+    },
+    {
+      "text": "make",
+      "start": 170.34,
+      "end": 170.62,
+      "speaker": "A",
+      "ai_probability": "0.20"
+    },
+    {
+      "text": "you",
+      "start": 170.62,
+      "end": 170.98,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "cry",
+      "start": 170.98,
+      "end": 171.5,
+      "speaker": "A",
+      "ai_probability": "0.59"
+    },
+    {
+      "text": "I'm",
+      "start": 171.82,
+      "end": 172.22,
+      "speaker": "A",
+      "ai_probability": "0.32"
+    },
+    {
+      "text": "gonna",
+      "start": 172.22,
+      "end": 172.5,
+      "speaker": "A",
+      "ai_probability": "0.64"
+    },
+    {
+      "text": "say",
+      "start": 172.5,
+      "end": 172.78,
+      "speaker": "A",
+      "ai_probability": "0.43"
+    },
+    {
+      "text": "goodbye",
+      "start": 172.86,
+      "end": 173.58,
+      "speaker": "A",
+      "ai_probability": "0.88"
+    },
+    {
+      "text": "Never",
+      "start": 173.9,
+      "end": 174.22,
+      "speaker": "A",
+      "ai_probability": "0.60"
+    },
+    {
+      "text": "gonna",
+      "start": 174.22,
+      "end": 174.58,
+      "speaker": "A",
+      "ai_probability": "0.15"
+    },
+    {
+      "text": "tell",
+      "start": 174.58,
+      "end": 174.86,
+      "speaker": "A",
+      "ai_probability": "0.29"
+    },
+    {
+      "text": "a",
+      "start": 174.94,
+      "end": 175.22,
+      "speaker": "A",
+      "ai_probability": "0.40"
+    },
+    {
+      "text": "lie",
+      "start": 175.22,
+      "end": 175.899,
+      "speaker": "A",
+      "ai_probability": "0.47"
+    },
+    {
+      "text": "and",
+      "start": 176.3,
+      "end": 176.62,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "hurt",
+      "start": 176.62,
+      "end": 177.1,
+      "speaker": "A",
+      "ai_probability": "0.03"
+    },
+    {
+      "text": "you",
+      "start": 177.1,
+      "end": 177.5,
+      "speaker": "A",
+      "ai_probability": "0.46"
+    },
+    {
+      "text": "Never",
+      "start": 178.06,
+      "end": 178.42,
+      "speaker": "A",
+      "ai_probability": "0.36"
+    },
+    {
+      "text": "gonna",
+      "start": 178.42,
+      "end": 178.82,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "give",
+      "start": 178.82,
+      "end": 179.1,
+      "speaker": "A",
+      "ai_probability": "0.63"
+    },
+    {
+      "text": "you",
+      "start": 179.1,
+      "end": 179.5,
+      "speaker": "A",
+      "ai_probability": "0.12"
+    },
+    {
+      "text": "up",
+      "start": 179.5,
+      "end": 179.9,
+      "speaker": "A",
+      "ai_probability": "0.52"
+    },
+    {
+      "text": "never",
+      "start": 180.14,
+      "end": 180.54,
+      "speaker": "A",
+      "ai_probability": "0.60"
+    },
+    {
+      "text": "gonna",
+      "start": 180.54,
+      "end": 180.94,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "let",
+      "start": 180.94,
+      "end": 181.18,
+      "speaker": "A",
+      "ai_probability": "0.75"
+    },
+    {
+      "text": "you",
+      "start": 181.18,
+      "end": 181.58,
+      "speaker": "A",
+      "ai_probability": "0.55"
+    },
+    {
+      "text": "down",
+      "start": 181.58,
+      "end": 181.98,
+      "speaker": "A",
+      "ai_probability": "0.03"
+    },
+    {
+      "text": "Never",
+      "start": 182.3,
+      "end": 182.66,
+      "speaker": "A",
+      "ai_probability": "0.96"
+    },
+    {
+      "text": "gonna",
+      "start": 182.66,
+      "end": 183.06,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "run",
+      "start": 183.06,
+      "end": 183.34,
+      "speaker": "A",
+      "ai_probability": "0.65"
+    },
+    {
+      "text": "around",
+      "start": 183.5,
+      "end": 183.9,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "and",
+      "start": 184.22,
+      "end": 184.62,
+      "speaker": "A",
+      "ai_probability": "0.99"
+    },
+    {
+      "text": "desert",
+      "start": 184.7,
+      "end": 185.42,
+      "speaker": "A",
+      "ai_probability": "0.16"
+    },
+    {
+      "text": "you",
+      "start": 185.5,
+      "end": 185.9,
+      "speaker": "A",
+      "ai_probability": "0.68"
+    },
+    {
+      "text": "Never",
+      "start": 186.54,
+      "end": 186.9,
+      "speaker": "A",
+      "ai_probability": "0.04"
+    },
+    {
+      "text": "gonna",
+      "start": 186.9,
+      "end": 187.3,
+      "speaker": "A",
+      "ai_probability": "0.22"
+    },
+    {
+      "text": "make",
+      "start": 187.3,
+      "end": 187.54,
+      "speaker": "A",
+      "ai_probability": "0.92"
+    },
+    {
+      "text": "you",
+      "start": 187.54,
+      "end": 187.9,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "cry",
+      "start": 187.9,
+      "end": 188.46,
+      "speaker": "A",
+      "ai_probability": "0.73"
+    },
+    {
+      "text": "Never",
+      "start": 188.62,
+      "end": 188.98,
+      "speaker": "A",
+      "ai_probability": "0.53"
+    },
+    {
+      "text": "gon",
+      "start": 188.98,
+      "end": 189.5,
+      "speaker": "A",
+      "ai_probability": "0.69"
+    },
+    {
+      "text": "tell",
+      "start": 191.56,
+      "end": 191.8,
+      "speaker": "A",
+      "ai_probability": "0.21"
+    },
+    {
+      "text": "a",
+      "start": 191.88,
+      "end": 192.2,
+      "speaker": "A",
+      "ai_probability": "0.58"
+    },
+    {
+      "text": "lie",
+      "start": 192.2,
+      "end": 192.68,
+      "speaker": "A",
+      "ai_probability": "0.15"
+    },
+    {
+      "text": "and",
+      "start": 193.16,
+      "end": 193.52,
+      "speaker": "A",
+      "ai_probability": "0.14"
+    },
+    {
+      "text": "hurt",
+      "start": 193.52,
+      "end": 194.04,
+      "speaker": "A",
+      "ai_probability": "0.02"
+    },
+    {
+      "text": "you",
+      "start": 194.04,
+      "end": 194.44,
+      "speaker": "A",
+      "ai_probability": "0.91"
+    },
+    {
+      "text": "Never",
+      "start": 195,
+      "end": 195.36,
+      "speaker": "A",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "going",
+      "start": 195.36,
+      "end": 195.6,
+      "speaker": "A",
+      "ai_probability": "0.95"
+    },
+    {
+      "text": "to",
+      "start": 195.6,
+      "end": 195.76,
+      "speaker": "A",
+      "ai_probability": "0.12"
+    },
+    {
+      "text": "give",
+      "start": 195.76,
+      "end": 196,
+      "speaker": "A",
+      "ai_probability": "0.74"
+    },
+    {
+      "text": "you",
+      "start": 196,
+      "end": 196.36,
+      "speaker": "A",
+      "ai_probability": "0.66"
+    },
+    {
+      "text": "up",
+      "start": 196.44,
+      "end": 196.84,
+      "speaker": "A",
+      "ai_probability": "0.41"
+    },
+    {
+      "text": "Never",
+      "start": 197.08,
+      "end": 197.44,
+      "speaker": "A",
+      "ai_probability": "0.82"
+    },
+    {
+      "text": "going",
+      "start": 197.44,
+      "end": 197.68,
+      "speaker": "A",
+      "ai_probability": "0.90"
+    },
+    {
+      "text": "to",
+      "start": 197.68,
+      "end": 197.84,
+      "speaker": "A",
+      "ai_probability": "0.51"
+    },
+    {
+      "text": "let",
+      "start": 197.84,
+      "end": 198.08,
+      "speaker": "A",
+      "ai_probability": "0.20"
+    },
+    {
+      "text": "you",
+      "start": 198.08,
+      "end": 198.44,
+      "speaker": "A",
+      "ai_probability": "0.01"
+    },
+    {
+      "text": "down",
+      "start": 198.52,
+      "end": 198.92,
+      "speaker": "A",
+      "ai_probability": "0.11"
+    },
+    {
+      "text": "Never",
+      "start": 199.24,
+      "end": 199.6,
+      "speaker": "A",
+      "ai_probability": "0.41"
+    },
+    {
+      "text": "going",
+      "start": 199.6,
+      "end": 199.84,
+      "speaker": "A",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "to",
+      "start": 199.84,
+      "end": 200,
+      "speaker": "A",
+      "ai_probability": "0.31"
+    },
+    {
+      "text": "run",
+      "start": 200,
+      "end": 200.28,
+      "speaker": "A",
+      "ai_probability": "0.77"
+    },
+    {
+      "text": "around",
+      "start": 200.44,
+      "end": 200.84,
+      "speaker": "A",
+      "ai_probability": "0.80"
+    },
+    {
+      "text": "and",
+      "start": 201.16,
+      "end": 201.56,
+      "speaker": "A",
+      "ai_probability": "0.27"
+    },
+    {
+      "text": "desert",
+      "start": 201.64,
+      "end": 202.36,
+      "speaker": "A",
+      "ai_probability": "0.55"
+    },
+    {
+      "text": "you",
+      "start": 202.44,
+      "end": 202.84,
+      "speaker": "A",
+      "ai_probability": "0.71"
+    },
+    {
+      "text": "Never",
+      "start": 203.4,
+      "end": 203.76,
+      "speaker": "A",
+      "ai_probability": "0.98"
+    },
+    {
+      "text": "going",
+      "start": 203.76,
+      "end": 204,
+      "speaker": "A",
+      "ai_probability": "0.35"
+    },
+    {
+      "text": "to",
+      "start": 204,
+      "end": 204.16,
+      "speaker": "A",
+      "ai_probability": "0.63"
+    },
+    {
+      "text": "make",
+      "start": 204.16,
+      "end": 204.4,
+      "speaker": "A",
+      "ai_probability": "0.66"
+    },
+    {
+      "text": "you",
+      "start": 204.4,
+      "end": 204.76,
+      "speaker": "A",
+      "ai_probability": "0.06"
+    },
+    {
+      "text": "cry",
+      "start": 204.76,
+      "end": 205.32,
+      "speaker": "A",
+      "ai_probability": "0.40"
+    },
+    {
+      "text": "Never",
+      "start": 205.56,
+      "end": 205.92,
+      "speaker": "A",
+      "ai_probability": "0.83"
+    },
+    {
+      "text": "going",
+      "start": 205.92,
+      "end": 206.16,
+      "speaker": "A",
+      "ai_probability": "0.40"
+    },
+    {
+      "text": "to",
+      "start": 206.16,
+      "end": 206.32,
+      "speaker": "A",
+      "ai_probability": "0.99"
+    },
+    {
+      "text": "say",
+      "start": 206.32,
+      "end": 206.6,
+      "speaker": "A",
+      "ai_probability": "0.38"
+    },
+    {
+      "text": "goodbye",
+      "start": 206.6,
+      "end": 207.4,
+      "speaker": "A",
+      "ai_probability": "0.64"
+    },
+    {
+      "text": "Never",
+      "start": 207.64,
+      "end": 208,
+      "speaker": "A",
+      "ai_probability": "0.97"
+    },
+    {
+      "text": "going",
+      "start": 208,
+      "end": 208.24,
+      "speaker": "A",
+      "ai_probability": "0.93"
+    },
+    {
+      "text": "to.",
+      "start": 208.24,
+      "end": 208.52,
+      "speaker": "A",
+      "ai_probability": "0.59"
+    }
+  ]
+}
